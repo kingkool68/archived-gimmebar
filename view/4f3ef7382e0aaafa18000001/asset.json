@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f3ef7382e0aaafa18000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1327365616130
+            }, 
+            "display": {
+                "dims": {
+                    "h": "900", 
+                    "w": "900"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7DFDE588-7779-4599-A313-E1F0AAE858B1"
+            }, 
+            "postback_key": "29b93af154a01bd0a24a338cf46862bf", 
+            "request_time": {
+                "$date": 1327365657210
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/72602FA6-4C71-40FE-AEE6-BF4237C3C6CA"
+            }
+        }, 
+        "url": "http://farm8.staticflickr.com/7028/6679341493_3546fc604c_b.jpg"
+    }, 
+    "date": {
+        "$date": 1329526584541
+    }, 
+    "description": "Urban minimalism.", 
+    "from_backup": false, 
+    "media_hash": "5f89727f9325d5b1823060a51dac6601286471", 
+    "mime_type": "image/jpeg", 
+    "name": "6679341493_3546fc604c_b.jpg (900\u00d7900)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 286471, 
+    "source": "http://farm8.staticflickr.com/7028/6679341493_3546fc604c_b.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f1dfe18bfd70.jpg", 
+    "tags": [], 
+    "url_token": "s2lY"
+}

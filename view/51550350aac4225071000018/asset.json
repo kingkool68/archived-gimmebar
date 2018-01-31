@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51550350aac4225071000018"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1364525952187
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/6BD08D0F-5BFA-404A-B6BF-CB5ADDC3552E"
+            }, 
+            "postback_key": "303a74a9a8f2dfcd3f049503f4b72c90", 
+            "request_time": {
+                "$date": 1364525904246
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/FA6028F1-E688-4A69-BA19-624DB0D6B5E6"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/91533096-D4B7-4B10-9544-01C928B7049F"
+            }
+        }, 
+        "url": "http://lifeandthyme.com/essay/of-simplicity-and-refried-beans/"
+    }, 
+    "date": {
+        "$date": 1364525904250
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "71f8355a1dad3ac80a197c31bfd05a3b22020", 
+    "mime_type": "text/html", 
+    "name": "Of Simplicity and Refried Beans | Life & Thyme", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 22020, 
+    "source": "http://lifeandthyme.com/essay/of-simplicity-and-refried-beans/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5155034fe9d28.html", 
+    "tags": [], 
+    "url_token": "arl9t"
+}

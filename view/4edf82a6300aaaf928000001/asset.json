@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4edf82a6300aaaf928000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1321635832146
+            }, 
+            "display": {
+                "dims": {
+                    "h": "658", 
+                    "w": "990"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/78F3D742-8EBA-4D6E-82EC-E9FA0F1BFF2E"
+            }, 
+            "postback_key": "75bb2927ab85d9dd09d4c765e56c11d1", 
+            "request_time": {
+                "$date": 1321635874663
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BE4F5236-5AD0-4981-8BEC-64A8DEE320A4"
+            }
+        }, 
+        "url": "http://inapcache.boston.com/universal/site_graphics/blogs/bigpicture/ngmphotocontest_111811/bp51.jpg"
+    }, 
+    "date": {
+        "$date": 1323270822759
+    }, 
+    "description": "high speed", 
+    "from_backup": false, 
+    "media_hash": "66d3e89f60d708d28d231c78c722ea24417009", 
+    "mime_type": "image/jpeg", 
+    "name": "Street car scene", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 417009, 
+    "source": "http://www.boston.com/bigpicture/2011/11/national_geographic_photo_cont.html", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ec6902253962.jpg", 
+    "tags": [], 
+    "url_token": "ivBe"
+}

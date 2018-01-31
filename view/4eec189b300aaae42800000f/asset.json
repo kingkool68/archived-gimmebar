@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eec189b300aaae42800000f"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1323434224798
+            }, 
+            "display": {
+                "dims": {
+                    "h": "750", 
+                    "w": "700"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/76DD659D-FFCF-4B67-9F8F-037A9C0BAF27"
+            }, 
+            "postback_key": "aa38746881014cbba7abce2841aa0d40", 
+            "request_time": {
+                "$date": 1323434286955
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "311", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CD849922-2A2A-4758-8300-1ED927C14DED"
+            }
+        }, 
+        "url": "http://robbailey.co.uk/i/uploads/portfolio/romans_1322647641.jpg"
+    }, 
+    "date": {
+        "$date": 1324095643923
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "07c0ec9002890ccd9a30f18563792946103927", 
+    "mime_type": "image/jpeg", 
+    "name": "romans_1322647641.jpg (700\u00d7750)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 103927, 
+    "source": "http://robbailey.co.uk/i/uploads/portfolio/romans_1322647641.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ee2012e9b5c8.jpg", 
+    "tags": [], 
+    "url_token": "j6Jj"
+}

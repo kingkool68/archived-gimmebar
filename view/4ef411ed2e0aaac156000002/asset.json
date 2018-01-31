@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ef411ed2e0aaac156000002"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324618222882
+            }, 
+            "display": {
+                "dims": {
+                    "h": "643", 
+                    "w": "968"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/85745E93-FBA3-408A-96B5-9EC1C92AB06A"
+            }, 
+            "postback_key": "66072d001f6be9fdd711046beda1acb3", 
+            "request_time": {
+                "$date": 1324618221289
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3A5A687A-4BBC-4675-9413-A901A3C89369"
+            }
+        }, 
+        "url": "http://i.dailymail.co.uk/i/pix/2011/12/22/article-2077382-0F400E8500000578-497_968x643.jpg"
+    }, 
+    "date": {
+        "$date": 1324618221327
+    }, 
+    "description": "The Hunt, by Stefano Pesarelli received honorable mention for its natural use of panning and balance in its capture of a scene at the Masai Mara National Reserve in Kenya\n\nRead more: http://www.dailymail.co.uk/sciencetech/article-2077382/National-Geographic-photo-contest-2011-Winners-capture-stunning-images-nature.html#ixzz1hKhT1X00", 
+    "from_backup": false, 
+    "media_hash": "cdb0993841d65171cfdd8e33115b808258805", 
+    "mime_type": "image/jpeg", 
+    "name": "National Geographic photo contest 2011: Winners capture stunning images of nature | Mail Online", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 58805, 
+    "source": "http://www.dailymail.co.uk/sciencetech/article-2077382/National-Geographic-photo-contest-2011-Winners-capture-stunning-images-nature.html", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ef411ecd03ee.jpg", 
+    "tags": [], 
+    "url_token": "kRRz"
+}

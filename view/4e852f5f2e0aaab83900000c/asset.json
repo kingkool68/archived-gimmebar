@@ -1,0 +1,52 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e852f5f2e0aaab83900000c"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317351265520
+            }, 
+            "display": {
+                "dims": {
+                    "h": "700", 
+                    "w": "520"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CEA8CA1B-80FE-4D45-9882-80B02F867E8D"
+            }, 
+            "postback_key": "993511d9124cd593c2f60c659ca9ddaa", 
+            "request_time": {
+                "$date": 1317351263473
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "390", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4D62B849-79C9-487D-BCF5-E2110B66CC5E"
+            }
+        }, 
+        "url": "http://3.bp.blogspot.com/_0tA5dmNlUGY/SmzsCBYUaDI/AAAAAAAAEls/6fesiSV_pA4/s700/scan011.jpg"
+    }, 
+    "date": {
+        "$date": 1317351263474
+    }, 
+    "description": "#mad-scientist kids book illustrations", 
+    "media_hash": "ca9d7246f853e95d93d2dcbbe6bb5aff108388", 
+    "mime_type": "image/jpeg", 
+    "name": "Vintage Kids' Books My Kid Loves: Moon Man ~ Guest Post by Gillian Fassel", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 108388, 
+    "source": "http://www.vintagechildrensbooksmykidloves.com/2009/07/moon-man-guest-post-by-gillian-fassel.html", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e852f5f0af56.jpg", 
+    "tags": [
+        "mad"
+    ], 
+    "url_token": "a3pj"
+}

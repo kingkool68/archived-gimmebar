@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51002f3e29ca152f40000012"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 506, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1358966591235
+            }, 
+            "display": {
+                "dims": {
+                    "h": "506", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/19C367B5-1632-4F1D-BF3D-A7D1F74B600B"
+            }, 
+            "postback_key": "4999cc3f275ad468bb0ac49d5e9ebce1", 
+            "request_time": {
+                "$date": 1358966590273
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "237", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8CE2158F-4A77-4666-9147-97EA502F93FF"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/01/strangefruits-5.jpg"
+    }, 
+    "date": {
+        "$date": 1358966590305
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "070b5aaa339ddad5ddfe11478e3879c643297", 
+    "mime_type": "image/jpeg", 
+    "name": "Clever Conceptual Photographs of Fruits and Vegetables", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 43297, 
+    "source": "http://www.petapixel.com/2013/01/23/clever-conceptual-photographs-of-fruits-and-vegetables/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51002f3de4048.jpg", 
+    "tags": [], 
+    "url_token": "ahrZk"
+}

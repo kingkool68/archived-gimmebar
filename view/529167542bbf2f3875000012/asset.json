@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "529167542bbf2f3875000012"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 601, 
+            "w": 550
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2013/11/fish_13.jpg"
+    }, 
+    "date": {
+        "$date": 1385260884800
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "5d309a1194f316c469927059f072984c134685", 
+    "mime_type": "image/jpeg", 
+    "name": "Photo Series Captures the Stunning Beauty of Siamese Fighting Fish", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 134685, 
+    "source": "http://petapixel.com/2013/11/23/macro-photos-capture-stunning-beauty-siamese-fighting-fish/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/52916754b3733.jpg", 
+    "tags": [], 
+    "url_token": "aVWzX"
+}

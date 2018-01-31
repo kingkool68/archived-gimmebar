@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5154451929ca15da7e000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1600, 
+            "w": 1200
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364477211468
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "750"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BEF676A5-EC00-4FBD-B622-6ECF6CA616CE"
+            }, 
+            "postback_key": "655120455dcc0a63dec0a395ef1c7230", 
+            "request_time": {
+                "$date": 1364477209544
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "387", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/31697A93-1468-43DA-83C9-3A0379E24649"
+            }
+        }, 
+        "url": "http://24.media.tumblr.com/tumblr_m8gguhzLUR1r4j1uqo1_1280.jpg"
+    }, 
+    "date": {
+        "$date": 1364477209589
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "ecb52230c96074dd63b1a236a5f42e7d136449", 
+    "mime_type": "image/jpeg", 
+    "name": "", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 136449, 
+    "source": "http://carlythatsallfoulkes.tumblr.com/image/29786307448", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5154451936a5d.jpg", 
+    "tags": [], 
+    "url_token": "argKb"
+}

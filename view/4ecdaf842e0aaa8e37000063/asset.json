@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdaf842e0aaa8e37000063"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1321975778927
+            }, 
+            "display": {
+                "dims": {
+                    "h": "500", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D091BFEB-F15D-4F8D-990E-DFC431D715D6"
+            }, 
+            "postback_key": "55746db30b25849e080955f42f60b29f", 
+            "request_time": {
+                "$date": 1321975824314
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "363", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B1AFDE5E-35C1-4AAB-BBF7-67514553A9ED"
+            }
+        }, 
+        "url": "http://imprint.printmag.com/wp-content/uploads/10.10_400.jpg"
+    }, 
+    "copy_of": "4ecbc010300aaab97b000003", 
+    "date": {
+        "$date": 1322102660800
+    }, 
+    "description": "", 
+    "media_hash": "8aaf8146a460d9a96726d7e5dad39a4742959", 
+    "mime_type": "image/jpeg", 
+    "name": "10.10_400.jpg (400\u00d7500)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 42959, 
+    "source": "http://imprint.printmag.com/wp-content/uploads/10.10_400.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecbc00feb1f1.jpg", 
+    "tags": [], 
+    "url_token": "f32w"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ef2991f2f0aaad974000062"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324472997430
+            }, 
+            "display": {
+                "dims": {
+                    "h": "388", 
+                    "w": "520"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B3BB8925-0A40-4A55-A6C0-9C627D90A929"
+            }, 
+            "postback_key": "7f48605c9eb6f74c6635afaf10f306ba", 
+            "request_time": {
+                "$date": 1324472998418
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "216", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/271F0EE3-F76D-4C3E-AD1D-D138891A53D7"
+            }
+        }, 
+        "url": "http://www.howtobearetronaut.com/wp-content/uploads/2011/02/A-mid-winter-glow-Weddell-Sea-showing-The-Endurance-1915-520x388.jpg"
+    }, 
+    "date": {
+        "$date": 1324521759893
+    }, 
+    "description": "Ship at sea in ice.", 
+    "from_backup": false, 
+    "media_hash": "501ae2cc3eadb2295aacf53977d546b058127", 
+    "mime_type": "image/jpeg", 
+    "name": "A-mid-winter-glow-Weddell-Sea-showing-The-Endurance-1915-520x388.jpg (520\u00d7388)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 58127, 
+    "source": "http://www.retronaut.co/wp-content/uploads/2011/02/A-mid-winter-glow-Weddell-Sea-showing-The-Endurance-1915-520x388.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ef1daa61078e.jpg", 
+    "tags": [], 
+    "url_token": "kIhU"
+}

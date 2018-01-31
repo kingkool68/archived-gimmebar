@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5b662e0aaa3947000013"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324047281276
+            }, 
+            "display": {
+                "dims": {
+                    "h": "398", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A5B5B826-8B6A-4580-A3D7-40A34D3C7BFB"
+            }, 
+            "postback_key": "d3405446735bddc4a3d2f911371397d3", 
+            "request_time": {
+                "$date": 1324047206212
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "231", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7D6AEB1E-EC30-4F2E-940E-2D434FAC9E97"
+            }
+        }, 
+        "url": "http://29.media.tumblr.com/tumblr_lv9i2kbp7z1r1buado1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1324047206217
+    }, 
+    "description": "#octopus with bright colors", 
+    "from_backup": false, 
+    "media_hash": "c713f0e13888957676f5a19a88954e62138727", 
+    "mime_type": "image/jpeg", 
+    "name": "bjornstar.com - Page 2", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 138727, 
+    "source": "http://bjornstar.com/page/2", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eeb5b65cdd94.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "j0wg"
+}

@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbe5d22e0aaaba7a000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325131226917
+            }, 
+            "display": {
+                "dims": {
+                    "h": "477", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0B42372C-B8F6-4CE9-ADBA-DCF8A073C15F"
+            }, 
+            "postback_key": "0c2739af073053b043a021babef22e3f", 
+            "request_time": {
+                "$date": 1325131218723
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "277", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/236DB2DF-A652-4DE8-9721-43BBA9836C47"
+            }
+        }, 
+        "url": "http://media-cdn.pinterest.com/upload/68257750571810938_m8AvqRAk_c.jpg"
+    }, 
+    "date": {
+        "$date": 1325131218731
+    }, 
+    "description": "Ink #octopus", 
+    "from_backup": false, 
+    "media_hash": "46c35b39298d6a980699fe365437c09790504", 
+    "mime_type": "image/jpeg", 
+    "name": "Doodles. / undefined", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 90504, 
+    "source": "http://pinterest.com/pin/68257750571810938/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbe5d2424d9.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "lpRW"
+}

@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f3dd3972e0aaab53d00000a"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329452078311
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/142E03B4-33E2-4D7B-B068-F28795ACCED3"
+            }, 
+            "postback_key": "07c7f05a7610e588b581d4b66859167b", 
+            "request_time": {
+                "$date": 1329451927549
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "283", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/672DB240-8D5B-46F6-9E4A-5616B33896D1"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/C3A67BFA-E5D5-441D-A645-1922F7B25A82"
+            }
+        }, 
+        "url": "http://www.onepausepoetry.org/"
+    }, 
+    "date": {
+        "$date": 1329451927552
+    }, 
+    "description": "Subtle muted colors. Simple layout.", 
+    "from_backup": false, 
+    "media_hash": "8b8320445798e445114511f7da4e5e8b37976", 
+    "mime_type": "text/html", 
+    "name": "One Pause Poetry", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 37976, 
+    "source": "http://www.onepausepoetry.org/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f3dd3973d550.html", 
+    "tags": [], 
+    "url_token": "sSwJ"
+}

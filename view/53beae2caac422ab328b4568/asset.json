@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "53beae2caac422ab328b4568"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 423, 
+            "w": 620
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2014/07/holding2.jpg"
+    }, 
+    "date": {
+        "$date": 1405005356765
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "a484cd4c66e16f67479b6b9c4d84b02f269862", 
+    "mime_type": "image/jpeg", 
+    "name": "Holding Pattern: Satellite Images Reveal the Intricately Patterned World of Airports", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 269862, 
+    "source": "http://petapixel.com/2014/07/10/holding-pattern-satellite-images-reveal-intricately-patterned-world-airports/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/53beae2c9dc3a.jpg", 
+    "tags": [], 
+    "url_token": "bgEs6"
+}

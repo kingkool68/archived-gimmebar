@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f021d9b300aaac92d000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325538717513
+            }, 
+            "display": {
+                "dims": {
+                    "h": "625", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9190AFF7-E938-4A78-B8AA-CD4FE8BA5CD7"
+            }, 
+            "postback_key": "7b89a7d12d052b5a3399a05576c53184", 
+            "request_time": {
+                "$date": 1325538715545
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "363", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/28BA4EA2-B757-4ECD-BFE2-6548C3802F45"
+            }
+        }, 
+        "url": "http://24.media.tumblr.com/tumblr_lj8fwiKDqX1qz9v0to1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1325538715659
+    }, 
+    "description": "Skull.", 
+    "from_backup": false, 
+    "media_hash": "299716e52f1bb4dc56d47005e2fbe99f85961", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_lj8fwiKDqX1qz9v0to1_500.jpg (500\u00d7625)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 85961, 
+    "source": "http://24.media.tumblr.com/tumblr_lj8fwiKDqX1qz9v0to1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f021d9b37765.jpg", 
+    "tags": [], 
+    "url_token": "lUk7"
+}

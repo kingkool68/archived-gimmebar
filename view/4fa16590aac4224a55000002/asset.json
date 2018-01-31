@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4fa16590aac4224a55000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1335611111222
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/38F6F9B5-F8B8-47A9-89E8-0055B473E32C"
+            }, 
+            "postback_key": "9d874fd167d92407b75fcda95edb50a4", 
+            "request_time": {
+                "$date": 1335611028254
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/53C74B03-AC53-4C92-957A-46AAC203E7F1"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/CC3D476C-C280-4A80-9A78-E6EA1DBED9D9"
+            }
+        }, 
+        "url": "http://aworkinglibrary.com/library/archives/markup/"
+    }, 
+    "copy_of": "4f9bce9429ca15314d000003", 
+    "date": {
+        "$date": 1335977360623
+    }, 
+    "description": "", 
+    "media_hash": "d47f48bfa4811b682c0503c58ce8027012982", 
+    "mime_type": "text/html", 
+    "name": "Markup / from a working library", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 12982, 
+    "source": "http://aworkinglibrary.com/library/archives/markup/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f9bce93db8c6.html", 
+    "tags": [], 
+    "url_token": "Fihf"
+}

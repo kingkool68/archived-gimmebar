@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "512bb12329ca150210000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 483, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1361817892912
+            }, 
+            "display": {
+                "dims": {
+                    "h": "483", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9C390002-C444-4184-BE3F-A331B10F0C48"
+            }, 
+            "postback_key": "0ccd35e0eb7d574cac19cdbd1d05c1da", 
+            "request_time": {
+                "$date": 1361817891882
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "226", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D65F7DCB-0A5E-4B6E-B8D5-CF011D7567B2"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/02/kevincooley_lightsedge-6.jpg"
+    }, 
+    "date": {
+        "$date": 1361817891926
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "89b64122a74e074ba60e215e859292f836818", 
+    "mime_type": "image/jpeg", 
+    "name": "Long-Exposure Photos of Light Rising Up from Snowy Landscapes", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 36818, 
+    "source": "http://www.petapixel.com/2013/02/25/long-exposure-photos-of-light-rising-up-from-snowy-landscapes/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/512bb122d3e35.jpg", 
+    "tags": [], 
+    "url_token": "amBlC"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ed8335a2f0aaafc4b000075"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322791679316
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "762"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D2677635-0F1F-4AF5-82FF-A439A411A864"
+            }, 
+            "postback_key": "0ca35a32f5ed80e0bfe8c86dfcb66101", 
+            "request_time": {
+                "$date": 1322791770602
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "381", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F5042DD6-1E31-4FEE-A4FC-E812DEB80F59"
+            }
+        }, 
+        "url": "http://soopernoodles.files.wordpress.com/2010/11/simplistic-v.png"
+    }, 
+    "date": {
+        "$date": 1322791770783
+    }, 
+    "description": "Minimal simplistic ", 
+    "from_backup": false, 
+    "media_hash": "94c79eb29ec3c00872a9252dd0f718e5368747", 
+    "mime_type": "image/png", 
+    "name": "simplistic-v.png (PNG Image, 800x1050 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 368747, 
+    "source": "http://soopernoodles.files.wordpress.com/2010/11/simplistic-v.png", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ed8335a42f2c.png", 
+    "tags": [], 
+    "url_token": "hmad"
+}

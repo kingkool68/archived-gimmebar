@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5271617f2bbf2f1e56000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1524, 
+            "w": 2000
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1379731623979
+            }, 
+            "display": {
+                "dims": {
+                    "h": "762", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/93C57AB7-3248-487C-B727-1CE66F28A93F"
+            }, 
+            "postback_key": "912aa6a4cfbe1decb6abe55a0cfe53ed", 
+            "request_time": {
+                "$date": 1379731596679
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "221", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FA50573F-6327-45FA-A20D-626F94FD6E88"
+            }
+        }, 
+        "url": "http://www.wired.com/design/wp-content/uploads/2013/09/SCISSOR-COLLECTION.jpg"
+    }, 
+    "date": {
+        "$date": 1383162239820
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9b5c676872038f8e5eb274a0e715e34c894583", 
+    "mime_type": "image/jpeg", 
+    "name": "This Guy Turns OCD Hoarding Into Amazing Photos | Wired Design | Wired.com", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 894583, 
+    "source": "http://www.wired.com/design/2013/09/this-photographer-is-a-high-class-hoarder/#slideid-242231", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/523d088c42627.jpg", 
+    "tags": [], 
+    "url_token": "aTawB"
+}

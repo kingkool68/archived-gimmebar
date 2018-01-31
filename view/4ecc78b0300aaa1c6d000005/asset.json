@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecc78b0300aaa1c6d000005"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322023091261
+            }, 
+            "display": {
+                "dims": {
+                    "h": "407", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6E1A0884-48CE-4380-BF4A-C9038A8A4C5E"
+            }, 
+            "postback_key": "f0a27f807a862ff61168ad715bb3cba5", 
+            "request_time": {
+                "$date": 1322023088583
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "236", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A2C22717-A47F-455D-A89B-79B55C1A1D88"
+            }
+        }, 
+        "url": "http://26.media.tumblr.com/tumblr_luayjlKuJC1qf0gljo1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1322023088585
+    }, 
+    "description": "Rabbit with speed goggles. ", 
+    "from_backup": false, 
+    "media_hash": "d48ed9da7731fa7390ec205ca0ebcd5d34509", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_luayjlKuJC1qf0gljo1_500.jpg (500\u00d7407)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 34509, 
+    "source": "http://26.media.tumblr.com/tumblr_luayjlKuJC1qf0gljo1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecc78b036e7b.jpg", 
+    "tags": [], 
+    "url_token": "fPsm"
+}

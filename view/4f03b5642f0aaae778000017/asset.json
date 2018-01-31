@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f03b5642f0aaae778000017"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1318791641962
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B3C9536E-B4D9-45A5-A9BE-144AF25A8183"
+            }, 
+            "postback_key": "3f91ad6c1e494d145d09a405e9bc4b24", 
+            "request_time": {
+                "$date": 1318791637848
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1D034569-DBC8-4377-8539-54164F493A99"
+            }
+        }, 
+        "url": "http://dribbble.com/system/users/13915/screenshots/142167/drop_dribbble.jpg?1304096188"
+    }, 
+    "date": {
+        "$date": 1325643108171
+    }, 
+    "description": "Creative Drop.", 
+    "from_backup": false, 
+    "media_hash": "c369d82deb556f194036f0e192d9466343791", 
+    "mime_type": "image/jpeg", 
+    "name": "drop_dribbble.jpg (400\u00d7300)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 43791, 
+    "source": "http://dribbble.com/system/users/13915/screenshots/142167/drop_dribbble.jpg?1304096188", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e9b29d55af65.jpg", 
+    "tags": [], 
+    "url_token": "l4ue"
+}

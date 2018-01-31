@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "52937c49aac422a939000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 637, 
+            "w": 500
+        }, 
+        "url": "http://24.media.tumblr.com/9b92470041f4cd131f9d42f9b648ea7b/tumblr_mvj8h3aR4R1qd9wy4o1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1385397321023
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "c7436adf210ece2888d8f7aae06b8165488146", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_mvj8h3aR4R1qd9wy4o1_500.jpg (JPEG Image, 500\u00a0\u00d7\u00a0637 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 488146, 
+    "source": "http://24.media.tumblr.com/9b92470041f4cd131f9d42f9b648ea7b/tumblr_mvj8h3aR4R1qd9wy4o1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/52937c48e1b97.jpg", 
+    "tags": [], 
+    "url_token": "aV6IU"
+}

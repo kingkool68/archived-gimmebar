@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e7cc2372e0aaaca2a000004"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1314774906409
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/DB6CD04C-D50A-4B9D-B064-9DCBC18E2C05"
+            }, 
+            "postback_key": "bcaea3e68131079735774dc0164952b7", 
+            "request_time": {
+                "$date": 1314762546977
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "244", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/D82E450C-750E-4602-837F-65E7114572CE"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/691851D0-1014-466C-92A2-BD1B13C0D04D"
+            }
+        }, 
+        "url": "http://influads.com/startups-and-entrepreneurs"
+    }, 
+    "copy_of": "4e5eef3c2f0aaa031d000029", 
+    "date": {
+        "$date": 1316799031212
+    }, 
+    "description": "", 
+    "media_hash": "7d5ef1eec5cf657e1ed5259f5ee52ac413932", 
+    "mime_type": "text/html", 
+    "name": "Advertising network focusing on Startups & Entrepreneurs | InfluAds", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 13932, 
+    "source": "http://influads.com/startups-and-entrepreneurs", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e5daf32a7a76.html", 
+    "tags": [], 
+    "url_token": "aPCW"
+}

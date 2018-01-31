@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdaf792e0aaabb3c000005"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1311805610048
+            }, 
+            "display": {
+                "dims": {
+                    "h": "325", 
+                    "w": "480"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/EA662D6C-EB34-4B80-B026-4CA83551112F"
+            }, 
+            "postback_key": "0b951c83d5ced57d7838d2996d5b829e", 
+            "request_time": {
+                "$date": 1311805608496
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "196", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/EF12EC90-18AE-49AA-9AA8-5EC2183B5F44"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/0da306c2ce0c0dab9c79ece4855c2e3d04430f05_m.jpg"
+    }, 
+    "copy_of": "4e3090a82e0aaad92b000003", 
+    "date": {
+        "$date": 1322102649912
+    }, 
+    "description": "", 
+    "media_hash": "92a2c4f9df71aabc28449e1efdbbb19f36330", 
+    "mime_type": "image/jpeg", 
+    "name": "0da306c2ce0c0dab9c79ece4855c2e3d04430f05_m.jpg (JPEG Image, 480x325 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 36330, 
+    "source": "http://img.ffffound.com/static-data/assets/6/0da306c2ce0c0dab9c79ece4855c2e3d04430f05_m.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e3090a81b3bc.jpg", 
+    "tags": [], 
+    "url_token": "f32u"
+}

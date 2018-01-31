@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd6962f0aaaea3a000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127313088
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "300"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A2F25BF4-FBB8-4C2E-970D-DE6CF2BA7556"
+            }, 
+            "postback_key": "553285add0aa2c73f6dd42271e1cccfa", 
+            "request_time": {
+                "$date": 1325127318047
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8E366A76-DA93-417C-98D9-530314C9C96D"
+            }
+        }, 
+        "url": "http://www.mod-tots.com/site/wp-content/uploads/2011/01/Pop-Lock1-300x300.jpg"
+    }, 
+    "date": {
+        "$date": 1325127318050
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "c1cd2882b75f478935a64fd801927d4e16979", 
+    "mime_type": "image/jpeg", 
+    "name": "Robots", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 16979, 
+    "source": "http://www.mod-tots.com/site/products/paintings/robots-coming-soon/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd695b8a5f.jpg", 
+    "tags": [], 
+    "url_token": "lpl7"
+}

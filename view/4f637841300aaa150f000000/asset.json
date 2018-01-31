@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f637841300aaa150f000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1331918916358
+            }, 
+            "display": {
+                "dims": {
+                    "h": "620", 
+                    "w": "563"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FBC9412C-6C75-4A3D-8E0F-43F859AFBEA6"
+            }, 
+            "postback_key": "3f65fbe715963d84317873c12b65c95a", 
+            "request_time": {
+                "$date": 1331918913575
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "319", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A46276DE-866E-4FDB-8DF1-B8F86BD58A7C"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/03/openshutter5_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1331918913577
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "ffbff2b997a53b28176d463de875537795013", 
+    "mime_type": "image/jpeg", 
+    "name": "Photographs Captured Over Years with an Open Camera Shutter", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 95013, 
+    "source": "http://www.petapixel.com/2012/03/16/photographs-captured-over-years-with-an-open-camera-shutter/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f6378413859a.jpg", 
+    "tags": [], 
+    "url_token": "xcjo"
+}

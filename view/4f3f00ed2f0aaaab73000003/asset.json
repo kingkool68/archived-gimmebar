@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f3f00ed2f0aaaab73000003"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329529044563
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/19AE8DF6-B3E0-497E-BF1E-8061679A7636"
+            }, 
+            "postback_key": "2d4b39e803d09c72bf6e706523a03527", 
+            "request_time": {
+                "$date": 1329529069178
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/EAFF94DC-B070-4237-8A9C-454AE14AEC00"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/34805F95-E3F1-402A-880C-DB63DFEEC20E"
+            }
+        }, 
+        "url": "http://lamoulade.com/#!/home"
+    }, 
+    "date": {
+        "$date": 1329529069180
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "e7f8accbf020bcc83e4f7ee26bfd620b8408", 
+    "mime_type": "text/html", 
+    "name": "La Moulade - Creative Studio", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 8408, 
+    "source": "http://lamoulade.com/#!/home", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f3f00eacd6d5.html", 
+    "tags": [], 
+    "url_token": "s2Be"
+}

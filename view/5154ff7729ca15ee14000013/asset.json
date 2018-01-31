@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5154ff7729ca15ee14000013"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 700, 
+            "w": 443
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364524922261
+            }, 
+            "display": {
+                "dims": {
+                    "h": "700", 
+                    "w": "443"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/066AA767-AD17-4EFB-B8F3-11EAC49D7AD5"
+            }, 
+            "postback_key": "757fad4aac8a6adefeeaec0f8da008d7", 
+            "request_time": {
+                "$date": 1364524919191
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "458", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C0DCBBAA-8B47-4616-96F4-8ADE8B3A926E"
+            }
+        }, 
+        "url": "http://25.media.tumblr.com/tumblr_lmx2yua9ef1qj6juso1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1364524919235
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "d4a14e28174edb75222a24e0912d1c80179512", 
+    "mime_type": "image/jpeg", 
+    "name": "OCTOPUS PINK | Fishing with octopus", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 179512, 
+    "source": "http://octopuspink.tumblr.com/post/30104113770/fishing-with-octopus", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5154ff76d2cd8.jpg", 
+    "tags": [], 
+    "url_token": "arl3c"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "510a8905aac422a627000003"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 414, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1359644936554
+            }, 
+            "display": {
+                "dims": {
+                    "h": "414", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/46FD7BCA-8796-4D2A-A526-AEE6FEF5D5D7"
+            }, 
+            "postback_key": "28b10b0cd19667a81826fc90804ee9b5", 
+            "request_time": {
+                "$date": 1359644933235
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "194", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A69C26C3-710F-4644-8840-DF593351D413"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/01/cerisedoucede-3.jpg"
+    }, 
+    "date": {
+        "$date": 1359644933238
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "cbffbb6b60c5ace0a21d5e9d1098afe5104146", 
+    "mime_type": "image/jpeg", 
+    "name": "Quirky Portraits of People Surrounded by Swarms of Hanging Objects", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 104146, 
+    "source": "http://www.petapixel.com/2013/01/30/quirky-portraits-of-people-surrounded-by-swarms-of-hanging-objects/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/510a8904dda37.jpg", 
+    "tags": [], 
+    "url_token": "aiJN9"
+}

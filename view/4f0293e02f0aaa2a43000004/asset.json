@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f0293e02f0aaa2a43000004"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1320450609326
+            }, 
+            "display": {
+                "dims": {
+                    "h": "681", 
+                    "w": "545"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2A96E0DC-1FB7-4F53-BEC5-E3B953B81168"
+            }, 
+            "postback_key": "0d445ef5e40d910827307d4b610da199", 
+            "request_time": {
+                "$date": 1320450542109
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "362", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/666E0282-01A7-492A-908D-21DB37944C6C"
+            }
+        }, 
+        "url": "http://www.tumblr.com/photo/1280/11387985844/7/tumblr_lszqkh8xO21qzkrbz"
+    }, 
+    "date": {
+        "$date": 1325568992551
+    }, 
+    "description": "#sky #gradient", 
+    "from_backup": false, 
+    "media_hash": "4f0620ee61dca022fb219998709196a1132335", 
+    "mime_type": "image/jpeg", 
+    "name": "Sky Series Selected Works 2011 | Eric Cahan", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 132335, 
+    "source": "http://ericcahan.com/portfolio/sky-series/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eb479eba3b47.jpg", 
+    "tags": [
+        "sky", 
+        "gradient"
+    ], 
+    "url_token": "lXkD"
+}

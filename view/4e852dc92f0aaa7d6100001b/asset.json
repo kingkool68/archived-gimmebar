@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e852dc92f0aaa7d6100001b"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317350833548
+            }, 
+            "display": {
+                "dims": {
+                    "h": "598", 
+                    "w": "640"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FB560017-8631-4FEA-A2E2-4E41FC916C67"
+            }, 
+            "postback_key": "682a298fed65781afad68ab1046a844f", 
+            "request_time": {
+                "$date": 1317350857981
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "271", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2F0BBF78-01F9-48EE-AF46-FB7CC3094979"
+            }
+        }, 
+        "url": "http://farm3.static.flickr.com/2568/3911206773_b203d27063_z.jpg?zz=1"
+    }, 
+    "date": {
+        "$date": 1317350857988
+    }, 
+    "description": "Long exposure plane trails with street lights\n#red #white #blue #photography", 
+    "media_hash": "dd539ec116c384362ef26ae982b01fdc95396", 
+    "mime_type": "image/jpeg", 
+    "name": "forgotten plane trails | Flickr - Photo Sharing!", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 95396, 
+    "source": "http://www.flickr.com/photos/science/3911206773/in/set-72157622355080922", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e852dc98822f.jpg", 
+    "tags": [
+        "red", 
+        "white", 
+        "blue", 
+        "photography"
+    ], 
+    "url_token": "a3oL"
+}

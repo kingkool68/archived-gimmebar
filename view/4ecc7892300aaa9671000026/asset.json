@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecc7892300aaa9671000026"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322023060878
+            }, 
+            "display": {
+                "dims": {
+                    "h": "700", 
+                    "w": "467"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B81E4218-B6C7-42AE-8544-CEB70B661753"
+            }, 
+            "postback_key": "4c67b0e4d1ceff4b175ae3d5a554af0b", 
+            "request_time": {
+                "$date": 1322023058860
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "435", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D56C969F-E3A3-4000-9678-085CF78381EB"
+            }
+        }, 
+        "url": "http://27.media.tumblr.com/tumblr_l7d1k96TdG1qzbyryo1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1322023058862
+    }, 
+    "description": "Tiger Swimming through some green stuff.", 
+    "from_backup": false, 
+    "media_hash": "d250b07ada721c8e6b7fb4b86ce3631c155928", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_l7d1k96TdG1qzbyryo1_500.jpg (467\u00d7700)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 155928, 
+    "source": "http://27.media.tumblr.com/tumblr_l7d1k96TdG1qzbyryo1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecc78927409e.jpg", 
+    "tags": [], 
+    "url_token": "fPsh"
+}

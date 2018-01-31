@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd6c4300aaac532000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127368329
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "750"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/31329253-5FA0-491D-84A7-0D3963A1D050"
+            }, 
+            "postback_key": "47b89733be1bc73b583f7dd80c2ad28e", 
+            "request_time": {
+                "$date": 1325127364223
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "387", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F8B46398-BBBD-44A3-8145-E9A82F63ED65"
+            }
+        }, 
+        "url": "http://2.bp.blogspot.com/-kutn4jpsN3g/Tgfi61ops7I/AAAAAAAADGM/ULflKFl-Z64/s1600/DSC05156.JPG"
+    }, 
+    "date": {
+        "$date": 1325127364241
+    }, 
+    "description": "Robot quilt", 
+    "from_backup": false, 
+    "media_hash": "b8acd2b60454de4b3ab77d7a596b6cb8350336", 
+    "mime_type": "image/jpeg", 
+    "name": "DSC05156.JPG (1200\u00d71600)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 350336, 
+    "source": "http://2.bp.blogspot.com/-kutn4jpsN3g/Tgfi61ops7I/AAAAAAAADGM/ULflKFl-Z64/s1600/DSC05156.JPG", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd6c3a9dca.jpg", 
+    "tags": [], 
+    "url_token": "lpmf"
+}

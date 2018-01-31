@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4aead02f0aaa9b28000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1330309847996
+            }, 
+            "display": {
+                "dims": {
+                    "h": "906", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/973D51DD-867D-4493-8696-B01254B0252D"
+            }, 
+            "postback_key": "49eeaf022a859e098de7a377adaea486", 
+            "request_time": {
+                "$date": 1330309840534
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "263", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9044BE5E-FF2A-4C3B-9F7D-FA92E1510C09"
+            }
+        }, 
+        "url": "https://forrst-production.s3.amazonaws.com/posts/snaps/134004/original.png?1330289669"
+    }, 
+    "date": {
+        "$date": 1330309840537
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "4b90537c1e3b8bca7b218ee7d968b014945966", 
+    "mime_type": "image/png", 
+    "name": "Original image for Kreative Kickstart Website - A snap from jjshammas - Forrst", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 945966, 
+    "source": "https://forrst.com/posts/dQY/original", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f4aead0248d0.png", 
+    "tags": [], 
+    "url_token": "unjP"
+}

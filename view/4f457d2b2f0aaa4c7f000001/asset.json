@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457d2b2f0aaa4c7f000001"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1326816052190
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/B458C600-C5D1-4F3D-B665-03FAFB1CFF1D"
+            }, 
+            "postback_key": "7c529cb722511cb0f408894adf7885ec", 
+            "request_time": {
+                "$date": 1326815938628
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/8DD28338-E564-4609-BF7E-C9882ABF9F6E"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/BDC67857-DE69-4328-AB5B-9BCD2A1FC37F"
+            }
+        }, 
+        "url": "http://thoughtbot.com/"
+    }, 
+    "date": {
+        "$date": 1329954091213
+    }, 
+    "description": "Simple. Minimal but a good use of one color.", 
+    "from_backup": false, 
+    "media_hash": "717c5d9e7280755451b2515000dcdcea12595", 
+    "mime_type": "text/html", 
+    "name": "Web design and development : thoughtbot", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 12595, 
+    "source": "http://thoughtbot.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f159ac24ef84.html", 
+    "tags": [], 
+    "url_token": "tOhx"
+}

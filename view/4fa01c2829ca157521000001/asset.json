@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4fa01c2829ca157521000001"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 467, 
+            "w": 445
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1335680538328
+            }, 
+            "display": {
+                "dims": {
+                    "h": "467", 
+                    "w": "445"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CDC32429-F29B-4185-9304-91EDE40E493C"
+            }, 
+            "postback_key": "7e12499962e465b73510306d64ddfbeb", 
+            "request_time": {
+                "$date": 1335680536715
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "304", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BC5A7567-3F8D-4D2A-BD5B-37A20277F672"
+            }
+        }, 
+        "url": "https://www.logolounge.com/Trends/2012/images/13-tessellation.jpg"
+    }, 
+    "date": {
+        "$date": 1335893032478
+    }, 
+    "description": "Tessellation logos ", 
+    "from_backup": null, 
+    "media_hash": "6a3b6623f3b2e61650915ba4016ec0f644790", 
+    "mime_type": "image/jpeg", 
+    "name": "LogoLounge.com Article - 2012 Logo Trends", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 44790, 
+    "source": "http://www.logolounge.com/article.asp?aid=llPo", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f9cde185b67c.jpg", 
+    "tags": [], 
+    "url_token": "E-eI"
+}

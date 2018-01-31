@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50b78c3a29ca15b404000003"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 653, 
+            "w": 991
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1354118230161
+            }, 
+            "display": {
+                "dims": {
+                    "h": "653", 
+                    "w": "991"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/321008F6-D4AB-459A-8B3B-458C11FE76B0"
+            }, 
+            "postback_key": "80a47dbeb39d93c67a0325a88f879157", 
+            "request_time": {
+                "$date": 1354118228492
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "191", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F3351B3D-BCA4-4F7C-8BC7-40B06FA660E5"
+            }
+        }, 
+        "url": "http://cdn.theatlantic.com/static/infocus/ngpc112812/s_n02_thematte.jpg"
+    }, 
+    "date": {
+        "$date": 1354206266586
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "e3e11113705f93254dd6699bd785692a97059", 
+    "mime_type": "image/jpeg", 
+    "name": "National Geographic Photo Contest 2012, Part II - In Focus - The Atlantic", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 97059, 
+    "source": "http://www.theatlantic.com/infocus/2012/11/national-geographic-photo-contest-2012-part-ii/100414/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50b6345428d64.jpg", 
+    "tags": [], 
+    "url_token": "a.rRA"
+}

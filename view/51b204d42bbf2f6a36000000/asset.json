@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51b204d42bbf2f6a36000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 4937, 
+            "w": 600
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1370509847994
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "122"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B345DD0B-9635-473C-A8AD-56449CA4CC40"
+            }, 
+            "postback_key": "11fb1c882072742ac91b14cea1392239", 
+            "request_time": {
+                "$date": 1370509843827
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "2386", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/34B27732-1D9D-4BDD-9AD0-93EF5465B5BF"
+            }
+        }, 
+        "url": "http://behance.vo.llnwd.net/profiles/85780/projects/9028077/92e4fbf53a96ceff9a9b403eb8583be3.jpg"
+    }, 
+    "date": {
+        "$date": 1370621140637
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9b4d69599113d445bb6dfcc5d4f9ef15638717", 
+    "mime_type": "image/jpeg", 
+    "name": "Google Visual Assets Guidelines - Part 1 on Behance", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 638717, 
+    "source": "http://www.behance.net/gallery/Google-Visual-Assets-Guidelines-Part-1/9028077", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51b0521363ad0.jpg", 
+    "tags": [], 
+    "url_token": "aBMm6"
+}

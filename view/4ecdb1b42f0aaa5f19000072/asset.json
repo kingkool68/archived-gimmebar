@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb1b42f0aaa5f19000072"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103180669
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/168333BA-FA07-45C2-9B9C-FBB59F13EFA7"
+            }, 
+            "postback_key": "ef89c5be2e786ace82deae3793d46a8f", 
+            "request_time": {
+                "$date": 1322103220435
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B56362F7-9070-4EAE-8CDC-E66E1814F0C7"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/05/16/Stop_Hammer_Time.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103220439
+    }, 
+    "description": "#symbol #icon", 
+    "from_backup": false, 
+    "media_hash": "90c63d74ae51bdace3eb4435da50cbbb11696", 
+    "mime_type": "image/png", 
+    "name": "Stop Hammer Time by Christopher T. Howlett \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 11696, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/may/16/stop-hammer-time/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb1b41da56.png", 
+    "tags": [
+        "symbol", 
+        "icon"
+    ], 
+    "url_token": "f33u"
+}

@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "53beae10aac4229d328b456f"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 423, 
+            "w": 620
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2014/07/holding.jpg"
+    }, 
+    "date": {
+        "$date": 1405005328065
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "59d62782d3a07e8f8629b342d20efbb6294670", 
+    "mime_type": "image/jpeg", 
+    "name": "holding.jpg (JPEG Image, 620\u00a0\u00d7\u00a0423 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 294670, 
+    "source": "http://petapixel.com/assets/uploads/2014/07/holding.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/53beae0fe700f.jpg", 
+    "tags": [], 
+    "url_token": "bgEsZ"
+}

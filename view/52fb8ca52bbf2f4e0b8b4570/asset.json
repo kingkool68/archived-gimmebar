@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "52fb8ca52bbf2f4e0b8b4570"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1024, 
+            "w": 587
+        }, 
+        "url": "http://farm8.staticflickr.com/7372/12458866415_ef6027d0e2_b.jpg"
+    }, 
+    "date": {
+        "$date": 1392217253343
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "28ef24ca79877a68037cc91980e08dac249646", 
+    "mime_type": "image/jpeg", 
+    "name": "12458866415_ef6027d0e2_b.jpg (JPEG Image, 587\u00a0\u00d7\u00a01024 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 249646, 
+    "source": "http://farm8.staticflickr.com/7372/12458866415_ef6027d0e2_b.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/52fb8ca5373f2.jpg", 
+    "tags": [], 
+    "url_token": "a4oTi"
+}

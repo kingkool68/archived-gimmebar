@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50a11b37aac422b86700004d"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 460, 
+            "w": 636
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1352735545690
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BE1AA585-527C-468A-9D99-B2A57FDB4D7F"
+            }, 
+            "postback_key": "75f3aaaf6c913673075227f2a03827b1", 
+            "request_time": {
+                "$date": 1352735543353
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/96C6A736-C9EB-4764-A730-49D992F3F6DE"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/4245/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1352735543373
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "7c7c27d4460ed61bc58f7deee590bfac91907", 
+    "mime_type": "image/jpeg", 
+    "name": "\"Lost in Grey Matter\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 91907, 
+    "source": "http://www.threadless.com/product/4245/Lost_in_Grey_Matter?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50a11b36c93e8.jpg", 
+    "tags": [], 
+    "url_token": "9VRf"
+}

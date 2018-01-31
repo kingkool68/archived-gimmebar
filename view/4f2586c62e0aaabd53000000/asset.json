@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f2586c62e0aaabd53000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1327859450518
+            }, 
+            "display": {
+                "dims": {
+                    "h": "191", 
+                    "w": "524"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C5EEAD73-1551-4D1B-8257-3EF62E35EAAA"
+            }, 
+            "postback_key": "dd1b88f54fa7428fbca1e8dc6e4cdf07", 
+            "request_time": {
+                "$date": 1327859398209
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "106", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/713FC7F1-1F95-47D2-BA70-C21C102FA959"
+            }
+        }, 
+        "url": "http://cl.ly/2L1Y3t46203H3K383b21/Screen%20Shot%202012-01-29%20at%2012.37.57%20PM.png"
+    }, 
+    "date": {
+        "$date": 1327859398212
+    }, 
+    "description": "from http://www.realmacsoftware.com/analog/", 
+    "from_backup": false, 
+    "media_hash": "4940ca696e36acf5f80a95eee1ed0393127273", 
+    "mime_type": "image/png", 
+    "name": "Analog typography", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 127273, 
+    "source": "http://cl.ly/2L1Y3t46203H3K383b21", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f2586c5c2436.png", 
+    "tags": [], 
+    "url_token": "pYYt"
+}

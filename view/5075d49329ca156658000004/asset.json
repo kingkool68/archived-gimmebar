@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5075d49329ca156658000004"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 620, 
+            "w": 477
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1349899413752
+            }, 
+            "display": {
+                "dims": {
+                    "h": "620", 
+                    "w": "477"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CCB7FB35-E85C-4945-8C02-2DD6D6CDE9EB"
+            }, 
+            "postback_key": "ea071c82e48c8ce454f53f5950a75f30", 
+            "request_time": {
+                "$date": 1349899411931
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "377", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D2F9EB7B-9337-4B0E-83C9-5306D49FBB3F"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/10/portrait4.jpg"
+    }, 
+    "date": {
+        "$date": 1349899411985
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "b63c3be9391b3c2a178caf0c7b6cb11853785", 
+    "mime_type": "image/jpeg", 
+    "name": "Curious Upside-Down Portraits Showing the Stress of Unemployment", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 53785, 
+    "source": "http://www.petapixel.com/2012/10/10/curious-upside-down-portraits-showing-the-stress-of-unemployment/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5075d4938db37.jpg", 
+    "tags": [], 
+    "url_token": "4J85"
+}

@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4d0e842f0aaa3a31000010"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329240235749
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/951E95F2-6C7F-4E0D-8CC3-F2471CD7FEEC"
+            }, 
+            "postback_key": "0af2272212112d0e0689e90595fee4c8", 
+            "request_time": {
+                "$date": 1329240053513
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F7A23CB4-7791-467C-BF8C-3EF1952A4C8C"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F8F62E2E-E2AF-4CC4-A457-53D713F75A5F"
+            }
+        }, 
+        "url": "http://www.leading-art.com/"
+    }, 
+    "date": {
+        "$date": 1330450052711
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "f3d66c2a0f250689feebacc86f03f4df45542", 
+    "mime_type": "text/html", 
+    "name": "Leading Art", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 45542, 
+    "source": "http://www.leading-art.com/#", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f3a97f521a72.html", 
+    "tags": [], 
+    "url_token": "uDqz"
+}

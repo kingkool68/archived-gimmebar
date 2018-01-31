@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb79d300aaa505f00000c"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322104775765
+            }, 
+            "display": {
+                "dims": {
+                    "h": "430", 
+                    "w": "580"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A866D935-1FE4-4447-9474-28066A24F999"
+            }, 
+            "postback_key": "63d9b932ec306b5d1e64b5c43212727f", 
+            "request_time": {
+                "$date": 1322104733091
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "215", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E7E3AD2B-F0BF-494C-BFC2-552D28D1E8C7"
+            }
+        }, 
+        "url": "http://www.likecool.com/Style/TShirt/Haters%20Gonna%20Hate%20Shirt/Haters-Gonna-Hate-Shirt.jpg"
+    }, 
+    "date": {
+        "$date": 1322104733094
+    }, 
+    "description": "I need to find this t-shirt somewhere. ", 
+    "from_backup": false, 
+    "media_hash": "13ff55817c0e1efb7d57373fa52fd79451453", 
+    "mime_type": "image/jpeg", 
+    "name": "Haters-Gonna-Hate-Shirt.jpg (JPEG Image, 580x430 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 51453, 
+    "source": "http://www.likecool.com/Style/TShirt/Haters%20Gonna%20Hate%20Shirt/Haters-Gonna-Hate-Shirt.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb79ca7843.jpg", 
+    "tags": [], 
+    "url_token": "f366"
+}

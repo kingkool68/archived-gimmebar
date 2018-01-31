@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbe76c300aaa344f000030"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325131630928
+            }, 
+            "display": {
+                "dims": {
+                    "h": "640", 
+                    "w": "640"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/370A6FB1-681E-45F2-9ECA-42C634E0CF72"
+            }, 
+            "postback_key": "bb5d0ddc4a5408896cecce97023453c2", 
+            "request_time": {
+                "$date": 1325131628365
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9FAEA59E-ECA6-4B11-919C-DAAB9948FE6E"
+            }
+        }, 
+        "url": "http://f.asset.soup.io/asset/1604/0431_923d.jpeg"
+    }, 
+    "date": {
+        "$date": 1325131628370
+    }, 
+    "description": "#octopus tentacle in a spiral", 
+    "from_backup": false, 
+    "media_hash": "4559d67e8bfe99daca96f44c24ca9122268131", 
+    "mime_type": "image/jpeg", 
+    "name": "0431_923d.jpeg (640\u00d7640)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 268131, 
+    "source": "http://f.asset.soup.io/asset/1604/0431_923d.jpeg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbe76bf0c0e.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "lpTT"
+}

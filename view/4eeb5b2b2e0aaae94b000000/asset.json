@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5b2b2e0aaae94b000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324047262363
+            }, 
+            "display": {
+                "dims": {
+                    "h": "625", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/21741D80-5D00-42FD-BB98-F5F8B4281B5B"
+            }, 
+            "postback_key": "680e3b5fcd7f49df845e888dc50a438b", 
+            "request_time": {
+                "$date": 1324047147545
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "363", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D90B74C1-F89E-422D-B5C5-A5422DC9C34D"
+            }
+        }, 
+        "url": "http://29.media.tumblr.com/tumblr_lvhs2jvVIl1qesy59o1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1324047147574
+    }, 
+    "description": "Octopus tentacle with spiral arm.", 
+    "from_backup": false, 
+    "media_hash": "3cfcbf6168dab175d49d9ce9418e136a68236", 
+    "mime_type": "image/jpeg", 
+    "name": "bjornstar.com", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 68236, 
+    "source": "http://bjornstar.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eeb5b2b2fa07.jpg", 
+    "tags": [], 
+    "url_token": "j0v1"
+}

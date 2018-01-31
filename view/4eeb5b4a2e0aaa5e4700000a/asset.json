@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5b4a2e0aaa5e4700000a"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324047253779
+            }, 
+            "display": {
+                "dims": {
+                    "h": "700", 
+                    "w": "467"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3544DCE9-3C67-4FF7-8CD0-23E85DF0F502"
+            }, 
+            "postback_key": "3e9d8987831df138a2c61e6e8dac1ba8", 
+            "request_time": {
+                "$date": 1324047178547
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "435", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/57818072-5A31-4F09-9D0C-3C78EA427A4E"
+            }
+        }, 
+        "url": "http://28.media.tumblr.com/tumblr_lvrnqgxNtE1qz5vceo1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1324047178553
+    }, 
+    "description": "Stained glass #octopus", 
+    "from_backup": false, 
+    "media_hash": "08ec7b9f79bf9296d11e9b4004ecdba5230202", 
+    "mime_type": "image/jpeg", 
+    "name": "bjornstar.com", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 230202, 
+    "source": "http://bjornstar.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eeb5b4a34c73.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "j0v9"
+}

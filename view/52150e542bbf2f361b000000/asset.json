@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "52150e542bbf2f361b000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 600, 
+            "w": 600
+        }, 
+        "url": "http://i1.wp.com/petapixel.com/assets/uploads/2013/08/a0fc84f5dde0e32243169020f173e70c.jpg?resize=600%2C600"
+    }, 
+    "date": {
+        "$date": 1377111636263
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "a52128178ed94fecb20b0af25c8cf111247870", 
+    "mime_type": "image/jpeg", 
+    "name": "The Forest Photography of J\u00fcrgen Heckel", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 247870, 
+    "source": "http://petapixel.com/2013/08/21/the-forest-photography-of-jurgen-heckel/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/52150e53dc6b1.jpg", 
+    "tags": [], 
+    "url_token": "aK29R"
+}

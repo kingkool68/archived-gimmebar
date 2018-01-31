@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e8530782f0aaab76b000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317351545403
+            }, 
+            "display": {
+                "dims": {
+                    "h": "310", 
+                    "w": "540"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6462AF5C-169D-4044-BF33-27D991FDB410"
+            }, 
+            "postback_key": "ca7559eb61657e089e5b7f05518d9ced", 
+            "request_time": {
+                "$date": 1317351544134
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "166", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/75DBEA1A-6D32-4CFB-B7E9-96BA9AE3ED40"
+            }
+        }, 
+        "url": "http://oldcomputers.net/pics/imsai8080-left.jpg"
+    }, 
+    "date": {
+        "$date": 1317351544146
+    }, 
+    "description": "Retro blue and red computer.", 
+    "media_hash": "b9e7fb23938b1b2ab05ebd0a1e2453ef46496", 
+    "mime_type": "image/jpeg", 
+    "name": "IMSAI 8080 computer", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 46496, 
+    "source": "http://oldcomputers.net/imsai8080.html", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e853077b79ff.jpg", 
+    "tags": [], 
+    "url_token": "a3pC"
+}

@@ -1,0 +1,28 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5154fd9faac422af70000003"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "url": "http://www.makingspaceforothers.com/intro#.UVT9lKuKJ_Y"
+    }, 
+    "date": {
+        "$date": 1364524447534
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "4292e0f0680ec7bdc927f7c674c8bd4013042", 
+    "mime_type": "text/html", 
+    "name": "Making Space For Others - Introduction", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 13042, 
+    "source": "http://www.makingspaceforothers.com/intro#.UVT9lKuKJ_Y", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5154fd9da8086.html", 
+    "tags": [], 
+    "url_token": "arlYI"
+}

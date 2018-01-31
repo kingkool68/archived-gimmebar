@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ed84ad82f0aaad07e000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322797690195
+            }, 
+            "display": {
+                "dims": {
+                    "h": "493", 
+                    "w": "915"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/AF0712DF-48DC-45C3-B6F9-4B67D09F5135"
+            }, 
+            "postback_key": "788a2a105a949cf61136a8d0cd1e98c6", 
+            "request_time": {
+                "$date": 1322797784530
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "156", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B538DACF-385E-49CF-92CC-ABE563CE123B"
+            }
+        }
+    }, 
+    "date": {
+        "$date": 1322797784533
+    }, 
+    "description": "Muted color palette. ", 
+    "from_backup": false, 
+    "media_hash": "416b85477484a9189f649b7e79b1addc13829", 
+    "mime_type": "image/png", 
+    "name": "Snark!", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 13829, 
+    "source": "upload", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ed84ad83710f.png", 
+    "tags": [], 
+    "url_token": "hmQP"
+}

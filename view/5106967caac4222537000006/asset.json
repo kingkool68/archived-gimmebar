@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5106967caac4222537000006"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1359386339585
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/BD8EC6DF-6031-4EC2-B405-F558933998F9"
+            }, 
+            "postback_key": "ccf1dbaa3143503896c0dd95c45b7307", 
+            "request_time": {
+                "$date": 1359386236119
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/87B3D7F8-0EE4-4140-9992-DD431F5A4B0F"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/A969FA9E-801E-4217-AFE9-CB4BE1ED39DD"
+            }
+        }, 
+        "url": "http://buildingfirefoxos.com/"
+    }, 
+    "date": {
+        "$date": 1359386236164
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "0fb7b487d1cf4652e89a01064927b1da44159", 
+    "mime_type": "text/html", 
+    "name": "Building Firefox OS", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 44159, 
+    "source": "http://buildingfirefoxos.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5106967bafbb1.html", 
+    "tags": [], 
+    "url_token": "aia_B"
+}

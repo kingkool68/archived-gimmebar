@@ -1,0 +1,52 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ea1bca62f0aaab52c000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1318522164857
+            }, 
+            "display": {
+                "dims": {
+                    "h": "678", 
+                    "w": "480"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A2684CD4-7265-4967-BB6D-13F081FC4B54"
+            }, 
+            "postback_key": "1db2279ebdeb0833176f9fc89282784e", 
+            "request_time": {
+                "$date": 1318522121327
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "410", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/436211AF-A731-4188-9AF8-32E51517F6BA"
+            }
+        }, 
+        "url": "http://cache1.bigcartel.com/product_images/42946997/Day-vs-Night_480x678.jpg"
+    }, 
+    "date": {
+        "$date": 1319222438394
+    }, 
+    "description": "Day vs Night #illustration owl bird", 
+    "media_hash": "35979ca89d38fb46c9f60426a53fb97694440", 
+    "mime_type": "image/jpeg", 
+    "name": "Day-vs-Night_480x678.jpg (JPEG Image, 480x678 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 94440, 
+    "source": "http://cache1.bigcartel.com/product_images/42946997/Day-vs-Night_480x678.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e970d06e81ba.jpg", 
+    "tags": [
+        "illustration"
+    ], 
+    "url_token": "bKOm"
+}

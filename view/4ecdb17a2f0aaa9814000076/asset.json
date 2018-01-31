@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb17a2f0aaa9814000076"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103164828
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/12B5CF9B-1C24-45D5-B6C3-FB7BE55FEA1D"
+            }, 
+            "postback_key": "1609b5e99b8656e61b629c082112e7a3", 
+            "request_time": {
+                "$date": 1322103162815
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/99324677-4A2A-431D-9E6B-D32A1EB0847C"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/05/26/INSTANT_JOY.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103162819
+    }, 
+    "description": "Cube with colors.", 
+    "from_backup": false, 
+    "media_hash": "869d64116d5ca82880f6add961fd4d377014", 
+    "mime_type": "image/png", 
+    "name": "INSTANT JOY by Nan\u00e9 \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 7014, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/may/26/instant-joy/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb17709f02.png", 
+    "tags": [], 
+    "url_token": "f33h"
+}

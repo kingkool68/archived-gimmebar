@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f7c5721300aaabd51000042"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1333549010561
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/4D707231-C539-4E34-8B26-8F18CB2356CD"
+            }, 
+            "postback_key": "82d7e67ae15c79e608bcfc11c36b0866", 
+            "request_time": {
+                "$date": 1333548833461
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/982C0103-8D7E-4F55-A043-7EF7BFCB7BC6"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/C8B6EA9C-E90E-43F1-96C1-178564AC5549"
+            }
+        }, 
+        "url": "http://barn.headscape.co.uk/"
+    }, 
+    "date": {
+        "$date": 1333548833472
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "2fcb671cca4098f92b89635bfd4c0b5450260", 
+    "mime_type": "text/html", 
+    "name": "Headscape Barn", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 50260, 
+    "source": "http://barn.headscape.co.uk/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f7c5721185a4.html", 
+    "tags": [], 
+    "url_token": "Am0Z"
+}

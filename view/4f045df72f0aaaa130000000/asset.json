@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f045df72f0aaaa130000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325460114935
+            }, 
+            "display": {
+                "dims": {
+                    "h": "400", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9C4C154C-1338-486D-BE7F-8931403045A4"
+            }, 
+            "postback_key": "9692956a813f924e5a3acb6a7a64ce88", 
+            "request_time": {
+                "$date": 1325460120838
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/64A8BEE6-8779-4224-A2B3-0B1961157E0A"
+            }
+        }, 
+        "url": "http://www.thisiscolossal.com/wp-content/uploads/2012/01/obliteration-8.jpg"
+    }, 
+    "date": {
+        "$date": 1325686263643
+    }, 
+    "description": "One blank room decorated by thousands of stickers placed by kids. ", 
+    "from_backup": false, 
+    "media_hash": "b5b0a9d9bf088bee87dbe0fca93aa602336846", 
+    "mime_type": "image/jpeg", 
+    "name": "This is What Happens When You Give Thousands of Stickers to Thousands of Kids | Colossal", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 336846, 
+    "source": "http://www.thisiscolossal.com/2012/01/yayoi-kusama-obiliteration-room/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f00ea98639bd.jpg", 
+    "tags": [], 
+    "url_token": "l5nM"
+}

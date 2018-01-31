@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5318a83f2bbf2f08428b4569"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 920, 
+            "w": 1272
+        }, 
+        "url": "https://dov5cor25da49.cloudfront.net/products/5494/1272x920design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1394124863363
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9d6c96e6c022b076e5b5e5fcd9a1eca7265396", 
+    "mime_type": "image/jpeg", 
+    "name": "1272x920design_01.jpg (JPEG Image, 1272\u00a0\u00d7\u00a0920 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 265396, 
+    "source": "https://dov5cor25da49.cloudfront.net/products/5494/1272x920design_01.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5318a83f303a4.jpg", 
+    "tags": [], 
+    "url_token": "a6LZt"
+}

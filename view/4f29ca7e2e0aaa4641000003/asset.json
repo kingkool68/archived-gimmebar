@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f29ca7e2e0aaa4641000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1328138880582
+            }, 
+            "display": {
+                "dims": {
+                    "h": "305", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2C65BCA2-FA73-48F3-BFC3-16E555E3D229"
+            }, 
+            "postback_key": "713572be0b3216369e68b481db0a0fc4", 
+            "request_time": {
+                "$date": 1328138878639
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "177", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/11E4754A-3E5F-45AC-8C0F-D6EA6182136B"
+            }
+        }, 
+        "url": "http://cdnimg.visualizeus.com/thumbs/88/f2/adventure,art,ship,joe,illustration,sea-88f2cd3a3724ec30eed424b8181787b1_h.jpg"
+    }, 
+    "date": {
+        "$date": 1328138878668
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "261932a4daf1e52c56ee65cea392c97389246", 
+    "mime_type": "image/jpeg", 
+    "name": "Octopus and Ships at Sea", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 89246, 
+    "source": "http://cdnimg.visualizeus.com/thumbs/88/f2/adventure,art,ship,joe,illustration,sea-88f2cd3a3724ec30eed424b8181787b1_h.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f29ca7e15f62.jpg", 
+    "tags": [], 
+    "url_token": "qwTZ"
+}

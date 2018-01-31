@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f452ebf2e0aaa291400001f"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329934097514
+            }, 
+            "display": {
+                "dims": {
+                    "h": "750", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C2C0C08E-6A46-4BE1-B46A-D41A988D66F5"
+            }, 
+            "postback_key": "e75ab59ecd39dc5f75c92bd64dc17ca5", 
+            "request_time": {
+                "$date": 1329934015448
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3445AA6F-36A6-4E0B-AD3A-7D67582C963E"
+            }
+        }, 
+        "url": "http://www.thomasjacksonphotography.com/Page%2090.jpg"
+    }, 
+    "date": {
+        "$date": 1329934015451
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "79743fa20c4ea7f8059e78e3b0fb21bd192241", 
+    "mime_type": "image/jpeg", 
+    "name": "Flock of Cups", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 192241, 
+    "source": "http://www.thomasjacksonphotography.com/Page%2090.htm", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f452ebf111dd.jpg", 
+    "tags": [], 
+    "url_token": "tKmY"
+}

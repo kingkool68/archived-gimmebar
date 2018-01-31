@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e852e842f0aaa1d67000036"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317351079791
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/B0C51BA4-3F7E-45EA-9C78-64DEB2D5DE26"
+            }, 
+            "postback_key": "da97f28f7e69d2afddb177826a646e5c", 
+            "request_time": {
+                "$date": 1317351044929
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/1E5F2C91-D865-49E4-B8FB-D09C7FD1264F"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/6E213D8A-487C-40B6-89E2-BB2A85A4DA08"
+            }
+        }, 
+        "url": "http://globalshakespeares.org/#"
+    }, 
+    "date": {
+        "$date": 1317351044936
+    }, 
+    "description": "Great use of filtering videos using custom taxonomies in WordPress. \n#ajax #filter", 
+    "media_hash": "92e5971100beea944631c8d8fb1fa81322544", 
+    "mime_type": "text/html", 
+    "name": "Global Shakespeares", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 22544, 
+    "source": "http://globalshakespeares.org/#", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e852e849c434.html", 
+    "tags": [
+        "ajax", 
+        "filter"
+    ], 
+    "url_token": "a3oZ"
+}

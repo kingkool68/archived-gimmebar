@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514107b129ca15226b000003"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 880, 
+            "w": 880
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363194076956
+            }, 
+            "display": {
+                "dims": {
+                    "h": "880", 
+                    "w": "880"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2607D5B9-39E7-488F-844A-A0280902795C"
+            }, 
+            "postback_key": "3bf60d0bcd6be46aeabe30c87b1ba72b", 
+            "request_time": {
+                "$date": 1363194074985
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BA138CBF-0885-4B9C-A859-5E5F0E94F1E4"
+            }
+        }, 
+        "url": "http://payload140.cargocollective.com/1/0/128/5116077/full_moon1_905.jpg"
+    }, 
+    "date": {
+        "$date": 1363216305350
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "2dc8008c7574baf37d94813ada077c3b259318", 
+    "mime_type": "image/jpeg", 
+    "name": "...the moon gazed on my midnight labours, while, with unrelaxed and... - but does it float", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 259318, 
+    "source": "http://butdoesitfloat.com/the-moon-gazed-on-my-midnight-labours-while-with-unrelaxed-and", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5140b0da8a03d.jpg", 
+    "tags": [], 
+    "url_token": "ao4k4"
+}

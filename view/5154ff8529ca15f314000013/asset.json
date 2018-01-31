@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5154ff8529ca15f314000013"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 333, 
+            "w": 500
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364524933994
+            }, 
+            "display": {
+                "dims": {
+                    "h": "333", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9DB730A5-25D7-446B-BE29-D6DAF4EEA2C8"
+            }, 
+            "postback_key": "a1732b5bb37abd0692db4a94c0358c0c", 
+            "request_time": {
+                "$date": 1364524933027
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9F3FE5D1-BF98-4056-92A7-BE57A7A373C9"
+            }
+        }, 
+        "url": "http://25.media.tumblr.com/tumblr_lo8wh6VOOc1qj6juso1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1364524933033
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "e8d935b629cba73914959b966f8c8a6141401", 
+    "mime_type": "image/jpeg", 
+    "name": "OCTOPUS PINK | Bronze octopus\u00a0", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 41401, 
+    "source": "http://octopuspink.tumblr.com/post/30103370097/bronze-octopus", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5154ff846ea0f.jpg", 
+    "tags": [], 
+    "url_token": "arl3d"
+}

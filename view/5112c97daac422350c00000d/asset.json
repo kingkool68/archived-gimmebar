@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5112c97daac422350c00000d"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 414, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1360185729992
+            }, 
+            "display": {
+                "dims": {
+                    "h": "414", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B9EC62DC-1853-43EE-908E-17349B3B8BE1"
+            }, 
+            "postback_key": "2f2c68410be8124b3d12aca8dab98480", 
+            "request_time": {
+                "$date": 1360185723141
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "194", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A3F71F2C-2FC7-4A02-B669-B204826853E3"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/02/starfishmacro-4.jpg"
+    }, 
+    "date": {
+        "$date": 1360185723151
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "5262a5217e6b5f4b6a06efe7a843620f243873", 
+    "mime_type": "image/jpeg", 
+    "name": "Beautiful Macro Photographs of Various Starfish Up Close", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 243873, 
+    "source": "http://www.petapixel.com/2013/02/06/beautiful-macro-photographs-of-various-starfish-up-close/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5112c97a9fd14.jpg", 
+    "tags": [], 
+    "url_token": "ajFMp"
+}

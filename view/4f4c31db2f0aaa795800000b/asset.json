@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4c31db2f0aaa795800000b"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1330393564861
+            }, 
+            "display": {
+                "dims": {
+                    "h": "566", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/178E9314-C97B-4FCC-8B8D-DC9EA2660E7C"
+            }, 
+            "postback_key": "98402e3600e71209ea74a2bfed6d1ae7", 
+            "request_time": {
+                "$date": 1330393563069
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "410", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/06C3B09B-C61D-4DBA-A9C2-30A36AAA85A9"
+            }
+        }, 
+        "url": "https://forrst-production.s3.amazonaws.com/posts/snaps/134067/original.jpg?1330346910"
+    }, 
+    "date": {
+        "$date": 1330393563072
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "fdde9136a9e376480627e1ca8123a4a6255240", 
+    "mime_type": "image/jpeg", 
+    "name": "Original image for Nerd party - A snap from marekmundok - Forrst", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 255240, 
+    "source": "https://forrst.com/posts/dZz/original", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f4c31daa4e6d.jpg", 
+    "tags": [], 
+    "url_token": "ux.M"
+}

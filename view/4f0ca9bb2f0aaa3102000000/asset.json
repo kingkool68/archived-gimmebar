@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f0ca9bb2f0aaa3102000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1326229923278
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9EF64755-48BE-4E93-B936-ED471F95ACA0"
+            }, 
+            "postback_key": "0569b1445870e9b79f12287d15f34a13", 
+            "request_time": {
+                "$date": 1326229947208
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C8604E8C-620D-4AE1-A3F5-E19FB0194FA7"
+            }
+        }, 
+        "url": "http://365awesomedesigners.com/wp-content/uploads/2012/01/outerspace1.jpeg"
+    }, 
+    "date": {
+        "$date": 1326229947212
+    }, 
+    "description": "Space Pirate", 
+    "from_backup": false, 
+    "media_hash": "57ca1e8b5e6f436e923b46b5529a743463719", 
+    "mime_type": "image/jpeg", 
+    "name": "outerspace1.jpeg (JPEG Image, 400\u00a0\u00d7\u00a0300 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 63719, 
+    "source": "http://365awesomedesigners.com/wp-content/uploads/2012/01/outerspace1.jpeg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f0ca9bac6f28.jpg", 
+    "tags": [], 
+    "url_token": "mZHp"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f0f449f2e0aaa3078000004"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1326400704491
+            }, 
+            "display": {
+                "dims": {
+                    "h": "465", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BBDF2A72-EC1E-435D-8EF0-DE0A431F342C"
+            }, 
+            "postback_key": "ef05761629d4ed675a85893617d1b5a7", 
+            "request_time": {
+                "$date": 1326400671824
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D12D60FE-9BB9-4A2D-A635-697A3DB5AF87"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/01/carousel3_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1326400671828
+    }, 
+    "description": "Photographer Pep Ventosa made these abstract composite images of carousels in various amusement parks around the world by photographing them from multiple angles and then blending the photographs together.", 
+    "from_backup": false, 
+    "media_hash": "29a3e4aa11246b94c08f1147229ef0da77935", 
+    "mime_type": "image/jpeg", 
+    "name": "Photos of Carousels Seen From All Sides", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 77935, 
+    "source": "http://www.petapixel.com/2012/01/12/photos-of-carousels-seen-from-all-sides/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f0f449f111c8.jpg", 
+    "tags": [], 
+    "url_token": "nro9"
+}

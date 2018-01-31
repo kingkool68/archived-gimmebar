@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efb427a2e0aaaa93a000004"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325089417233
+            }, 
+            "display": {
+                "dims": {
+                    "h": "750", 
+                    "w": "750"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/59DA0579-E673-4844-8677-B5BFD8799FA4"
+            }, 
+            "postback_key": "8322276771cb1467249148391f7c60cf", 
+            "request_time": {
+                "$date": 1325089402333
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/09588DD5-85D9-4047-AFF8-C676D1A4709F"
+            }
+        }, 
+        "url": "http://wvs.topleftpixel.com/photos/2011/12/spotlights_clouds_square_01.jpg"
+    }, 
+    "date": {
+        "$date": 1325089402374
+    }, 
+    "description": "#clouds", 
+    "from_backup": false, 
+    "media_hash": "1203ce063821741ee591f590671b221c177137", 
+    "mime_type": "image/jpeg", 
+    "name": "[daily dose of imagery] Spotlights", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 177137, 
+    "source": "http://wvs.topleftpixel.com/11/12/26/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efb4279a07ef.jpg", 
+    "tags": [
+        "clouds"
+    ], 
+    "url_token": "lljI"
+}

@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e94b7b22f0aaab13e000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1318311951372
+            }, 
+            "display": {
+                "dims": {
+                    "h": "480", 
+                    "w": "385"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B4BDDEEB-B132-4CE4-830E-F0670F1E14A3"
+            }, 
+            "postback_key": "13cc26a25b2dd5ef60315eead7683c41", 
+            "request_time": {
+                "$date": 1318311949932
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "362", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9C3402CC-BE30-49A2-B0F5-B23E74E40DC9"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/afd49838c41926cc4641375b2d4cfd3fa7fd2ac1_m.gif"
+    }, 
+    "date": {
+        "$date": 1318369202646
+    }, 
+    "description": "Salt the Hash #programming #security #pixelated", 
+    "media_hash": "f76f9b1a2d77c308cc5f8a943d27069b34192", 
+    "mime_type": "image/gif", 
+    "name": "afd49838c41926cc4641375b2d4cfd3fa7fd2ac1_m.gif (GIF Image, 385x480 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 34192, 
+    "source": "http://img.ffffound.com/static-data/assets/6/afd49838c41926cc4641375b2d4cfd3fa7fd2ac1_m.gif", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e93d80d6dc2f.gif", 
+    "tags": [
+        "programming", 
+        "security", 
+        "pixelated"
+    ], 
+    "url_token": "boUN"
+}

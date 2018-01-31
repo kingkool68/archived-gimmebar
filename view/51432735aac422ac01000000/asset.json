@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51432735aac422ac01000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1339, 
+            "w": 750
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363355447003
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "560"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/86C9A505-699D-4FED-B186-860D0ABE702B"
+            }, 
+            "postback_key": "3d36ef0f9b8594c34dd7c53774feded0", 
+            "request_time": {
+                "$date": 1363355444193
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "518", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/DC2DD9CD-83CB-451D-AA91-FD2D4D80438B"
+            }
+        }, 
+        "url": "http://wvs.topleftpixel.com/photos/2013/03/bay-street_wellington_wide-tall_buildings_blue-bike_01.jpg"
+    }, 
+    "date": {
+        "$date": 1363355445054
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "831a1bae0a8a4fdaf4e2ad75d8ffd5ad381445", 
+    "mime_type": "image/jpeg", 
+    "name": "[daily dose of imagery] Cyclist on Bay", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 381445, 
+    "source": "http://wvs.topleftpixel.com/13/03/15/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51432733d1a75.jpg", 
+    "tags": [], 
+    "url_token": "apiyj"
+}

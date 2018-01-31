@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f0f16712e0aaa8d3b000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1326388883359
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "62"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9BC51057-A41A-47BF-A232-2F5AC49D22F7"
+            }, 
+            "postback_key": "d2edba2c8a4aba781c010715d9d598d8", 
+            "request_time": {
+                "$date": 1326388849649
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "4676", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6EF9DD78-B251-4792-A052-EE0455FBACC0"
+            }
+        }, 
+        "url": "http://d24w6bsrhbeh9d.cloudfront.net/photo/1771224_700b.jpg"
+    }, 
+    "date": {
+        "$date": 1326388849658
+    }, 
+    "description": "Science History", 
+    "from_backup": false, 
+    "media_hash": "24f3d432f79848c23110665ff7004db3508723", 
+    "mime_type": "image/jpeg", 
+    "name": "9GAG - Science History According To Megan Lee Welch", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 508723, 
+    "source": "http://9gag.com/gag/1771224", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f0f16712c045.jpg", 
+    "tags": [], 
+    "url_token": "npLC"
+}

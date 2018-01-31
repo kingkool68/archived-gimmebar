@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb1972f0aaa161b000021"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103193222
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6378E59F-7F49-4324-AB96-500BAA843140"
+            }, 
+            "postback_key": "5790604a08056cd716d49aa97f0417ac", 
+            "request_time": {
+                "$date": 1322103191831
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/45774112-CEB1-49B2-881B-4F97B9C823DD"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/05/24/Burger.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103191840
+    }, 
+    "description": "#pixelated #burger #minimal", 
+    "from_backup": false, 
+    "media_hash": "86c9e79cb764b6f587a4b4bd76603ff35898", 
+    "mime_type": "image/png", 
+    "name": "Burger by Nathan Ford \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 5898, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/may/24/burger/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb19784d6a.png", 
+    "tags": [
+        "pixelated", 
+        "burger", 
+        "minimal"
+    ], 
+    "url_token": "f33m"
+}

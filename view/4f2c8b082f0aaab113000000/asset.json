@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f2c8b082f0aaab113000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1328319187487
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "513"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/EDBAB857-4A50-4684-A3C6-1598F8B8F977"
+            }, 
+            "postback_key": "3d7454e9d179b67ebdb25c278dba613f", 
+            "request_time": {
+                "$date": 1328319240586
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "565", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/91610EED-DC60-44CB-86F7-5E0613A1945F"
+            }
+        }, 
+        "url": "http://creattica.com/uploaded-images/0014/3324/880.jpg"
+    }, 
+    "date": {
+        "$date": 1328319240590
+    }, 
+    "description": "Dark layout. Good color scheme.", 
+    "from_backup": false, 
+    "media_hash": "8a700066fa2cab8b08c58dfdd5b76a32908204", 
+    "mime_type": "image/jpeg", 
+    "name": "Free Inkfolio: Professional Portfolio Template [Free PSD] - Free PSD Files - Creattica", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 908204, 
+    "source": "http://creattica.com/free-psd-files/inkfolio-professional-portfolio-template-free-psd/62726", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f2c8b082900c.jpg", 
+    "tags": [], 
+    "url_token": "qUeq"
+}

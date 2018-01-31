@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbeed72e0aaa611a000213"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325133531036
+            }, 
+            "display": {
+                "dims": {
+                    "h": "805", 
+                    "w": "581"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A2356EEC-95CD-4436-9837-65E4DE1594D5"
+            }, 
+            "postback_key": "8a4c3c20acd1b622be8bb09f41f944f5", 
+            "request_time": {
+                "$date": 1325133527898
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "402", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4B61A626-6C45-4B56-B668-7ED970F26AE1"
+            }
+        }, 
+        "url": "http://cache1.bigcartel.com/product_images/28728995/Picture_30.png"
+    }, 
+    "date": {
+        "$date": 1325133527906
+    }, 
+    "description": "Hot Diggity Dog", 
+    "from_backup": false, 
+    "media_hash": "55b64013465297dd58d4d09ebe769286504203", 
+    "mime_type": "image/png", 
+    "name": "Picture_30.png (581\u00d7805)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 504203, 
+    "source": "http://cache1.bigcartel.com/product_images/28728995/Picture_30.png", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbeed76d342.png", 
+    "tags": [], 
+    "url_token": "lp1c"
+}

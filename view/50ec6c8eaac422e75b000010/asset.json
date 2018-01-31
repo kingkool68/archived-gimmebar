@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50ec6c8eaac422e75b000010"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 496, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1357671567801
+            }, 
+            "display": {
+                "dims": {
+                    "h": "496", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BD257E98-404F-4005-9994-576D5FF44CEF"
+            }, 
+            "postback_key": "1b1fad988654aad55d2d68b6e64d7412", 
+            "request_time": {
+                "$date": 1357671566593
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "232", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A54DEDCA-E854-48F7-8C05-68A02E6A7F06"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2013/01/jamesnizam-1.jpg"
+    }, 
+    "date": {
+        "$date": 1357671566667
+    }, 
+    "description": "Black and white", 
+    "from_backup": null, 
+    "media_hash": "a2f1c3a0bc32905cbe4b594232f7ca1d36750", 
+    "mime_type": "image/jpeg", 
+    "name": "Photos of Beams of Sunlight Bouncing Around a Room", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 36750, 
+    "source": "http://www.petapixel.com/2013/01/08/photos-of-beams-of-sunlight-bouncing-around-a-room/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50ec6c8e3ad9b.jpg", 
+    "tags": [], 
+    "url_token": "ae1eo"
+}

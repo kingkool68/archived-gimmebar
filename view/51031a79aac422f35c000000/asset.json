@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51031a79aac422f35c000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 999, 
+            "w": 999
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1359157884369
+            }, 
+            "display": {
+                "dims": {
+                    "h": "999", 
+                    "w": "999"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B0BD6D8D-68D2-49A2-B2B7-CFE8EEA29545"
+            }, 
+            "postback_key": "9349a97e7520f57ab4d9f6f718e19f79", 
+            "request_time": {
+                "$date": 1359157881528
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9C6786CA-0A3C-4942-911F-36F08E7BF677"
+            }
+        }, 
+        "url": "http://i.imgur.com/SCrPx8A.jpg"
+    }, 
+    "date": {
+        "$date": 1359157881624
+    }, 
+    "description": "Sea explorer underwater.\u00a0", 
+    "from_backup": null, 
+    "media_hash": "0991cfef6e62f03a4f6139fda2b93983187546", 
+    "mime_type": "image/jpeg", 
+    "name": "SCrPx8A.jpg (999\u00d7999)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 187546, 
+    "source": "http://i.imgur.com/SCrPx8A.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51031a74b5f9a.jpg", 
+    "tags": [], 
+    "url_token": "ahPuO"
+}

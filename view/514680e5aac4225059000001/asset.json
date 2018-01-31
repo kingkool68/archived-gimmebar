@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514680e5aac4225059000001"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 894, 
+            "w": 590
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363575017201
+            }, 
+            "display": {
+                "dims": {
+                    "h": "894", 
+                    "w": "590"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E83CE3F4-EC22-42DB-B79E-4A5E41F3EE51"
+            }, 
+            "postback_key": "abab6a752cbf6a001f25e29d57778782", 
+            "request_time": {
+                "$date": 1363575013767
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "439", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2FFEB366-5459-4DD3-A521-567BF3364462"
+            }
+        }, 
+        "url": "http://cdn.walltowatch.com/files/0/0/0/2/00022013.jpg"
+    }, 
+    "date": {
+        "$date": 1363575013771
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "fa6f1752e3bcf7c63b29d5a1c29191d167764", 
+    "mime_type": "image/jpeg", 
+    "name": "Concepci\u00f3n Studios - Wall to Watch", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 67764, 
+    "source": "http://www.walltowatch.com/view/6591/Concepci%C3%B3n+Studios", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/514680e560992.jpg", 
+    "tags": [], 
+    "url_token": "apGtn"
+}

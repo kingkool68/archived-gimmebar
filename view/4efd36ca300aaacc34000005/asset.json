@@ -1,0 +1,41 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efd36ca300aaacc34000005"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "display": {
+                "url": "http://s3.amazonaws.com/resized-images-new/DD55BE0B-789F-43CB-AE9C-798D9183A91C"
+            }, 
+            "postback_key": "96e49b2f44198c1f956f4e4f156bd4f0", 
+            "request_time": {
+                "$date": 1325217482975
+            }, 
+            "retried": [], 
+            "stash": {
+                "url": "http://s3.amazonaws.com/resized-images-new/80ACB8DE-1B74-4F5D-9A51-35050C777E66"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/ebbda86a45dba7b11f024f9447d896d9b7ac6a07_m.gif"
+    }, 
+    "date": {
+        "$date": 1325217482980
+    }, 
+    "description": "Astronaut with wild colors. ", 
+    "from_backup": false, 
+    "media_hash": "399a56d78a7374833cbf34e440e023dc724853", 
+    "mime_type": "image/gif", 
+    "name": "FFFFOUND! | (2) Tumblr", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 724853, 
+    "source": "http://ffffound.com/image/ebbda86a45dba7b11f024f9447d896d9b7ac6a07", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efd36ca7f1ce.gif", 
+    "tags": [], 
+    "url_token": "lyr7"
+}

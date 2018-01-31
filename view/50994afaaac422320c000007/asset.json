@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50994afaaac422320c000007"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 294, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1352223483565
+            }, 
+            "display": {
+                "dims": {
+                    "h": "294", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/50B9F425-967A-42EC-ABE0-4D61A794B951"
+            }, 
+            "postback_key": "966dfc9db03173f70cc8be42c860fbee", 
+            "request_time": {
+                "$date": 1352223482583
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "138", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FBEA24A9-86DF-41EF-BA40-74D6B656560C"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/11/blackboard-6.jpg"
+    }, 
+    "date": {
+        "$date": 1352223482586
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "dcfe143f80506489a4dbe92ada0a946a56944", 
+    "mime_type": "image/jpeg", 
+    "name": "Momentum: Photos of Quantum Mechanic Calculations Scribbled on Chalkboards", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 56944, 
+    "source": "http://www.petapixel.com/2012/11/06/momentum-photos-of-quantum-mechanic-calculations-scribbled-on-chalkboards/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50994afa44150.jpg", 
+    "tags": [], 
+    "url_token": "8ZxK"
+}

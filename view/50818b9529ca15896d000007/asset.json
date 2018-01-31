@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50818b9529ca15896d000007"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1350667216734
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/0B9A5E48-DAF5-4E09-9129-2502942F9F1D"
+            }, 
+            "postback_key": "bb62a75aed720603c5297dd575c328ab", 
+            "request_time": {
+                "$date": 1350667157450
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/01979E5A-0D57-41BA-A4F8-387940E72639"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/67D8A7ED-2070-4459-95CC-38DEA137A912"
+            }
+        }, 
+        "url": "http://www.southtees.nhs.uk/style-guide/"
+    }, 
+    "date": {
+        "$date": 1350667157482
+    }, 
+    "description": "Collection of elements with sample markup. ", 
+    "from_backup": null, 
+    "media_hash": "c1473f354222f1f79bb3d5bc795b097d63546", 
+    "mime_type": "text/html", 
+    "name": "Style Guide | South Tees Hospitals NHS Foundation Trust", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 63546, 
+    "source": "http://www.southtees.nhs.uk/style-guide/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50818b951e81b.html", 
+    "tags": [], 
+    "url_token": "5-8K"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "516ff53e29ca151178000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 750, 
+            "w": 500
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1366291774678
+            }, 
+            "display": {
+                "dims": {
+                    "h": "750", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/770A8B8F-BAE2-4196-B9A5-C43B02CF0861"
+            }, 
+            "postback_key": "316800dbc7da474efac93be7f40a5cca", 
+            "request_time": {
+                "$date": 1366291772547
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "435", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5704D72E-6F92-4B1F-A8B2-6DD44CEB249E"
+            }
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2013/04/double-exposure-170-copy.jpg"
+    }, 
+    "date": {
+        "$date": 1366291772560
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "7e6c03cd0e8e0cb498373d9f6c570496127474", 
+    "mime_type": "image/jpeg", 
+    "name": "Tutorial: Shooting Double Exposures with a Canon 5D Mark III", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 127474, 
+    "source": "http://petapixel.com/2013/04/17/tutorial-shooting-double-exposures-with-a-canon-5d-mark-iii/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/516ff53c290e7.jpg", 
+    "tags": [], 
+    "url_token": "aunH0"
+}

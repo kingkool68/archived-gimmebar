@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f0294382f0aaae54300000b"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325569072094
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "800"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E7A43015-669F-4250-8CAC-36D08DDC34CF"
+            }, 
+            "postback_key": "5708a865e9e471c47f8780ee3855858a", 
+            "request_time": {
+                "$date": 1325569080422
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "363", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2AA6119B-1CFD-416D-98E2-D5E7175E2BED"
+            }
+        }, 
+        "url": "http://ericcahan.com/wp-content/uploads/2011/03/Sea-Cliff-San-Francisco-CA-Sunrise-6-57am-Plate-1.jpg"
+    }, 
+    "date": {
+        "$date": 1325569080425
+    }, 
+    "description": "#sky #gradient", 
+    "from_backup": false, 
+    "media_hash": "5a7cec7dfac27d1a5b6287946e2d349c125578", 
+    "mime_type": "image/jpeg", 
+    "name": "Sky Series Selected Works 2011 | Eric Cahan", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 125578, 
+    "source": "http://ericcahan.com/portfolio/sky-series/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f02943819095.jpg", 
+    "tags": [
+        "sky", 
+        "gradient"
+    ], 
+    "url_token": "lXkK"
+}

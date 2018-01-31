@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "506edfc2aac422e84e000009"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 371, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1349443524220
+            }, 
+            "display": {
+                "dims": {
+                    "h": "371", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/06851417-E3ED-4051-88C3-CA7586C5BECA"
+            }, 
+            "postback_key": "70224db3dbc6f48e2c4c702026747e70", 
+            "request_time": {
+                "$date": 1349443522211
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "174", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/53FD442D-68B4-431C-9362-DF4383373692"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/10/jean1.jpeg"
+    }, 
+    "date": {
+        "$date": 1349443522214
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9e494ba554bc6e6675ed15d715868d0863278", 
+    "mime_type": "image/jpeg", 
+    "name": "Hyperphotos That Show Surreal Worlds in Mind-Boggling Detail", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 63278, 
+    "source": "http://www.petapixel.com/2012/10/04/hyperphotos-that-show-a-surreal-world-in-mind-boggling-detail/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/506edfc1cd845.jpg", 
+    "tags": [], 
+    "url_token": "3XdB"
+}

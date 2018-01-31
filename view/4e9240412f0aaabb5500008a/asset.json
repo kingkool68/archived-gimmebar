@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e9240412f0aaabb5500008a"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317980445939
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/7D9F039F-00E6-4204-8D02-D6F2974A9EDE"
+            }, 
+            "postback_key": "2025ff688b05d334fa2e67ced95a4c28", 
+            "request_time": {
+                "$date": 1317980344107
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "128", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/74EAC470-ED66-4EEE-8B4A-A87B8C219A79"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3E0EEC68-F6C0-4DA4-A379-422B4F05A87A"
+            }
+        }, 
+        "url": "http://www.apple.com/"
+    }, 
+    "date": {
+        "$date": 1318207553283
+    }, 
+    "description": "Steve Jobs 1955 - 2011 #bw ", 
+    "media_hash": "55a1d67c1d464bec0efccb34ec1cf05b6007", 
+    "mime_type": "text/html", 
+    "name": "Apple", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 6007, 
+    "source": "http://www.apple.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e8ec8b798ad4.html", 
+    "tags": [
+        "bw"
+    ], 
+    "url_token": "bk.B"
+}

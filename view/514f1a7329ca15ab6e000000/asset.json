@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514f1a7329ca15ab6e000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 761, 
+            "w": 953
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364138615121
+            }, 
+            "display": {
+                "dims": {
+                    "h": "761", 
+                    "w": "953"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F27FFEA7-4954-4EA1-8531-F0B52F7C6AC3"
+            }, 
+            "postback_key": "3dc6b4252e73a76e0ef07c5d705d9208", 
+            "request_time": {
+                "$date": 1364138611110
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "232", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3815AFB4-2393-444D-B123-0636088A6245"
+            }
+        }, 
+        "url": "http://www.depthcore.com/img/artwork/freestyle-3/3650.jpg"
+    }, 
+    "date": {
+        "$date": 1364138611167
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "3bd7121d6efdcc2a72d5f22b02992d40623261", 
+    "mime_type": "image/jpeg", 
+    "name": "DEPTHCORE \\ \"Hunt\" by Rodrigo Schneider", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 623261, 
+    "source": "http://www.depthcore.com/chapter/freestyle-3/3650/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/514f1a7298f3a.jpg", 
+    "tags": [], 
+    "url_token": "aqFRT"
+}

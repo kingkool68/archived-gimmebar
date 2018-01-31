@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50b77051aac422145b000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1200, 
+            "w": 800
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1354199123777
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "667"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7ADC809E-335E-4CD7-A911-4EE042182626"
+            }, 
+            "postback_key": "b5817d18ab928470546025a2a5a0d771", 
+            "request_time": {
+                "$date": 1354199121923
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "435", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/591FF1D4-A483-4ABE-B81B-E9A246BC1DA3"
+            }
+        }, 
+        "url": "http://24.media.tumblr.com/tumblr_mc8mr1VGvG1r92sruo3_1280.jpg"
+    }, 
+    "date": {
+        "$date": 1354199121954
+    }, 
+    "description": "Solidarity.", 
+    "from_backup": null, 
+    "media_hash": "29096eb13abc369b0417b9f11505885785231", 
+    "mime_type": "image/jpeg", 
+    "name": "Blog \u2014 Offscreen Magazine", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 85231, 
+    "source": "http://blog.offscreenmag.com/tagged/Desktop", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50b77051867aa.jpg", 
+    "tags": [], 
+    "url_token": "a.q.3"
+}

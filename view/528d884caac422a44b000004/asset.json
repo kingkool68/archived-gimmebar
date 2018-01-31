@@ -1,0 +1,45 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "528d884caac422a44b000004"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/C5F85922-2F69-4285-9C18-2A5A856C99FF"
+            }, 
+            "postback_key": "709c8bda4c18dce1626fb304633a70f0", 
+            "request_time": {
+                "$date": 1385007180555
+            }, 
+            "retried": [], 
+            "thumb": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/40CAE366-4C1B-4E19-A7C3-01DB0AC987C1"
+            }, 
+            "window": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/D03402BE-A78B-4FF5-A574-6B67AB8FCFDE"
+            }
+        }, 
+        "url": "http://tapmates.com/"
+    }, 
+    "date": {
+        "$date": 1385007180559
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "cd59f5360d7609f415c9d81ea33f34e423511", 
+    "mime_type": "text/html", 
+    "name": "Tapmates Inc.", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 23511, 
+    "source": "http://tapmates.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/528d884c2c1e7.html", 
+    "tags": [], 
+    "url_token": "aVBRt"
+}

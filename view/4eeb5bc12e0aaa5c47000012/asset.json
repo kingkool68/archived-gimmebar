@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5bc12e0aaa5c47000012"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324047372806
+            }, 
+            "display": {
+                "dims": {
+                    "h": "625", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/035F9C64-13DF-4874-B413-08DD08FC2CB6"
+            }, 
+            "postback_key": "865795f6eeff9f469feef4ed6219863a", 
+            "request_time": {
+                "$date": 1324047298002
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "363", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3FDB2A2E-615C-427D-A82D-061BAE5B557E"
+            }
+        }, 
+        "url": "http://26.media.tumblr.com/tumblr_lue8hbx9tx1r4gjgqo1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1324047298008
+    }, 
+    "description": "#octopus", 
+    "from_backup": false, 
+    "media_hash": "dacad012f5e4c64bdafa520213ccf59f134263", 
+    "mime_type": "image/jpeg", 
+    "name": "Astronaut with Octopus in Space", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 134263, 
+    "source": "http://bjornstar.com/page/4", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eeb5bc19e44b.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "j0wI"
+}

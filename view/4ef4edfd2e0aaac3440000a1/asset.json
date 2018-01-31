@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ef4edfd2e0aaac3440000a1"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324674567087
+            }, 
+            "display": {
+                "dims": {
+                    "h": "614", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4327A70E-90B6-40EC-B87B-EAD1AFC3B76D"
+            }, 
+            "postback_key": "ff46c9086837488dd99e3335b1ab24f9", 
+            "request_time": {
+                "$date": 1324674557549
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "287", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A2EF21CD-6724-4BB1-85B5-8F9CA39EC33B"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2011/12/eiffel_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1324674557589
+    }, 
+    "description": "Eiffel Tower at Night.", 
+    "from_backup": false, 
+    "media_hash": "1cc702a4e40f9122ec67e1e25936323d158565", 
+    "mime_type": "image/jpeg", 
+    "name": "Long Exposure Light Streak Photo of the Eiffel Tower at Night", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 158565, 
+    "source": "http://www.petapixel.com/2011/12/23/long-exposure-light-streak-photo-of-the-eiffel-tower-at-night/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ef4edfd1128c.jpg", 
+    "tags": [], 
+    "url_token": "kWfN"
+}

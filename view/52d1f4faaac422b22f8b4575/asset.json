@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "52d1f4faaac422b22f8b4575"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1120, 
+            "w": 1120
+        }, 
+        "url": "http://media.npr.org/assets/img/2014/01/09/shrink_wrap_41213_custom-3bb2af081424b5a932c50379388dca5c760f8411-s40-c85.jpg"
+    }, 
+    "date": {
+        "$date": 1389491450951
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "ff2a7d18c17143ab72bf21645e5b93c977994", 
+    "mime_type": "image/jpeg", 
+    "name": "Picture This: Illustrator Gets Inspired By The Morning News : NPR", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 77994, 
+    "source": "http://www.npr.org/2014/01/10/261075848/picture-this-illustrator-gets-inspired-by-the-morning-news?utm_content=buffer6892b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/52d1f4fad3ba4.jpg", 
+    "tags": [], 
+    "url_token": "a00.A"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd6862f0aaa293b000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127297622
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "300"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F498B43D-D3E2-4B68-93CE-9D73F13065B9"
+            }, 
+            "postback_key": "82fe52fefa2b330fdce88dee9de1edce", 
+            "request_time": {
+                "$date": 1325127302311
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1CA4889E-C84F-40FD-BC54-9B16212C195D"
+            }
+        }, 
+        "url": "http://www.mod-tots.com/site/wp-content/uploads/2011/01/Corkscrew1-300x300.jpg"
+    }, 
+    "date": {
+        "$date": 1325127302314
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "370e995eef8cbc7df6f2362bb98e245111519", 
+    "mime_type": "image/jpeg", 
+    "name": "Robots", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 11519, 
+    "source": "http://www.mod-tots.com/site/products/paintings/robots-coming-soon/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd685ec09b.jpg", 
+    "tags": [], 
+    "url_token": "lpl1"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4febbb1b29ca15630e000267"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1272, 
+            "w": 900
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1340848926389
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "708"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D4FA03F1-E5E3-42C2-BBC8-5D8D470A910C"
+            }, 
+            "postback_key": "db99625a9c0111cd7dd49fc56dc3ed50", 
+            "request_time": {
+                "$date": 1340848923010
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "410", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CD73E073-15B7-480D-9414-F9E37C5E50A6"
+            }
+        }, 
+        "url": "http://creebobby.com/mypetmonster.jpg"
+    }, 
+    "date": {
+        "$date": 1340848923016
+    }, 
+    "description": "Monster", 
+    "from_backup": null, 
+    "media_hash": "4e22f3c4b4133f04d829fd9d33f9fd81524262", 
+    "mime_type": "image/jpeg", 
+    "name": "mypetmonster.jpg (900\u00d71272)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 524262, 
+    "source": "http://creebobby.com/mypetmonster.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4febbb1aaaa63.jpg", 
+    "tags": [], 
+    "url_token": "Pj5M"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f452ea22e0aaad913000017"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329934068403
+            }, 
+            "display": {
+                "dims": {
+                    "h": "750", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/DEB0BD14-749B-43B4-B2D2-9E7C8B89878F"
+            }, 
+            "postback_key": "4e656b18b3dd0715be4efebb77b09457", 
+            "request_time": {
+                "$date": 1329933986261
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E269A0CA-D344-4190-8831-338EE00572BB"
+            }
+        }, 
+        "url": "http://www.thomasjacksonphotography.com/Page%2089.jpg"
+    }, 
+    "date": {
+        "$date": 1329933986264
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "b01a4551d6183f2b62ee8e309814022c220174", 
+    "mime_type": "image/jpeg", 
+    "name": "Flock of Leaves", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 220174, 
+    "source": "http://www.thomasjacksonphotography.com/Page%2089.htm", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f452ea1b6122.jpg", 
+    "tags": [], 
+    "url_token": "tKmx"
+}

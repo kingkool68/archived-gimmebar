@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc9992f0aaafe0e000004"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1323249853361
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/95C3CE18-3B5C-4B80-B83C-1B088ED4ADD6"
+            }, 
+            "postback_key": "938a54398d682dd801dbb5a209f5d007", 
+            "request_time": {
+                "$date": 1323249798259
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/7F268D3E-3374-46A6-9F4B-1D84798F4070"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/94C81ADA-1DBE-4046-A380-8AD07BE2CE31"
+            }
+        }, 
+        "url": "http://snipplr.com/view.php?codeview&id=8121"
+    }, 
+    "copy_of": "4edf30862f0aaaa83700000d", 
+    "date": {
+        "$date": 1330366873323
+    }, 
+    "description": "Thanks @steve_worsley for making me aware of this. Some placeholder content to help you build your style guide. https://twitter.com/#!/steve_worsley/status/144345731908636672", 
+    "media_hash": "3bc3e7745443272d00bc93426568b47434285", 
+    "mime_type": "text/html", 
+    "name": "HTML Test Page for CSS Style Guide - HTML - Snipplr Social Snippet Repository", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 34285, 
+    "source": "http://snipplr.com/view.php?codeview&id=8121", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4edf3085e5cef.html", 
+    "tags": [], 
+    "url_token": "utfz"
+}

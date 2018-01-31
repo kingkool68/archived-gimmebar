@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb4e6300aaae851000021"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322104040347
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C4F1071F-EF8D-42F3-9EC9-2BC48869CCFF"
+            }, 
+            "postback_key": "cfd842e160ff1eb7776283e56806bb45", 
+            "request_time": {
+                "$date": 1322104038320
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C578F786-2091-4585-A1E2-92DB03333867"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/3456/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1322104038379
+    }, 
+    "description": "Zombie Diamond", 
+    "from_backup": false, 
+    "media_hash": "a775de9f8f4e928216466673c7c1dc1692262", 
+    "mime_type": "image/jpeg", 
+    "name": "\"Diamonds Are Forever\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 92262, 
+    "source": "http://www.threadless.com/product/3456/Diamonds_Are_Forever_DTG?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb4e5ec9c5.jpg", 
+    "tags": [], 
+    "url_token": "f35K"
+}

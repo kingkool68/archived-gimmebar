@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f7373cc2f0aaae16700003d"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1332951845362
+            }, 
+            "display": {
+                "dims": {
+                    "h": "600", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0AB71FE3-78EE-455A-B8DC-86D8826D2AC2"
+            }, 
+            "postback_key": "d32e4a6c052c99e7774a9f0d898c2e10", 
+            "request_time": {
+                "$date": 1332952140836
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/589D5E0E-F116-49FD-88A2-9212FF41A8F6"
+            }
+        }, 
+        "url": "http://behance.vo.llnwd.net/profiles4/99293/projects/376953/992931261998620.jpg"
+    }, 
+    "date": {
+        "$date": 1332966348646
+    }, 
+    "description": "lines", 
+    "from_backup": false, 
+    "media_hash": "061d88897bfb0f204d3c2f9f1e3f09e9419849", 
+    "mime_type": "image/jpeg", 
+    "name": "Wide Awake", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 419849, 
+    "source": "http://behance.vo.llnwd.net/profiles4/99293/projects/376953/992931261998620.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f733c4c72e34.jpg", 
+    "tags": [], 
+    "url_token": "y6kv"
+}

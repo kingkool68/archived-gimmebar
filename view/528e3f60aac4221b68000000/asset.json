@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "528e3f60aac4221b68000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1024, 
+            "w": 696
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1385054051421
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "680"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A09BA1A5-8D17-408C-AB64-287EDEE59F58"
+            }, 
+            "postback_key": "406beb96dbe8f7a4dcc4d7e967aaf8c8", 
+            "request_time": {
+                "$date": 1385054048668
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "427", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9405909D-58F5-41ED-A34F-EE94133CD708"
+            }
+        }, 
+        "url": "http://farm6.staticflickr.com/5548/10941145433_6ab41afacd_b.jpg"
+    }, 
+    "date": {
+        "$date": 1385054048674
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "331bdf5747c861f40cd7bad5fce98263150197", 
+    "mime_type": "image/jpeg", 
+    "name": "10941145433_6ab41afacd_b.jpg (JPEG Image, 696\u00a0\u00d7\u00a01024 pixels) - Scaled (82%)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 150197, 
+    "source": "http://farm6.staticflickr.com/5548/10941145433_6ab41afacd_b.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/528e3f603e833.jpg", 
+    "tags": [], 
+    "url_token": "aVFVU"
+}

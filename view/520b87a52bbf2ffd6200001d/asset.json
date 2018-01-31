@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "520b87a52bbf2ffd6200001d"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1243, 
+            "w": 700
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1376487233857
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "563"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D7C806EC-0E27-40AB-85C7-DC4D3ADB8188"
+            }, 
+            "postback_key": "7b260b5fc00ae4f30eedb3f9f4d96449", 
+            "request_time": {
+                "$date": 1376487333402
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "515", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D32E2C46-855E-4DAB-9522-5E76B99B8D86"
+            }
+        }, 
+        "url": "http://images.veerle.duoh.com/uploads/inspiration-images/BigDaddy-Wallpaper-big.jpg"
+    }, 
+    "date": {
+        "$date": 1376487333412
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "de4b582b42bc207a4f33a7105ca3e0f1148074", 
+    "mime_type": "image/jpeg", 
+    "name": "The Inspiration Stream | Veerle's blog 3.0 - Webdesign - XHTML CSS | Graphic Design", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 148074, 
+    "source": "http://veerle.duoh.com/inspiration/detail/my_heart_belongs_to_daddy", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/520b87a51bab5.jpg", 
+    "tags": [], 
+    "url_token": "aK.xj"
+}

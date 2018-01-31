@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e852fb82e0aaacc40000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317351355389
+            }, 
+            "display": {
+                "dims": {
+                    "h": "674", 
+                    "w": "450"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2A7FA961-0B53-40EB-B71D-4B348842DDFD"
+            }, 
+            "postback_key": "c7f17f542dc51d3de1c1c29c0ccf8c6f", 
+            "request_time": {
+                "$date": 1317351352946
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "434", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7B8A38E1-D884-4DD9-9895-968F4FA4316D"
+            }
+        }, 
+        "url": "http://blog.iso50.com/wp-content/uploads/2009/06/3250330263_0024f4c689_o-450x674.jpg"
+    }, 
+    "date": {
+        "$date": 1317351352948
+    }, 
+    "description": "Poster with a plane and muted colors. ", 
+    "media_hash": "26ae64566ccab97a14cd0b4019f63a1948254", 
+    "mime_type": "image/jpeg", 
+    "name": "Chemtrail", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 48254, 
+    "source": "http://blog.iso50.com/wp-content/uploads/2009/06/3250330263_0024f4c689_o-450x674.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e852fb861118.jpg", 
+    "tags": [], 
+    "url_token": "a3pn"
+}

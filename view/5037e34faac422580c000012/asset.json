@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5037e34faac422580c000012"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 412, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1345839953266
+            }, 
+            "display": {
+                "dims": {
+                    "h": "412", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FA777FB7-9EC8-40D3-A9DE-5BD297A90E0B"
+            }, 
+            "postback_key": "adce0cb72ae7e3896b6a9041835bf974", 
+            "request_time": {
+                "$date": 1345839951747
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6CEEAED3-7F9F-44A7-BDAD-212C1F709C32"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/08/ladder2_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1345839951799
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "c498a4ea27bc4b102d7f84521899e4b846992", 
+    "mime_type": "image/jpeg", 
+    "name": "Surreal Photos of Twisty Ladders on a Misty Beach", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 46992, 
+    "source": "http://www.petapixel.com/2012/08/24/surreal-photos-of-twisty-ladders-on-a-misty-beach/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5037e34f6e60f.jpg", 
+    "tags": [], 
+    "url_token": "Xp_T"
+}

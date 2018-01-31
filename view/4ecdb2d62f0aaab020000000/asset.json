@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb2d62f0aaab020000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1319739360905
+            }, 
+            "display": {
+                "dims": {
+                    "h": "800", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7FFD6168-239B-4362-8A7E-B9421C0BCF46"
+            }, 
+            "postback_key": "6b53d6ab1c06c767ee4ff516a4732af9", 
+            "request_time": {
+                "$date": 1319739358042
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "387", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1EB25B89-2EC7-4133-A5D3-E546C89621F9"
+            }
+        }, 
+        "url": "http://images.veerle.duoh.com/uploads/inspiration-images/shed-2001-space-junk-big.jpg"
+    }, 
+    "date": {
+        "$date": 1322103510473
+    }, 
+    "description": "Space Junk", 
+    "from_backup": false, 
+    "media_hash": "65faebd24825979c418734925f9835d7209199", 
+    "mime_type": "image/jpeg", 
+    "name": "The Inspiration Stream | Veerle's blog 3.0 - Webdesign - XHTML CSS | Graphic Design", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 209199, 
+    "source": "http://veerle.duoh.com/inspiration/detail/space_junk", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ea99fdd874fe.jpg", 
+    "tags": [], 
+    "url_token": "f34E"
+}

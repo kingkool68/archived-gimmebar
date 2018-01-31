@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ea1bc032f0aaa242b000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1319222227792
+            }, 
+            "display": {
+                "dims": {
+                    "h": "640", 
+                    "w": "512"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/25823A86-1757-4767-BA24-41C9D8FFCEF0"
+            }, 
+            "postback_key": "56fe327963aa9e9a6c429d91b2af3306", 
+            "request_time": {
+                "$date": 1319222275135
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "363", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/732E6A1A-B902-4A39-A9AA-E0526B7571D6"
+            }
+        }, 
+        "url": "http://farm2.static.flickr.com/1133/4723299608_35e5887cb3_z.jpg"
+    }, 
+    "date": {
+        "$date": 1319222275142
+    }, 
+    "description": "dark octopus grim", 
+    "media_hash": "df6b9794b1ccd39300c886e3269aa17e83394", 
+    "mime_type": "image/jpeg", 
+    "name": "4723299608_35e5887cb3_z.jpg (JPEG Image, 512x640 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 83394, 
+    "source": "http://farm2.static.flickr.com/1133/4723299608_35e5887cb3_z.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ea1bc02c754e.jpg", 
+    "tags": [], 
+    "url_token": "bKN7"
+}

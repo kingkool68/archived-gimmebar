@@ -1,0 +1,57 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ee61be2300aaac755000000"
+    }, 
+    "asset_type": "embed", 
+    "avatar": false, 
+    "content": {
+        "assimilator_subtype": "Vimeo", 
+        "assimilator_type": "Vimeo", 
+        "info": {
+            "author_name": "Cyril Izarn", 
+            "author_url": "http://vimeo.com/user9329509", 
+            "description": "Opening Titles for the new video of LOCKWOOD skateboarders team.\n\nArt direction : Cyril Izarn\nMotion design : Cyril Izarn", 
+            "duration": 40, 
+            "height": 720, 
+            "html": "<iframe src=\"http://player.vimeo.com/video/32334957\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>", 
+            "is_plus": "0", 
+            "provider_name": "Vimeo", 
+            "provider_url": "http://vimeo.com/", 
+            "thumbnail_height": 720, 
+            "thumbnail_url": "http://b.vimeocdn.com/ts/220/479/220479548_1280.jpg", 
+            "thumbnail_width": 1280, 
+            "title": "LOCKWOOD OPENING TITLES", 
+            "type": "video", 
+            "version": "1.0", 
+            "video_id": 32334957, 
+            "width": 1280
+        }, 
+        "params": {
+            "height": "720", 
+            "src": "http://player.vimeo.com/video/32334957", 
+            "tag": "iframe", 
+            "width": "1280"
+        }, 
+        "thumbnail": "http://b.vimeocdn.com/ts/220/479/220479548_1280.jpg", 
+        "title": "LOCKWOOD OPENING TITLES", 
+        "type": "embed", 
+        "url": null
+    }, 
+    "date": {
+        "$date": 1323703266095
+    }, 
+    "description": "Skateboard video opening titles. #motiongraphics ", 
+    "from_backup": false, 
+    "media_hash": "e5e2d18a54c6c97cbffc52145f4b342138", 
+    "mime_type": "text/-gimmebar-assimilator", 
+    "name": "LOCKWOOD OPENING TITLES on Vimeo", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 161, 
+    "source": "http://vimeo.com/32334957", 
+    "tags": [
+        "motiongraphics"
+    ], 
+    "url_token": "jod5"
+}

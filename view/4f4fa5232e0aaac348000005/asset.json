@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4fa5232e0aaac348000005"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1330619872347
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/0E7C6712-19AF-40D4-B8E1-E6AB8A8876CB"
+            }, 
+            "postback_key": "f101404235fa25fb688ddd69f0d34002", 
+            "request_time": {
+                "$date": 1330619683416
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "298", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/818E11FA-362A-4E7B-A8C4-A9AA70E34B95"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/95D8B408-148B-45F3-BE55-D552165F14A6"
+            }
+        }, 
+        "url": "http://www.consumerfinance.gov/"
+    }, 
+    "date": {
+        "$date": 1330619683420
+    }, 
+    "description": "I like the way they do links #blue ", 
+    "from_backup": false, 
+    "media_hash": "62bac420843dc698cb82ef817d96bb4d17894", 
+    "mime_type": "text/html", 
+    "name": "CFPB > Consumer Financial Protection Bureau", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 17894, 
+    "source": "http://www.consumerfinance.gov/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f4fa5230c1ad.html", 
+    "tags": [
+        "blue"
+    ], 
+    "url_token": "uZsX"
+}

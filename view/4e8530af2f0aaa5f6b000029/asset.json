@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e8530af2f0aaa5f6b000029"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317351600837
+            }, 
+            "display": {
+                "dims": {
+                    "h": "416", 
+                    "w": "624"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6EF0869D-42B8-4D66-9475-6CB2C829EE9B"
+            }, 
+            "postback_key": "1be71f072570443e71a601e71288f5d7", 
+            "request_time": {
+                "$date": 1317351599337
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/83242062-238E-4C33-9528-0423EEEBCC1A"
+            }
+        }, 
+        "url": "http://1.bp.blogspot.com/_5sS4j5O28Hs/SJ_yAeYeMqI/AAAAAAAAAi4/KqhRKTPl_u0/s1600/symphony.jpg"
+    }, 
+    "date": {
+        "$date": 1317351599345
+    }, 
+    "description": "Sea Syphmony. #bw #photography", 
+    "media_hash": "2d255041ef99f8d4d3d41455b9cb0c4d80728", 
+    "mime_type": "image/jpeg", 
+    "name": "symphony.jpg (image)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 80728, 
+    "source": "http://1.bp.blogspot.com/_5sS4j5O28Hs/SJ_yAeYeMqI/AAAAAAAAAi4/KqhRKTPl_u0/s1600-h/symphony.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e8530af0bf30.jpg", 
+    "tags": [
+        "bw", 
+        "photography"
+    ], 
+    "url_token": "a3pD"
+}

@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5367964b2bbf2f3c7b8b4588"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 418, 
+            "w": 1000
+        }, 
+        "url": "https://pbs.twimg.com/media/Bm1lmC5CQAAtE-a.jpg:large"
+    }, 
+    "date": {
+        "$date": 1399297611506
+    }, 
+    "description": "Perfect shot from THE OMEN (1976) DoP: Gilbert Taylor | Dir: Richard Donner \n\nhttps://twitter.com/OnePerfectShot/status/463138040966168576/photo/1", 
+    "from_backup": null, 
+    "media_hash": "3cba789e9c1c7dddc198879ec3ad155045203", 
+    "mime_type": "image/jpeg", 
+    "name": "Bm1lmC5CQAAtE-a.jpg:large (JPEG Image, 1000\u00a0\u00d7\u00a0418 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 45203, 
+    "source": "https://pbs.twimg.com/media/Bm1lmC5CQAAtE-a.jpg:large", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5367964b4002c.jpg", 
+    "tags": [], 
+    "url_token": "b.XWQ"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50e65229aac4220138000006"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 657, 
+            "w": 500
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1357271595783
+            }, 
+            "display": {
+                "dims": {
+                    "h": "657", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D07F7EAE-027D-46D0-9DEC-77577B17D87F"
+            }, 
+            "postback_key": "734d509d20d2a8e5dff2d2cdc35a42ab", 
+            "request_time": {
+                "$date": 1357271593950
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "381", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1617CF2B-4A42-47AD-ADDA-E0F016107BA6"
+            }
+        }, 
+        "url": "http://24.media.tumblr.com/tumblr_li15wnpvgE1qg0mg3o1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1357271593954
+    }, 
+    "description": "Octopus.", 
+    "from_backup": null, 
+    "media_hash": "a42f5947457269e234836c82d1abc02d87098", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_li15wnpvgE1qg0mg3o1_500.jpg (500\u00d7657)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 87098, 
+    "source": "http://24.media.tumblr.com/tumblr_li15wnpvgE1qg0mg3o1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50e6522992716.jpg", 
+    "tags": [], 
+    "url_token": "aekHt"
+}

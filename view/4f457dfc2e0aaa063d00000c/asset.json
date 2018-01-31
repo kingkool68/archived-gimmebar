@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457dfc2e0aaa063d00000c"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329954383897
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/11303E0B-8115-442E-AB52-185415BAB097"
+            }, 
+            "postback_key": "1d32092a97a85467998529bfe7a31278", 
+            "request_time": {
+                "$date": 1329954300219
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "178", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F490402E-D3F4-4715-BB83-57CAE5A6CD08"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/74DF1371-323C-4FA8-9D20-222D573278AF"
+            }
+        }, 
+        "url": "http://screendesigner.ideenfrische.de/"
+    }, 
+    "date": {
+        "$date": 1329954300222
+    }, 
+    "description": "Interesting visual design.", 
+    "from_backup": false, 
+    "media_hash": "975ab3b8b6b273d88ad00b6ea41463904968", 
+    "mime_type": "text/html", 
+    "name": "http://screendesigner.ideenfrische.de/", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 4968, 
+    "source": "http://screendesigner.ideenfrische.de/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f457dfbbbfb6.html", 
+    "tags": [], 
+    "url_token": "tOkF"
+}

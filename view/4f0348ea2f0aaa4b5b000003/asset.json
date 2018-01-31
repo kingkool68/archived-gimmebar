@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f0348ea2f0aaa4b5b000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1320707011466
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "750"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A7F36CDF-01AA-43E6-AD2E-853426539DBF"
+            }, 
+            "postback_key": "819242c070bd0245b3c68bd66ce273d6", 
+            "request_time": {
+                "$date": 1320706939459
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "387", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/66B123C8-3492-4FEE-B818-60418ECF213C"
+            }
+        }, 
+        "url": "http://www.wearefixel.com/wp-content/uploads/dbc-illy.jpg"
+    }, 
+    "date": {
+        "$date": 1325615338048
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "9a8ac8125dcd9557ac2862c0d251cb35264547", 
+    "mime_type": "image/jpeg", 
+    "name": "dbc-illy.jpg (JPEG Image, 750\u00a0\u00d7\u00a01000 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 264547, 
+    "source": "http://www.wearefixel.com/wp-content/uploads/dbc-illy.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eb8637aec2e0.jpg", 
+    "tags": [], 
+    "url_token": "l3pq"
+}

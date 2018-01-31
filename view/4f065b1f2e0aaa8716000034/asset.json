@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f065b1f2e0aaa8716000034"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1314982629748
+            }, 
+            "display": {
+                "dims": {
+                    "h": "666", 
+                    "w": "470"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/90CC5305-EBFC-4DBD-BBD8-621F352C4719"
+            }, 
+            "postback_key": "7d8c60d15d037bb13a7db097433adadc", 
+            "request_time": {
+                "$date": 1314982627486
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "411", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/46B8DA16-4F03-490C-8B68-AB38DD99B28F"
+            }
+        }, 
+        "url": "http://grainedit.com/wp-content/uploads/2009/12/iya6.jpg"
+    }, 
+    "copy_of": "4eb171fe2e0aaada1a000005", 
+    "date": {
+        "$date": 1325816607886
+    }, 
+    "description": "#poster", 
+    "media_hash": "33f3827cfe95d46c0c950260ad55f763309948", 
+    "mime_type": "image/jpeg", 
+    "name": "grain edit \u00b7 Simon Page interview", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 309948, 
+    "source": "http://grainedit.com/2010/01/03/simon-page-interview/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e610ae322021.jpg", 
+    "tags": [
+        "poster"
+    ], 
+    "url_token": "l_Za"
+}

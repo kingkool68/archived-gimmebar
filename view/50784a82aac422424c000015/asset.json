@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50784a82aac422424c000015"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 620, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1350060677849
+            }, 
+            "display": {
+                "dims": {
+                    "h": "620", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5D9CABF6-A853-40B4-BCD9-27F394AD8DA4"
+            }, 
+            "postback_key": "a283261af0f4de3490cdef192a48ccdf", 
+            "request_time": {
+                "$date": 1350060673785
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/209E06F5-84F9-41DA-AFC8-AAEB55598B69"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/10/bourgoyen-spring-2.jpg"
+    }, 
+    "date": {
+        "$date": 1350060673799
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "4c122ea450ff973ca7c4a24680d5f56f119500", 
+    "mime_type": "image/jpeg", 
+    "name": "Jaw-Dropping Little-Planet Photos That Span the Four Seasons", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 119500, 
+    "source": "http://www.petapixel.com/2012/10/12/jaw-dropping-little-planet-photos-that-span-the-four-seasons/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50784a815dd60.jpg", 
+    "tags": [], 
+    "url_token": "43kn"
+}

@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eb427d92f0aaa156f000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317417840049
+            }, 
+            "display": {
+                "dims": {
+                    "h": "206", 
+                    "w": "320"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6B8E0922-7C79-437C-9019-75F6D132A543"
+            }, 
+            "postback_key": "e0d5f8128c1f0ca3c52deafcad3351f5", 
+            "request_time": {
+                "$date": 1309312113116
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "187", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D4A2BCD7-740D-4986-A8D0-F882410C2AC3"
+            }
+        }, 
+        "url": "http://i.imgur.com/1Sk0c.gif"
+    }, 
+    "copy_of": "4eb319f62f0aaa2e2a000000", 
+    "date": {
+        "$date": 1320429529841
+    }, 
+    "description": "Yay.gif #animated", 
+    "media_hash": "7a4f5024687a1ba136d4a66f5bfe3eb7881419", 
+    "mime_type": "image/gif", 
+    "name": "COOKIE MONSTER", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 881419, 
+    "source": "http://bukk.it/yay.gif", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e0a8470871f4.gif", 
+    "tags": [
+        "animated"
+    ], 
+    "url_token": "cenz"
+}

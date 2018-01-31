@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5284ed50aac4229573000005"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1024, 
+            "w": 1017
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1384443501890
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "993"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9E5CCE08-0E24-4839-AE3C-C4F67AC20A68"
+            }, 
+            "postback_key": "869fde643489f19f876d76b53915776b", 
+            "request_time": {
+                "$date": 1384443216801
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "292", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/EEA40984-91E9-4E42-B89C-081AE87C7EB6"
+            }
+        }, 
+        "url": "http://farm8.staticflickr.com/7350/8724650227_8e9485f8dc_b.jpg"
+    }, 
+    "date": {
+        "$date": 1384443216804
+    }, 
+    "description": "http://www.flickr.com/photos/europeanspaceagency/8724650227/", 
+    "from_backup": null, 
+    "media_hash": "a8e778bcad35f015c80764bea7b9dbcd994526", 
+    "mime_type": "image/jpeg", 
+    "name": "8724650227_8e9485f8dc_b.jpg (JPEG Image, 1017\u00a0\u00d7\u00a01024 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 994526, 
+    "source": "http://farm8.staticflickr.com/7350/8724650227_8e9485f8dc_b.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5284ed5068bee.jpg", 
+    "tags": [], 
+    "url_token": "aUVgi"
+}

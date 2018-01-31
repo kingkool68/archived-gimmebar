@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc8eb2f0aaa170d000000"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1330366821600
+            }, 
+            "fullscreen": {
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/20EB0BC4-1C0C-407F-AB35-4ECF418867D9"
+            }, 
+            "postback_key": "b20280489c416e80e9e9d6f467193cc5", 
+            "request_time": {
+                "$date": 1330366699611
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/09BEA4F6-5CD5-437E-BB05-54B9EC1C420A"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/8C5A708B-711B-442E-8502-F0058D0E1363"
+            }
+        }, 
+        "url": "http://www.smashingmagazine.com/2010/07/21/designing-style-guidelines-for-brands-and-websites/"
+    }, 
+    "date": {
+        "$date": 1330366699616
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "3544277f83a9de0229cad511ecb2ccd8237148", 
+    "mime_type": "text/html", 
+    "name": "Designing Style Guidelines For Brands And Websites | Smashing Magazine", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 237148, 
+    "source": "http://www.smashingmagazine.com/2010/07/21/designing-style-guidelines-for-brands-and-websites/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f4bc8eb35439.html", 
+    "tags": [], 
+    "url_token": "utbX"
+}

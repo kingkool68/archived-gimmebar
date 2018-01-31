@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "511be57b29ca157d4d00000e"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1359288383394
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/E333B0AB-A1FF-4713-A08A-389EE88AB954"
+            }, 
+            "postback_key": "5b0c53a91e13053dd4814e6a8fac23c9", 
+            "request_time": {
+                "$date": 1359288325133
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/933B6D82-4EE0-4889-9F07-AE48818A484D"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/5285AC44-C00E-4330-8E21-04E5962E3B5A"
+            }
+        }, 
+        "url": "http://www.vagrantup.com/"
+    }, 
+    "date": {
+        "$date": 1360782715169
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "b95e6de3965193d470dd4a23e7a929b14570", 
+    "mime_type": "text/html", 
+    "name": "Vagrant", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 4570, 
+    "source": "http://www.vagrantup.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51051804cd722.html", 
+    "tags": [], 
+    "url_token": "akLBr"
+}

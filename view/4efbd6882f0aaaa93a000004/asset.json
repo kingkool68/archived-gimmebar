@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd6882f0aaaa93a000004"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127299968
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "300"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/26C4E84E-CD86-47BC-8468-D979FFA9D89D"
+            }, 
+            "postback_key": "6f5ec2bfce973d57690c7286940d6a69", 
+            "request_time": {
+                "$date": 1325127304935
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BA13CA94-B151-4C54-991D-4E20CF858F40"
+            }
+        }, 
+        "url": "http://www.mod-tots.com/site/wp-content/uploads/2011/01/Headspins1-300x300.jpg"
+    }, 
+    "date": {
+        "$date": 1325127304939
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "384e4c6eeee8139f5e4628d9cc1e70ce23909", 
+    "mime_type": "image/jpeg", 
+    "name": "Robots", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 23909, 
+    "source": "http://www.mod-tots.com/site/products/paintings/robots-coming-soon/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd6888bcaf.jpg", 
+    "tags": [], 
+    "url_token": "lpl2"
+}

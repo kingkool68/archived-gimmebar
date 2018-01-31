@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "565d0f072bbf2fed7e8b4567"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 662, 
+            "w": 818
+        }, 
+        "url": "http://36.media.tumblr.com/8057a28dd0fcea939301902df22da934/tumblr_nymxl82MiA1s5qhggo3_1280.jpg"
+    }, 
+    "date": {
+        "$date": 1448939271495
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "97b5039536b34afaeee60a016acad46b196965", 
+    "mime_type": "image/jpeg", 
+    "name": "Seth Rubenstein", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 196965, 
+    "source": "http://sethrubenstein.tumblr.com/post/134305820278/archatlas-nick-stathopoulos-love-these", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/565d0f0758f41.jpg", 
+    "tags": [], 
+    "url_token": "bVnKK"
+}

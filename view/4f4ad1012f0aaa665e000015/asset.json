@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4ad1012f0aaa665e000015"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1330194229929
+            }, 
+            "display": {
+                "dims": {
+                    "h": "777", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/35797AFD-FCCA-4820-BA46-06676D0071B7"
+            }, 
+            "postback_key": "347744221910a78bdc7ad4533caee5f6", 
+            "request_time": {
+                "$date": 1330194144486
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "225", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6B34121A-CFB9-49B7-9778-970138C3F02A"
+            }
+        }, 
+        "url": "http://img254.imageshack.us/img254/4174/explorer3.jpg"
+    }, 
+    "copy_of": "4f4926e02e0aaacd04000006", 
+    "date": {
+        "$date": 1330303233266
+    }, 
+    "description": "", 
+    "media_hash": "0bbbaee5fb9226bc20fed16fbc79ed8f195587", 
+    "mime_type": "image/jpeg", 
+    "name": "explorer3.jpg 1,000\u00d7777 pixels", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 195587, 
+    "source": "http://img254.imageshack.us/img254/4174/explorer3.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f4926dff1f8c.jpg", 
+    "tags": [], 
+    "url_token": "umAt"
+}

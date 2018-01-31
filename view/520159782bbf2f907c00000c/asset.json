@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "520159782bbf2f907c00000c"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 465, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1375820156174
+            }, 
+            "display": {
+                "dims": {
+                    "h": "465", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/28D5367B-C446-4607-ACB7-6516DA5FB6B6"
+            }, 
+            "postback_key": "adc163a80337623481513df44817778a", 
+            "request_time": {
+                "$date": 1375820152883
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6555F5B8-9460-44CE-BED3-A4E31072AA6F"
+            }
+        }, 
+        "url": "http://i2.wp.com/petapixel.com/assets/uploads/2013/08/skateboard_selfportraits-2.jpg?resize=620%2C465"
+    }, 
+    "date": {
+        "$date": 1375820152893
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "e0bf15dd29e53e922b1b7768fbf9dde281539", 
+    "mime_type": "image/jpeg", 
+    "name": "Amazing Skateboarding Self-Portraits by Fabiano Rodrigues", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 81539, 
+    "source": "http://petapixel.com/2013/08/06/gorgeous-skateboarding-self-portraits-by-fabiano-rodrigues/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/520159788dc52.jpg", 
+    "tags": [], 
+    "url_token": "aJg.W"
+}

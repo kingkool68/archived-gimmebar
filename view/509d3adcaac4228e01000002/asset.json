@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "509d3adcaac4228e01000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 496, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1352481501168
+            }, 
+            "display": {
+                "dims": {
+                    "h": "496", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C6F8C159-EED6-44EB-95E6-603DA1713B92"
+            }, 
+            "postback_key": "a596c4a3b87e8aa6bf1c83bace0eedd9", 
+            "request_time": {
+                "$date": 1352481500170
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "232", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6D78AFFC-65D3-426E-9557-D28CDB3A4B10"
+            }
+        }, 
+        "url": "http://i0.wp.com/www.petapixel.com/assets/uploads/2012/11/jpeg.jpg?resize=620%2C496"
+    }, 
+    "date": {
+        "$date": 1352481500268
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "816c99b80bfbc112a2dc7c1955a1483634516", 
+    "mime_type": "image/jpeg", 
+    "name": "Metaphysics of an Urban Landscape: New York City Filled with Shadows", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 34516, 
+    "source": "http://www.petapixel.com/2012/11/09/metaphysics-of-an-urban-landscape-high-key-photos-of-new-york-city/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/509d3adbc0081.jpg", 
+    "tags": [], 
+    "url_token": "9uSO"
+}

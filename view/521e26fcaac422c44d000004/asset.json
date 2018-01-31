@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "521e26fcaac422c44d000004"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 339, 
+            "w": 500
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1377707775755
+            }, 
+            "display": {
+                "dims": {
+                    "h": "339", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2F6B7928-9E33-467D-A037-8C3A4844ACDE"
+            }, 
+            "postback_key": "798fa20cae306123bdc75d2481d03836", 
+            "request_time": {
+                "$date": 1377707772548
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "197", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D314D95F-3C90-4B8E-87FA-D9198989F94A"
+            }
+        }, 
+        "url": "http://i2.wp.com/www.wptavern.com/wp-content/uploads/2013/08/CollectionsTheme3.jpg?resize=500%2C339"
+    }, 
+    "date": {
+        "$date": 1377707772553
+    }, 
+    "description": "Audio album art display. ", 
+    "from_backup": null, 
+    "media_hash": "0965abb9876247505a33dd20a5fdd8e342887", 
+    "mime_type": "image/jpeg", 
+    "name": "CollectionsTheme3.jpg (JPEG Image, 500\u00a0\u00d7\u00a0339 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 42887, 
+    "source": "http://i2.wp.com/www.wptavern.com/wp-content/uploads/2013/08/CollectionsTheme3.jpg?resize=500%2C339", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/521e26fc4481b.jpg", 
+    "tags": [], 
+    "url_token": "aLQr4"
+}

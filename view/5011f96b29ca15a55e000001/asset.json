@@ -1,0 +1,52 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5011f96b29ca15a55e000001"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329562064264
+            }, 
+            "display": {
+                "dims": {
+                    "h": "523", 
+                    "w": "700"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2D96639C-E3D1-4F07-80F2-3AEE2010E4CD"
+            }, 
+            "postback_key": "099d5b003cf13e19e60a696c819c67f6", 
+            "request_time": {
+                "$date": 1329561986740
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "217", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/817D956D-4714-40EC-9A8F-E299B4A17EB9"
+            }
+        }, 
+        "url": "http://payload26.cargocollective.com/1/0/128/2825228/gerard_9_905.jpg"
+    }, 
+    "date": {
+        "$date": 1343355243021
+    }, 
+    "description": "Fire abstract", 
+    "from_backup": null, 
+    "media_hash": "20afd76cb57e607102c4b0101dee7e7b183283", 
+    "mime_type": "image/jpeg", 
+    "name": "gerard_9_905.jpg (700\u00d7523)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 183283, 
+    "source": "http://payload26.cargocollective.com/1/0/128/2825228/gerard_9_905.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f3f818261da9.jpg", 
+    "tags": [], 
+    "url_token": "SVOl"
+}

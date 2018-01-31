@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb4b7300aaafa5000000a"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322104033875
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/23DCB4CD-1CF4-4CEC-9B89-94C4ACF5A746"
+            }, 
+            "postback_key": "22c19fd8c08c5c370d3e5db7f94a96cc", 
+            "request_time": {
+                "$date": 1322103991319
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/46DB606E-1E35-489B-B9E6-A90C24DDC19C"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/3441/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1322103991321
+    }, 
+    "description": "Funny. Paperclip.", 
+    "from_backup": false, 
+    "media_hash": "e8fc442092171038422a2ab41a65991933172", 
+    "mime_type": "image/jpeg", 
+    "name": "\"TGIF\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 33172, 
+    "source": "http://www.threadless.com/product/3441/TGIF?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb4b702605.jpg", 
+    "tags": [], 
+    "url_token": "f35z"
+}

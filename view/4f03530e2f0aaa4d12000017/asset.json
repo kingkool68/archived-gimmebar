@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f03530e2f0aaa4d12000017"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325617936899
+            }, 
+            "display": {
+                "dims": {
+                    "h": "661", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0D00D9C2-FA15-4382-B9CD-4D4303ECE331"
+            }, 
+            "postback_key": "71085af38795c13ada0b6da3d975e5bb", 
+            "request_time": {
+                "$date": 1325617934853
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "192", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/78004370-1F13-432B-BCF7-D385100B856D"
+            }
+        }, 
+        "url": "http://www.gizmodo.com.br/files/2011/08/warp4.jpg"
+    }, 
+    "date": {
+        "$date": 1325617934885
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "4aa5255cbfbb0865da2b73c8dcf86b21180988", 
+    "mime_type": "image/jpeg", 
+    "name": "warp4.jpg (JPEG Image, 1470\u00a0\u00d7\u00a0971 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 180988, 
+    "source": "http://www.gizmodo.com.br/files/2011/08/warp4.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f03530e477f0.jpg", 
+    "tags": [], 
+    "url_token": "l3wg"
+}

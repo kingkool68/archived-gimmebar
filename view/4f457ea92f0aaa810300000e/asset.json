@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457ea92f0aaa810300000e"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329954589920
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3A9F6536-B202-4BEE-A634-6016A4C0B465"
+            }, 
+            "postback_key": "8833a0a16432dd1120eaae185ec3a896", 
+            "request_time": {
+                "$date": 1329954473084
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "249", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/2DD7D7CE-3539-471B-BA00-AF021ECC10AF"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/84E685F1-99D6-4D28-A167-71F2CBDC73BA"
+            }
+        }, 
+        "url": "http://www.jonathan-krause.de/"
+    }, 
+    "date": {
+        "$date": 1329954473086
+    }, 
+    "description": "Strong example of good typography. ", 
+    "from_backup": false, 
+    "media_hash": "64743e81eba539e41b0ca34bb311315b7669", 
+    "mime_type": "text/html", 
+    "name": "Jonathan Krause: Webdesign aus Oberfranken", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 7669, 
+    "source": "http://www.jonathan-krause.de/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f457ea8b4212.html", 
+    "tags": [], 
+    "url_token": "tOlj"
+}

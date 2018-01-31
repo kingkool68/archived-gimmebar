@@ -1,0 +1,34 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e852eba2f0aaa1d67000038"
+    }, 
+    "asset_type": "embed", 
+    "avatar": false, 
+    "content": {
+        "attributes": {
+            "allowfullscreen": "true", 
+            "allowscriptaccess": "always", 
+            "height": "390", 
+            "src": "http://www.youtube.com/v/FaEZZ43WrTQ?version=3", 
+            "type": "application/x-shockwave-flash", 
+            "width": "640"
+        }, 
+        "tag": "EMBED"
+    }, 
+    "date": {
+        "$date": 1317351098384
+    }, 
+    "description": "Camera angle from the tip of a sword.\n#perspective", 
+    "media_hash": "a333ac94111f67a2b703abae102b029846", 
+    "mime_type": "text/-gimmebar-embed", 
+    "name": "Indie Horror Flick inspiration \u2013 Swordcam at FreshDV", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 207, 
+    "source": "http://www.freshdv.com/2010/12/swordcam.html?", 
+    "tags": [
+        "perspective"
+    ], 
+    "url_token": "a3o3"
+}

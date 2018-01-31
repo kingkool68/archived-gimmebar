@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd68d2f0aaab63b000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127304150
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "300"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B8C3D2E5-BFA1-49DF-97D3-217EEA4CE289"
+            }, 
+            "postback_key": "3ffd3380d2aaeb8aee92ef43033d7242", 
+            "request_time": {
+                "$date": 1325127309113
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6FA8EC99-11D2-450E-B510-76FCAB0AC19D"
+            }
+        }, 
+        "url": "http://www.mod-tots.com/site/wp-content/uploads/2011/01/Jackhammer1-300x300.jpg"
+    }, 
+    "date": {
+        "$date": 1325127309117
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "b2bf82c1e6d12a4616d820ee8cbf90c517260", 
+    "mime_type": "image/jpeg", 
+    "name": "Robots", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 17260, 
+    "source": "http://www.mod-tots.com/site/products/paintings/robots-coming-soon/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd68cc6f51.jpg", 
+    "tags": [], 
+    "url_token": "lpl5"
+}

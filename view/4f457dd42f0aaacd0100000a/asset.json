@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457dd42f0aaacd0100000a"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1328087877800
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3F87E4C6-F372-4D78-BA01-C128AF11F457"
+            }, 
+            "postback_key": "ef96e78b317ae15f34fb000f22abec95", 
+            "request_time": {
+                "$date": 1328087885115
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/CF73E8D6-B62C-49E3-8FF2-8E3BFCC565CC"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/2CE85AB4-0F49-491D-B725-8962D9FAE854"
+            }
+        }, 
+        "url": "http://www.raymacari.com/"
+    }, 
+    "date": {
+        "$date": 1329954260780
+    }, 
+    "description": "Simple one page portfolio.", 
+    "from_backup": false, 
+    "media_hash": "2bac758806687e96a0ed9429a964b45211587", 
+    "mime_type": "text/html", 
+    "name": "Ray Macari - Digital Designer & UX Designer", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 11587, 
+    "source": "http://www.raymacari.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f29034caf9bd.html", 
+    "tags": [], 
+    "url_token": "tOjU"
+}

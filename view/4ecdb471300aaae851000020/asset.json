@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb471300aaae851000020"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103922738
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/30C406C9-E8E2-4D87-B19D-316207144334"
+            }, 
+            "postback_key": "242c02a71764005488acb500b8fa015a", 
+            "request_time": {
+                "$date": 1322103921676
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/01FB7294-C634-4386-9E57-3662A0A2A9EA"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/2604/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1322103921678
+    }, 
+    "description": "T-rex with rainbows.", 
+    "from_backup": false, 
+    "media_hash": "445c73c9c0ebaa07b0930716459d5e6b81640", 
+    "mime_type": "image/jpeg", 
+    "name": "\"Technicolour Rex\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 81640, 
+    "source": "http://www.threadless.com/product/2604/Technicolour_Rex?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb4715fc15.jpg", 
+    "tags": [], 
+    "url_token": "f35p"
+}

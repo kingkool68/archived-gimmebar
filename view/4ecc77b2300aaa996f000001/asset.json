@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecc77b2300aaa996f000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1321988599531
+            }, 
+            "display": {
+                "dims": {
+                    "h": "480", 
+                    "w": "480"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CC1D31D2-8FB6-43B4-A9BB-545DA5E3A448"
+            }, 
+            "postback_key": "ea4dfebd10a78ed9aacc874a9d9001c5", 
+            "request_time": {
+                "$date": 1321988598500
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D2BB37CB-82F8-4D23-B777-420E5F505C02"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/8e58251d729edea854834b8973da0c556887f5cb_m.jpg"
+    }, 
+    "date": {
+        "$date": 1322022834595
+    }, 
+    "description": "Cookie Monster riding a bike.", 
+    "from_backup": false, 
+    "media_hash": "1fd49bc4a8e93b88fa72c5f2ac498ac744306", 
+    "mime_type": "image/jpeg", 
+    "name": "FFFFOUND! | Mike Joos \u2013 Superheroes on Bicycles - Thibault Mauras-Cartier", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 44306, 
+    "source": "http://ffffound.com/image/8e58251d729edea854834b8973da0c556887f5cb", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecbf1f6105de.jpg", 
+    "tags": [], 
+    "url_token": "fPbB"
+}

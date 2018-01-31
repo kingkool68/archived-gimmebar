@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecda9e72f0aaa0b07000002"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1320427237783
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/54D79F42-FF7B-4AA2-83F5-18C26A29A039"
+            }, 
+            "postback_key": "97effc0f806a63bbafa21994e1a1cdab", 
+            "request_time": {
+                "$date": 1320427302045
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1A49B3D1-639E-4AEC-BC86-62675BB62855"
+            }
+        }, 
+        "url": "http://dribbble.com/system/users/45255/screenshots/309351/2.jpg?1320315372"
+    }, 
+    "date": {
+        "$date": 1322101223012
+    }, 
+    "description": "#pixelated camera", 
+    "from_backup": false, 
+    "media_hash": "98b024f6c1ba5f01a632abe20f38215e125281", 
+    "mime_type": "image/jpeg", 
+    "name": "Dribbble - Glitch - Part II by Zara Picken", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 125281, 
+    "source": "http://dribbble.com/shots/309351-Glitch-Part-II?list=tags&tag=pixel", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eb41f25a9d2e.jpg", 
+    "tags": [
+        "pixelated"
+    ], 
+    "url_token": "f3Uu"
+}

@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5155042aaac422687100001d"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1364526166226
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/7E120A87-A542-4C4C-8CBA-8CD107C7C587"
+            }, 
+            "postback_key": "5d4dea22885b723709b6cf663a9f9a05", 
+            "request_time": {
+                "$date": 1364526122196
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "315", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F292808B-5F2D-4CFB-8890-ABEC3C055D15"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/06DC0ACB-5BB4-47D1-AB88-E074B063F28C"
+            }
+        }, 
+        "url": "https://worksthatwork.com/blog/readers"
+    }, 
+    "date": {
+        "$date": 1364526122232
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "de40a61b7bfec63a7ca589f9f6e7b98110988", 
+    "mime_type": "text/html", 
+    "name": "Meeting Our Readers by Peter Bi\u013eak", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 10988, 
+    "source": "https://worksthatwork.com/blog/readers", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51550429de772.html", 
+    "tags": [], 
+    "url_token": "arl-O"
+}

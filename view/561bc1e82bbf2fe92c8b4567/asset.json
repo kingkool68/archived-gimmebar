@@ -1,0 +1,41 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "561bc1e82bbf2fe92c8b4567"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "capture_date": {
+                "$date": 1444659688357
+            }, 
+            "capture_id": "f0d7e4bd-c263-4526-a691-66ead224f403", 
+            "dims": null, 
+            "done": false, 
+            "last_try_date": {
+                "$date": 1444659688357
+            }, 
+            "tries": 1, 
+            "url": null
+        }, 
+        "url": "https://stupid-studio.com/cases/danish-council-for-childrens-learning/"
+    }, 
+    "date": {
+        "$date": 1444659688361
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "f8a3a67fe6ca33d860ff01429afb254c25647", 
+    "mime_type": "text/html", 
+    "name": "Council for Childrens Learning \u2013 Identity And Branding Study", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 25647, 
+    "source": "https://stupid-studio.com/cases/danish-council-for-childrens-learning/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/561bc1e829aa4.html", 
+    "tags": [], 
+    "url_token": "bS6go"
+}

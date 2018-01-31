@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51db3cf3aac4229c16000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1239, 
+            "w": 2048
+        }, 
+        "url": "http://i.imgur.com/kZbuN8r.jpg"
+    }, 
+    "date": {
+        "$date": 1373322483217
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "e12556fe3c7cefc09e291cfbf5a40694648474", 
+    "mime_type": "image/jpeg", 
+    "name": "kZbuN8r.jpg (2048\u00d71239)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 648474, 
+    "source": "http://i.imgur.com/kZbuN8r.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51db3cf2a2aa0.jpg", 
+    "tags": [], 
+    "url_token": "aFOpd"
+}

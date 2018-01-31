@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51f7c0592bbf2f6c3f000016"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 412, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1375191057933
+            }, 
+            "display": {
+                "dims": {
+                    "h": "412", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B78AE886-1050-43ED-A42E-F19336D067D9"
+            }, 
+            "postback_key": "0f6c1b7818531ddcd69923a69c43532d", 
+            "request_time": {
+                "$date": 1375191129941
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/38B96CE9-54CC-41BD-B092-196ABDD0A4EF"
+            }
+        }, 
+        "url": "http://i1.wp.com/petapixel.com/assets/uploads/2013/07/%C2%A9-Zack-Seckler-01.jpg?resize=620%2C412"
+    }, 
+    "date": {
+        "$date": 1375191129948
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "78915b6e831c6017f8e82d8fe4da4607239410", 
+    "mime_type": "image/jpeg", 
+    "name": "Photographer Zack Seckler's Conceptual Photos with a Dash of Quirky Humor", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 239410, 
+    "source": "http://petapixel.com/2013/07/29/photographer-zack-secklers-conceptual-photos-with-a-dash-of-quirky-humor/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51f7c05997713.jpg", 
+    "tags": [], 
+    "url_token": "aIpNG"
+}

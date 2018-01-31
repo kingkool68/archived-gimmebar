@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb11a2f0aaaee1a000019"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322102979369
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/574A62ED-E6E6-4A09-BCD9-977EF1C321E7"
+            }, 
+            "postback_key": "ab3df257c2c3705f4fea14bec36d45ed", 
+            "request_time": {
+                "$date": 1322103066324
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F05DDC15-7267-4CAC-92E5-7B1A7033A9FD"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/07/23/blue_progression_0.PNG.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103066329
+    }, 
+    "description": "#abstract #blue", 
+    "from_backup": false, 
+    "media_hash": "6826f39bfc0f6a88951dd3dd4907905a2184", 
+    "mime_type": "image/png", 
+    "name": "blue progression by zaxl \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 2184, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/jul/23/blue-progression/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb11a04ee9.png", 
+    "tags": [
+        "abstract", 
+        "blue"
+    ], 
+    "url_token": "f328"
+}

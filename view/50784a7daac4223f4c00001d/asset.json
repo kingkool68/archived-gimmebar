@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50784a7daac4223f4c00001d"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 620, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1350060671682
+            }, 
+            "display": {
+                "dims": {
+                    "h": "620", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FE0139FA-ABA4-4D2D-B16E-FEB85AD35EEA"
+            }, 
+            "postback_key": "f66fbae16bbe0577e3764d492aa1a17b", 
+            "request_time": {
+                "$date": 1350060669797
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/71216D7D-3643-4A4D-A238-A26D251F034B"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/10/fishpond.jpg"
+    }, 
+    "date": {
+        "$date": 1350060669828
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "91ccea011f8e1d011c7421c60ce17ce088028", 
+    "mime_type": "image/jpeg", 
+    "name": "Jaw-Dropping Little-Planet Photos That Span the Four Seasons", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 88028, 
+    "source": "http://www.petapixel.com/2012/10/12/jaw-dropping-little-planet-photos-that-span-the-four-seasons/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50784a7d67dd6.jpg", 
+    "tags": [], 
+    "url_token": "43kk"
+}

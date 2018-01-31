@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbe61b2e0aaa1c7e000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325131306111
+            }, 
+            "display": {
+                "dims": {
+                    "h": "397", 
+                    "w": "530"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B9667C02-0253-4F76-BB58-89E3BA262033"
+            }, 
+            "postback_key": "bb938ca1092caa5f1aa7fe0de0506d4b", 
+            "request_time": {
+                "$date": 1325131291536
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "217", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/088E0188-8090-4741-BD43-A07E264A1358"
+            }
+        }, 
+        "url": "http://images.piccsy.com/cache/images/10528-02744b-530-397.jpg"
+    }, 
+    "date": {
+        "$date": 1325131291544
+    }, 
+    "description": "#octopus wall art.", 
+    "from_backup": false, 
+    "media_hash": "69e0ee63708e430ce29ced60f91c33e556024", 
+    "mime_type": "image/jpeg", 
+    "name": "Piccsy :: octopus, ship, mural, ocean", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 56024, 
+    "source": "http://piccsy.com/2010/08/octopus-ship-mural-ocean/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbe61b2a9bb.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "lpSc"
+}

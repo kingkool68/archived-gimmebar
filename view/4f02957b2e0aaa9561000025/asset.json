@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f02957b2e0aaa9561000025"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325569413353
+            }, 
+            "display": {
+                "dims": {
+                    "h": "600", 
+                    "w": "426"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/75B91422-E3BD-40F8-B95D-EC18C5784F11"
+            }, 
+            "postback_key": "a72db0b932195439785e638108ff86d2", 
+            "request_time": {
+                "$date": 1325569403260
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "408", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/74AB1A0C-BF0D-4DAD-9D9F-F823B3004D76"
+            }
+        }, 
+        "url": "http://www.gigposters.com/posters/129244.jpg"
+    }, 
+    "date": {
+        "$date": 1325569403267
+    }, 
+    "description": "Why?", 
+    "from_backup": false, 
+    "media_hash": "6c0e51c314c74a55ff2cd2dcece4a644104154", 
+    "mime_type": "image/jpeg", 
+    "name": "129244.jpg (426\u00d7600)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 104154, 
+    "source": "http://www.gigposters.com/posters/129244.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f02957adb8d6.jpg", 
+    "tags": [], 
+    "url_token": "lXmb"
+}

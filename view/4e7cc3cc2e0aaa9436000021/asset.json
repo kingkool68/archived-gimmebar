@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e7cc3cc2e0aaa9436000021"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1308861403319
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "719"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C1C241D6-170B-4AA8-839D-25473FF0E6E9"
+            }, 
+            "postback_key": "5adc3bf8e62bcb7f3200f8c884576f6a", 
+            "request_time": {
+                "$date": 1308861427285
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "403", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4E3236D4-C1C1-4C7C-8568-992C077AA6F0"
+            }
+        }, 
+        "url": "http://www.girlfriendnyc.com/production/content/redsquare/redsquareagency1.jpg"
+    }, 
+    "copy_of": "4e5ee5492e0aaaac40000008", 
+    "date": {
+        "$date": 1316799436925
+    }, 
+    "description": "Header has dimensionality. Pops out at you. \n#header ", 
+    "media_hash": "17dad4214f9203c9ed92f9ee3d3822b9505505", 
+    "mime_type": "image/jpeg", 
+    "name": "Teddy Roosevelt", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 505505, 
+    "source": "http://www.girlfriendnyc.com/#/portfolio", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e03a3f2ca537.jpg", 
+    "tags": [
+        "header"
+    ], 
+    "url_token": "aPEp"
+}

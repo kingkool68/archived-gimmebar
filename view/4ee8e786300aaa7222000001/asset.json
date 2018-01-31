@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ee8e786300aaa7222000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1323773577916
+            }, 
+            "display": {
+                "dims": {
+                    "h": "551", 
+                    "w": "650"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6E2C56C9-AB1A-4C56-AC1A-E3B4452C64A2"
+            }, 
+            "postback_key": "b2330a327bc9777422bd80388ea463dc", 
+            "request_time": {
+                "$date": 1323773465891
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "246", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FD2501D6-B54A-45DC-BBD2-9A14AC2CE735"
+            }
+        }, 
+        "url": "http://www.movingbrands.com/wp-content/uploads/2011/12/MovingBrands_HP_Case_Study_progressmark2.jpg"
+    }, 
+    "date": {
+        "$date": 1323886470943
+    }, 
+    "description": "HP Branding guidelines in video form. ", 
+    "from_backup": false, 
+    "media_hash": "947105bcf19a431bd7a2637bc9656049250828", 
+    "mime_type": "image/jpeg", 
+    "name": "HP | Moving Brands - a global branding company", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 250828, 
+    "source": "http://www.movingbrands.com/?category_name=hp-work", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ee72e197ac4b.jpg", 
+    "tags": [], 
+    "url_token": "jJJc"
+}

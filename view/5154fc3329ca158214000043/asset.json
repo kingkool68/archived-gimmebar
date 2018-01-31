@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5154fc3329ca158214000043"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 500, 
+            "w": 500
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364524085345
+            }, 
+            "display": {
+                "dims": {
+                    "h": "500", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3449D749-C386-4464-BC1E-277BD4BCD9EF"
+            }, 
+            "postback_key": "96c93d5e20d8a1a70207597a5ef372ee", 
+            "request_time": {
+                "$date": 1364524083738
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3B380319-A981-4323-ABD5-0E1D92DA0309"
+            }
+        }, 
+        "url": "http://static.designspiration.net/data/l/322163864623_phCJZiO2_l.jpg"
+    }, 
+    "date": {
+        "$date": 1364524083886
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "a3477cd2cc473b201508073fb268b997227916", 
+    "mime_type": "image/jpeg", 
+    "name": "Invisible Creature Speaks \u00bb New Work \u2014 Designspiration", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 227916, 
+    "source": "http://designspiration.net/image/322163864623/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5154fc335c7ab.jpg", 
+    "tags": [], 
+    "url_token": "arlU3"
+}

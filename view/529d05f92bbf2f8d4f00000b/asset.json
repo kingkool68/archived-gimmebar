@@ -1,0 +1,44 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "529d05f92bbf2f8d4f00000b"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "capture_date": {
+                "$date": 1386022393239
+            }, 
+            "capture_id": "19a5013a-7262-4f91-b02b-5070ea084cf3", 
+            "dims": {
+                "h": 7034, 
+                "w": 1024
+            }, 
+            "done": true, 
+            "last_try_date": {
+                "$date": 1386022393239
+            }, 
+            "tries": 1, 
+            "url": "https://s3.amazonaws.com/shotput-captures/593964b6-68b6-47dc-bd85-623db567ca8e.png"
+        }, 
+        "url": "http://lead.dailyemerald.com/"
+    }, 
+    "date": {
+        "$date": 1386022393341
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "c790b680be00234178b9e6601d9365109478", 
+    "mime_type": "text/html", 
+    "name": "Lead the Revolution | Emerald Media Group", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 9478, 
+    "source": "http://lead.dailyemerald.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/529d05f913424.html", 
+    "tags": [], 
+    "url_token": "aWRam"
+}

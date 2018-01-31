@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51a4cddaaac422c735000007"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 412, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1369755100606
+            }, 
+            "display": {
+                "dims": {
+                    "h": "412", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9E06C270-CD12-4C88-9C39-EF698D0DC7E6"
+            }, 
+            "postback_key": "d584f4d862c657bd8e4d7cec9de16d32", 
+            "request_time": {
+                "$date": 1369755098422
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FE8E636B-D2DC-4575-BDBA-0CA2964E9D0B"
+            }
+        }, 
+        "url": "http://cdn.petapixel.com/assets/uploads/2013/05/montrealmornings-6.jpg"
+    }, 
+    "date": {
+        "$date": 1369755098426
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "ea7355d0ead6d80cd930ffa9a7053c4961898", 
+    "mime_type": "image/jpeg", 
+    "name": "Black-and-White Photos That Capture the Feeling of Winter Mornings in Montreal", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 61898, 
+    "source": "http://petapixel.com/2013/05/28/black-and-white-photos-that-capture-the-feeling-of-winter-mornings-in-montreal/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51a4cdda21585.jpg", 
+    "tags": [], 
+    "url_token": "aAb8U"
+}

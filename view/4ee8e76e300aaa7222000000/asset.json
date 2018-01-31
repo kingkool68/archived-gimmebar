@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ee8e76e300aaa7222000000"
+    }, 
+    "asset_type": "embed", 
+    "avatar": false, 
+    "content": {
+        "attributes": {
+            "flashvars": "", 
+            "height": "526", 
+            "src": "http://www.vimeo.com/moogaloop.swf?clip_id=29326510&server=www.vimeo.com&fullscreen=1&show_title=1&show_byline=0&show_portrait=0&color=01AAEA", 
+            "type": "application/x-shockwave-flash", 
+            "width": "630"
+        }, 
+        "tag": "OBJECT"
+    }, 
+    "date": {
+        "$date": 1323886446659
+    }, 
+    "description": "HP Branding guidelines in video form. ", 
+    "from_backup": false, 
+    "media_hash": "513f8cbf6d70cca593abb917f4654ab0141", 
+    "mime_type": "text/-gimmebar-embed", 
+    "name": "HP | Moving Brands - a global branding company", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 264, 
+    "source": "http://www.movingbrands.com/?category_name=hp-work", 
+    "tags": [], 
+    "url_token": "jJHq"
+}

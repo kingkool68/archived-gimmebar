@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f02831b2f0aaa011f000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325125604554
+            }, 
+            "display": {
+                "dims": {
+                    "h": "867", 
+                    "w": "654"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C0A1BEC0-8D06-4E1A-99FA-BF2CE7B5CA5A"
+            }, 
+            "postback_key": "3b504d569c83bd572a0b03ab94d51063", 
+            "request_time": {
+                "$date": 1325125602497
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "384", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CE4C6164-52FF-4A8E-B21E-FA7A31BDE0CC"
+            }
+        }, 
+        "url": "http://images.veerle.duoh.com/uploads/inspiration-images/vpro-gidsII-big.png"
+    }, 
+    "copy_of": "4efbcfe22f0aaad027000002", 
+    "date": {
+        "$date": 1325564699496
+    }, 
+    "description": "", 
+    "media_hash": "891bfb00aea50669fe8178c34912c47a243244", 
+    "mime_type": "image/png", 
+    "name": "The Inspiration Stream | Veerle's blog 3.0 - Webdesign - XHTML CSS | Graphic Design", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 243244, 
+    "source": "http://veerle.duoh.com/inspiration/detail/vpro_gids_ii?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+veerlesblog+Veerle%27s+Blog+3.0+-+All#When:18:28", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbcfe220bba.png", 
+    "tags": [], 
+    "url_token": "lWVq"
+}

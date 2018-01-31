@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51519be9aac4223d10000066"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 413, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364302825922
+            }, 
+            "display": {
+                "dims": {
+                    "h": "413", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/AB20D33E-A248-4486-9D91-FB33457B1CE5"
+            }, 
+            "postback_key": "c2515526e16a7d90da725cc445285eaa", 
+            "request_time": {
+                "$date": 1364302825097
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BD412167-6A88-49C2-98DC-1AF6F978CAE0"
+            }
+        }, 
+        "url": "http://cdn.petapixel.com/assets/uploads/2013/03/afterlightsout-9.jpg"
+    }, 
+    "date": {
+        "$date": 1364302825258
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9a44937027626f07fa2de2f081327db138015", 
+    "mime_type": "image/jpeg", 
+    "name": "Photos of a World in Darkness Illuminated by Single Sources of Light", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 38015, 
+    "source": "http://www.petapixel.com/2013/03/25/photos-of-a-world-in-darkness-illuminated-by-single-sources-of-light/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51519be84ba8b.jpg", 
+    "tags": [], 
+    "url_token": "aqYFI"
+}

@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbe7072f0aaac666000002"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325131529705
+            }, 
+            "display": {
+                "dims": {
+                    "h": "640", 
+                    "w": "457"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FE13903C-80A1-48F4-B76E-5DC9F32A458D"
+            }, 
+            "postback_key": "a6fb695e2037fa245abc9ff114052e3c", 
+            "request_time": {
+                "$date": 1325131527798
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "406", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/53B6620D-D8A0-4C7D-BEEA-30709E7680F0"
+            }
+        }, 
+        "url": "http://farm1.staticflickr.com/43/103787917_32f85d8dd8_z.jpg"
+    }, 
+    "date": {
+        "$date": 1325131527801
+    }, 
+    "description": "#octopus car wash.", 
+    "from_backup": false, 
+    "media_hash": "d7b037ebfe22480fdd6d07a04251ab50112991", 
+    "mime_type": "image/jpeg", 
+    "name": "103787917_32f85d8dd8_z.jpg (457\u00d7640)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 112991, 
+    "source": "http://farm1.staticflickr.com/43/103787917_32f85d8dd8_z.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbe70768821.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "lpTt"
+}

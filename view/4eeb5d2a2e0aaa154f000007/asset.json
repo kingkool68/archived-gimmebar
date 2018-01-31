@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5d2a2e0aaa154f000007"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1323898861956
+            }, 
+            "display": {
+                "dims": {
+                    "h": "690", 
+                    "w": "550"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B6E12ABA-D9DC-44DE-8C07-185AE128861F"
+            }, 
+            "postback_key": "833d3921036f49ce26c7e76e9f5767b7", 
+            "request_time": {
+                "$date": 1323898859505
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "364", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2046C2B5-6DE9-49B1-9104-C1323FF5CB3C"
+            }
+        }, 
+        "url": "http://bennewman.co.uk/media/4038/bennewman_all_that.jpg"
+    }, 
+    "copy_of": "4ee917eb2e0aaaeb47000000", 
+    "date": {
+        "$date": 1324047658643
+    }, 
+    "description": "", 
+    "media_hash": "5a61589105faf27c13fd42692467edfe195184", 
+    "mime_type": "image/jpeg", 
+    "name": "Ben Newman Prints For Sale - Ben Newman Illustration", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 195184, 
+    "source": "http://bennewman.co.uk/shop-closed-until-january/prints.aspx?page=1", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ee917eb28257.jpg", 
+    "tags": [], 
+    "url_token": "j0yd"
+}

@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51885d722bbf2f083d000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1367891359763
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/B2D91CC0-9C55-4D5A-A8DC-AB03036C7728"
+            }, 
+            "postback_key": "d383e33c43d5493ac7e8fef9ece41f0e", 
+            "request_time": {
+                "$date": 1367891314045
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/8007E0A6-B882-4954-9D3A-195AE45AC5E4"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/A74A6204-5D91-4FEA-96A2-4F7924E8DB97"
+            }
+        }, 
+        "url": "http://www.cubeclub-chemnitz.de/index.php"
+    }, 
+    "date": {
+        "$date": 1367891314053
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "aa7468568e4eaaec2c618463ea21823c15562", 
+    "mime_type": "text/html", 
+    "name": "R.I.P. Cube Club | 02.10.2004 - 09.01.2010 | Cube Club Chemnitz", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 15562, 
+    "source": "http://www.cubeclub-chemnitz.de/index.php", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51885d71b8a70.html", 
+    "tags": [], 
+    "url_token": "aw4jQ"
+}

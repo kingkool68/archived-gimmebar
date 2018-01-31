@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc90c2f0aaa180d000001"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1326878671599
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/015F3815-0224-43CD-B1D3-3638BD8A9C69"
+            }, 
+            "postback_key": "359e25503ea307310c2f8125d6f4953c", 
+            "request_time": {
+                "$date": 1326878663992
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3D79708C-7E92-4E63-96AC-54D1C83F3996"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/BBD0D88F-5A7E-4BA3-BFEB-93F603C20923"
+            }
+        }, 
+        "url": "http://inducit.ldexterldesign.co.uk/styleguide/"
+    }, 
+    "date": {
+        "$date": 1330366732244
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "6fa9f2db78b92ada655a610d0548247b31255", 
+    "mime_type": "text/html", 
+    "name": "inducit.com \u2014 web & print style-guide", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 31255, 
+    "source": "http://inducit.ldexterldesign.co.uk/styleguide/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f168fc7a579e.html", 
+    "tags": [], 
+    "url_token": "utcu"
+}

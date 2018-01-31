@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514cf14529ca15203900000b"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 450, 
+            "w": 450
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363996998914
+            }, 
+            "display": {
+                "dims": {
+                    "h": "450", 
+                    "w": "450"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2080E1EE-F10F-4D1F-A31D-4649CD372F36"
+            }, 
+            "postback_key": "3697e3f04d9dfaa342a4cd06f00f9b8d", 
+            "request_time": {
+                "$date": 1363996997065
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/58D16E30-617D-4DC6-9C4E-425F1B417950"
+            }
+        }, 
+        "url": "http://static.designspiration.net/data/l/1111862515634_srch6PNb_l.jpg"
+    }, 
+    "date": {
+        "$date": 1363996997092
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "f0bef52549d93ebc9df48066d4ce7cd2116114", 
+    "mime_type": "image/jpeg", 
+    "name": "ISO50 Blog \u2013 The Blog of Scott Hansen (Tycho / ISO50) \u00bb The blog of \u2014 Designspiration", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 116114, 
+    "source": "http://designspiration.net/image/1111862515634/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/514cf143b8d48.jpg", 
+    "tags": [], 
+    "url_token": "aqqzJ"
+}

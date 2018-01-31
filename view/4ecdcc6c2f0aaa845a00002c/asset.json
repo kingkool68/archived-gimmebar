@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdcc6c2f0aaa845a00002c"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322109975254
+            }, 
+            "display": {
+                "dims": {
+                    "h": "441", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D9675754-D2BE-41AF-B3A8-31EBA71985FD"
+            }, 
+            "postback_key": "03442015a3c348a8be1147e60555c331", 
+            "request_time": {
+                "$date": 1322110060795
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "256", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E043B7FE-0DDB-4F00-9596-6430AC693FCE"
+            }
+        }, 
+        "url": "http://d24w6bsrhbeh9d.cloudfront.net/photo/720574_700b.jpg"
+    }, 
+    "date": {
+        "$date": 1322110060799
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "5486cb7fdd6913456ca1d132028cfb1355598", 
+    "mime_type": "image/jpeg", 
+    "name": "9GAG - Roar :D", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 55598, 
+    "source": "http://9gag.com/gag/720574", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdcc6c772d5.jpg", 
+    "tags": [], 
+    "url_token": "f4iQ"
+}

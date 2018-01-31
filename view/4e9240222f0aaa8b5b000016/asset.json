@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e9240222f0aaa8b5b000016"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317988297700
+            }, 
+            "display": {
+                "dims": {
+                    "h": "480", 
+                    "w": "720"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7A9C9630-8938-48AB-8037-DE0E0680C415"
+            }, 
+            "postback_key": "a58d9834453b3a18d52bfd9c510b6da3", 
+            "request_time": {
+                "$date": 1317988328397
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1C7082C3-2FE6-4B84-A501-A635EF557546"
+            }
+        }, 
+        "url": "http://posterous.com/getfile/files.posterous.com/niklausgerber/zuddlwhzhDwmDeFAlJDcrBepHCkkycxFhlkrgwtFFEFsnkkcklsBDAfBAxxi/media_httpwwwibelieve_kvhbp.jpg.scaled1000.jpg"
+    }, 
+    "copy_of": "4e8f66e22e0aaa1454000019", 
+    "date": {
+        "$date": 1318207522624
+    }, 
+    "description": "", 
+    "media_hash": "cbd5b4eed7438a653e40c6d8f71f16a248916", 
+    "mime_type": "image/jpeg", 
+    "name": "It's a boy!", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 48916, 
+    "source": "http://www.google.ch/imgres?q=niklaus+gerber&hl=de&sa=X&nord=1&biw=1280&bih=899&tbm=isch&prmd=imvnso&tbnid=Oi6r1RAvswQz0M:&imgrefurl=http://blog.gerbers.ch/new-born-baby-card-its-a-boy&docid=jWx_V5-g69-HRM&w=720&h=480&ei=oeeOTpPiLaHm4QTCyfjKAQ&zoom=1&iact=rc&dur=791&page=9&tbnh=163&tbnw=210&start=176&ndsp=22&ved=1t:429,r:3,s:176&tx=64&ty=77", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e8ee7e7e86cf.jpg", 
+    "tags": [], 
+    "url_token": "bk.w"
+}

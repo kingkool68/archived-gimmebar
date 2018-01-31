@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f20a4302e0aaa2e60000006"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1314940682367
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/EC51FAB5-52CD-4043-8F98-1F10547AF418"
+            }, 
+            "postback_key": "05e08c4a4f45980c58626f4670abc041", 
+            "request_time": {
+                "$date": 1314929777974
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "157", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F2543564-EFDA-4824-909F-593E6094946D"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/7357717F-DA6E-407B-8BF2-08ED2AC7F008"
+            }
+        }, 
+        "url": "http://www.brizk.com/"
+    }, 
+    "date": {
+        "$date": 1327539248218
+    }, 
+    "description": "Simple yet visually stimulating. ", 
+    "from_backup": false, 
+    "media_hash": "feb3669c98cc2a0209323d9ea89f26003487", 
+    "mime_type": "text/html", 
+    "name": "brizk \u25cf web design by freelancer Kai Brach", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 3487, 
+    "source": "http://www.brizk.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e603c7191a82.html", 
+    "tags": [], 
+    "url_token": "pqdT"
+}

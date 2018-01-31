@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "564b6210aac422a7768b4567"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 280, 
+            "w": 900
+        }, 
+        "url": "http://assets.amuniversal.com/b6f492b0f33101318277005056a9545d"
+    }, 
+    "date": {
+        "$date": 1447780880340
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "a8615b0d5a3c92fb70ec7698e3010239123239", 
+    "mime_type": "image/gif", 
+    "name": "Dilbert Comic Strip on 2014-08-12 | Dilbert by Scott Adams", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 123239, 
+    "source": "http://dilbert.com/strip/2014-08-12", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/564b62101fdab.gif", 
+    "tags": [], 
+    "url_token": "bVkid"
+}

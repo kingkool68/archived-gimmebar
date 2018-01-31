@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51468353aac4228359000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1363575680695
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/51749DF6-8479-447A-B315-887EFE3BAEA1"
+            }, 
+            "postback_key": "6a07aaebe095e84a487018c7dcc30f13", 
+            "request_time": {
+                "$date": 1363575635673
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "154", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/CCA47D4C-B96B-4608-AC73-2250B4CF86B7"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F7F2C64E-1864-4AA4-AF75-FBA06E40B85C"
+            }
+        }, 
+        "url": "http://www.psyrup.com/"
+    }, 
+    "date": {
+        "$date": 1363575635722
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "8bdd628dbba6a65746b49024aa19b4497097", 
+    "mime_type": "text/html", 
+    "name": "Psyrup / Office for Design / / Ravensburg / Biberach / Sigmaringen / Bad Saulgau / Constance", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 7097, 
+    "source": "http://www.psyrup.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5146835350bd5.html", 
+    "tags": [], 
+    "url_token": "apGxu"
+}

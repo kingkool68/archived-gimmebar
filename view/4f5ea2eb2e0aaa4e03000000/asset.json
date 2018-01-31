@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f5ea2eb2e0aaa4e03000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1331567775097
+            }, 
+            "display": {
+                "dims": {
+                    "h": "480", 
+                    "w": "320"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A54D0974-AF2E-489F-BC8F-1A3B774F5FD0"
+            }, 
+            "postback_key": "002c5a9ae3806cdfdd8c8c7bf9225165", 
+            "request_time": {
+                "$date": 1331567772980
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "435", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/07F50D03-87EB-4FF5-B5D6-CCE48A683012"
+            }
+        }, 
+        "url": "http://www.lanciatrendvisions.com/uploads/testate/img.php?i=http%3A%2F%2Fwww.creativeapplications.net%2Fwp-content%2Fuploads%2F2012%2F02%2Fpxlsample58-466x700-320x480.jpg&w=400&h=auto"
+    }, 
+    "date": {
+        "$date": 1331602155206
+    }, 
+    "description": "Slanted colors.", 
+    "from_backup": false, 
+    "media_hash": "f996036074c8d8024d4a5f710141638574005", 
+    "mime_type": "image/jpeg", 
+    "name": "img.php (320\u00d7480)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 74005, 
+    "source": "http://www.lanciatrendvisions.com/uploads/testate/img.php?i=http%3A%2F%2Fwww.creativeapplications.net%2Fwp-content%2Fuploads%2F2012%2F02%2Fpxlsample58-466x700-320x480.jpg&w=800&h=auto", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f5e1c9c8163e.jpg", 
+    "tags": [], 
+    "url_token": "wA0M"
+}

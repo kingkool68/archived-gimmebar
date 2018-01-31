@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb1082f0aaab619000095"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322102963781
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B6204CFC-6800-4891-973C-646B6C8F4A2E"
+            }, 
+            "postback_key": "dfa7074acc2ff2bd1f0592ac6562f23f", 
+            "request_time": {
+                "$date": 1322103048334
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7EB73BBC-2748-4E4E-BFC6-C93E232BBCC9"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/08/01/suit.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103048339
+    }, 
+    "description": "#suit", 
+    "from_backup": false, 
+    "media_hash": "d6fb23c6abeaae95705b58e70d4f3dfa32468", 
+    "mime_type": "image/png", 
+    "name": "Suit Up! by Shefali \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 32468, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/aug/01/suit-up/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb10801acb.png", 
+    "tags": [
+        "suit"
+    ], 
+    "url_token": "f327"
+}

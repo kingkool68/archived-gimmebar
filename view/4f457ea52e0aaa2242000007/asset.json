@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457ea52e0aaa2242000007"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329954595391
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/07F2FBA8-9912-42AF-B27F-FEE92C52D82E"
+            }, 
+            "postback_key": "a1fdeecff67a351a2bf8f314cb4df7d5", 
+            "request_time": {
+                "$date": 1329954469038
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "333", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/4DDAB748-3748-4A28-919A-0CBC700BF1AF"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/9CA824CB-A689-4D15-A59A-30AE3F7D7F7B"
+            }
+        }, 
+        "url": "http://www.pickone.de/"
+    }, 
+    "date": {
+        "$date": 1329954469041
+    }, 
+    "description": "I like that red color in the logo on hover.", 
+    "from_backup": false, 
+    "media_hash": "2bd4da32658d987e243595fb79d83e6324775", 
+    "mime_type": "text/html", 
+    "name": "David Hoffmann | Freelance Art Director \u2013 User-Interface-Designer", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 24775, 
+    "source": "http://www.pickone.de/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f457ea442045.html", 
+    "tags": [], 
+    "url_token": "tOl7"
+}

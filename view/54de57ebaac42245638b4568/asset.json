@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "54de57ebaac42245638b4568"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 475, 
+            "w": 640
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2015/02/download-5.jpg"
+    }, 
+    "date": {
+        "$date": 1423857643557
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "ee575fad00d781d86a28f3b89fe1ab7347116", 
+    "mime_type": "image/jpeg", 
+    "name": "Ultra-Long-Exposure Photographs of Landscapes and Seascapes Under Moonlight", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 47116, 
+    "source": "http://petapixel.com/2015/02/13/ultra-long-exposure-photographs-landscapes-seascapes-moonlight/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/54de57eb7c270.jpg", 
+    "tags": [], 
+    "url_token": "bzuNB"
+}

@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f2cb8392e0aaa137d000015"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1314469030960
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/D92C0BFE-4080-4761-B02B-C7F8AF52E639"
+            }, 
+            "postback_key": "e489195dd408b3344ee0af11f61883e5", 
+            "request_time": {
+                "$date": 1314468446015
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F59D4DE8-C206-4DE2-B741-AE35B3724A5F"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/1EE918AD-FE69-44C0-B681-F2F84ABE1BA2"
+            }
+        }, 
+        "url": "http://8020.com/"
+    }, 
+    "date": {
+        "$date": 1328330809738
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "b7568865edaf0bb74f4a0620b5c8f1d629294", 
+    "mime_type": "text/html", 
+    "name": "80/20", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 29294, 
+    "source": "http://8020.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e59325d82af4.html", 
+    "tags": [], 
+    "url_token": "qVfa"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f03b5ba2f0aaae97800000d"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325605236915
+            }, 
+            "display": {
+                "dims": {
+                    "h": "442", 
+                    "w": "446"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/56B1825A-603D-42CF-B117-E0BC20753310"
+            }, 
+            "postback_key": "602fff519d0a126ff88bbcb7264da37c", 
+            "request_time": {
+                "$date": 1325605223347
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "287", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/62022E05-D2C2-424D-95D2-B8C7CD1B9E71"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/54cfa6bd93f5260bb1882e2469097782a2ebac71_m.jpg"
+    }, 
+    "date": {
+        "$date": 1325643194761
+    }, 
+    "description": "Nollie.", 
+    "from_backup": false, 
+    "media_hash": "6ee039c96e903b0bef019d8b1b25d94327799", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_lkkz3sULzY1qf2akvo1_500.jpg (446\u00d7442)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 27799, 
+    "source": "http://28.media.tumblr.com/tumblr_lkkz3sULzY1qf2akvo1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f032166f39ae.jpg", 
+    "tags": [], 
+    "url_token": "l4ui"
+}

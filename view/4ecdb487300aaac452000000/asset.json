@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb487300aaac452000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103990306
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/30212CB3-36F8-49AD-A18F-0C81C5D49229"
+            }, 
+            "postback_key": "b8fdb5b2cf4118e3ff38ceb1d6faf766", 
+            "request_time": {
+                "$date": 1322103943938
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1A399080-2593-441B-8E94-5863A6FC2579"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/1562/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1322103943940
+    }, 
+    "description": "Blue and white striped snake.", 
+    "from_backup": false, 
+    "media_hash": "92240cdc3487424eeb7c153e5f50c17c218994", 
+    "mime_type": "image/jpeg", 
+    "name": "\"The Sailor and the Sea Serpent\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 218994, 
+    "source": "http://www.threadless.com/product/1562/The_Sailor_and_the_Sea_Serpent?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb487a0602.jpg", 
+    "tags": [], 
+    "url_token": "f35t"
+}

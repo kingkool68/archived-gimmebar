@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51bb4501aac422b647000003"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 500, 
+            "w": 750
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1371227394993
+            }, 
+            "display": {
+                "dims": {
+                    "h": "500", 
+                    "w": "750"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5B5EA6D4-2EFF-45E7-8B20-0729E73F1534"
+            }, 
+            "postback_key": "2912d1fb369022dd2653f78f50446d32", 
+            "request_time": {
+                "$date": 1371227393245
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/58F98D19-679D-4380-948C-DF782C21DCD2"
+            }
+        }, 
+        "url": "http://wvs.topleftpixel.com/photos/2013/06/clouds-lamppost_bw_01.jpg"
+    }, 
+    "date": {
+        "$date": 1371227393299
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "cc1affc9ef1acd98f305cc6126a57604147049", 
+    "mime_type": "image/jpeg", 
+    "name": "[daily dose of imagery] Cloudscape and Lamp", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 147049, 
+    "source": "http://wvs.topleftpixel.com/13/06/14/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51bb4500dc339.jpg", 
+    "tags": [], 
+    "url_token": "aCQjX"
+}

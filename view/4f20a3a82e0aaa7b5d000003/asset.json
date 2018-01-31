@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f20a3a82e0aaa7b5d000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1327504267399
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1000", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7C54EC5C-C6F4-440F-901E-F2BF13FF0499"
+            }, 
+            "postback_key": "a1362a967ed86f114fb95e88f6b9805f", 
+            "request_time": {
+                "$date": 1327504234238
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/597011A5-AE75-40A8-B96F-FF4238F9877B"
+            }
+        }, 
+        "url": "http://farm8.staticflickr.com/7151/6760135001_14c59a1490_o.jpg"
+    }, 
+    "copy_of": "4f2039f92f0aaa9b5d00001a", 
+    "date": {
+        "$date": 1327539112720
+    }, 
+    "description": "", 
+    "media_hash": "dbaced7feaa3fe617429bdd7b643da7b17224423", 
+    "mime_type": "image/jpeg", 
+    "name": "All sizes | Most Amazing High Definition Image of Earth - Blue Marble 2012 | Flickr - Photo Sharing!", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 17224423, 
+    "source": "http://www.flickr.com/photos/gsfc/6760135001/sizes/o/in/photostream/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f201b685b942.jpg", 
+    "tags": [], 
+    "url_token": "pqcX"
+}

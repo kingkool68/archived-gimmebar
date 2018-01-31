@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ed839da2f0aaaba5a00001e"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322793340498
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "399"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/16236A91-541B-49EC-B842-ADF79613945B"
+            }, 
+            "postback_key": "78734c5d3a6c27a053150db6da21700e", 
+            "request_time": {
+                "$date": 1322793434906
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/32C66E86-05F7-4A9A-A94F-823291506684"
+            }
+        }, 
+        "url": "http://dribbble.com/system/users/30478/screenshots/303344/middleclass.png?1319693735"
+    }, 
+    "date": {
+        "$date": 1322793434910
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "2ada6a1e38779e3f4dd91181c07c303320740", 
+    "mime_type": "image/png", 
+    "name": "Dribbble - Middleclass by Zachary Vabolis", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 20740, 
+    "source": "http://dribbble.com/shots/303344-Middleclass?list=tags&tag=personal", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ed839da8628c.png", 
+    "tags": [], 
+    "url_token": "hmqv"
+}

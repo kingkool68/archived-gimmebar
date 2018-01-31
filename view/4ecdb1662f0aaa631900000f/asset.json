@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb1662f0aaa631900000f"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103144032
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E6A69E00-5177-4A64-B645-72AA5F7C3CEE"
+            }, 
+            "postback_key": "e828ae802dfaa122958f18b2e721e512", 
+            "request_time": {
+                "$date": 1322103142505
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E5451DFD-C0BE-4587-84F7-2D816A895AC1"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/07/02/Andromeda.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103142509
+    }, 
+    "description": "#pixelated ", 
+    "from_backup": false, 
+    "media_hash": "fbae5809e2164014e50318ea924ab90f29185", 
+    "mime_type": "image/png", 
+    "name": "Andromeda-Aurora by Erikmitk \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 29185, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/jul/02/andromeda-aurora/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb1662f1da.png", 
+    "tags": [
+        "pixelated"
+    ], 
+    "url_token": "f33f"
+}

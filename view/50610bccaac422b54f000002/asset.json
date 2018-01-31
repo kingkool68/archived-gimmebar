@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50610bccaac422b54f000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1348537336380
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/E0FAF84A-FC87-4FDA-A96F-E1F95F1C5F36"
+            }, 
+            "postback_key": "9d7bacd3c6cfb8ca3b0d33e96812fe6b", 
+            "request_time": {
+                "$date": 1348537292875
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "248", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/CF64484A-AF3C-45EC-B890-52997776ADD2"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/60F525E1-F0B4-4FC2-9300-EF3560C0B9A2"
+            }
+        }, 
+        "url": "http://hollenbeckgroup.com/"
+    }, 
+    "date": {
+        "$date": 1348537292938
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "d6c0c585cd6789be163bd620300d15878957", 
+    "mime_type": "text/html", 
+    "name": "Hollenbeck | Insight, strategy, results.", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 8957, 
+    "source": "http://hollenbeckgroup.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50610bcc7d4f9.html", 
+    "tags": [], 
+    "url_token": "2dX6"
+}

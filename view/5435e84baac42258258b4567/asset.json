@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5435e84baac42258258b4567"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 640, 
+            "w": 640
+        }, 
+        "url": "http://scontent-b.cdninstagram.com/hphotos-xpf1/t51.2885-15/10431970_311873208997942_1704567876_n.jpg"
+    }, 
+    "date": {
+        "$date": 1412819019796
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "8952f110a3e7dad8ee84d51ec18fa9b3114392", 
+    "mime_type": "image/jpeg", 
+    "name": "10431970_311873208997942_1704567876_n.jpg (640\u00d7640)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 114392, 
+    "source": "http://photos-g.ak.instagram.com/hphotos-ak-xpf1/10431970_311873208997942_1704567876_n.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/54275d68b26c0.jpg", 
+    "tags": [], 
+    "url_token": "boVoI"
+}

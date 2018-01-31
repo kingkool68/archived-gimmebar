@@ -1,0 +1,23 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5f71300aaad00c000028"
+    }, 
+    "asset_type": "text", 
+    "avatar": false, 
+    "content": "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" - Martin Fowler", 
+    "date": {
+        "$date": 1324048241395
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "fb0b83d7f54f1dfacbecdc85b8da5c97188", 
+    "mime_type": "text/plain", 
+    "name": "Twitter / @CodeWisdom: \"Any fool can write code t ...", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 129, 
+    "source": "https://twitter.com/#!/CodeWisdom/status/147437284818563072", 
+    "tags": [], 
+    "url_token": "j0Bc"
+}

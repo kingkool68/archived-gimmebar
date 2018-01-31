@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5011f8e0aac4224819000015"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 500, 
+            "w": 500
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1341870873547
+            }, 
+            "display": {
+                "dims": {
+                    "h": "500", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C98741BD-473C-43F3-B3D6-8C3757BF9471"
+            }, 
+            "postback_key": "ca28297a14d2bc16f4e263f28a951676", 
+            "request_time": {
+                "$date": 1341870871448
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/71AF072F-3DEA-4FD8-8A6F-27BEB6BB2FEF"
+            }
+        }, 
+        "url": "http://24.media.tumblr.com/tumblr_m6wl7uw3mE1qz7lxdo1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1343355104929
+    }, 
+    "description": "Pirate ship at sea in black and white.", 
+    "from_backup": null, 
+    "media_hash": "a3fd01d658d869f7e219880d18f42f60133960", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_lyrzg2GatV1qa0w0yo1_500.jpg (500\u00d7500)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 133960, 
+    "source": "http://27.media.tumblr.com/tumblr_lyrzg2GatV1qa0w0yo1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ffb53171e0c2.jpg", 
+    "tags": [], 
+    "url_token": "SVMD"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "524e3185aac422b41d000005"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 640, 
+            "w": 420
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1380856401987
+            }, 
+            "display": {
+                "dims": {
+                    "h": "640", 
+                    "w": "420"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8462BFE6-821A-40D4-92C8-EC0051EBE61F"
+            }, 
+            "postback_key": "52e723c21e637f244a2e3cc74e8e648f", 
+            "request_time": {
+                "$date": 1380856197139
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "442", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/84A8846F-2C6F-4BBC-AF05-6F736B64EC2A"
+            }
+        }, 
+        "url": "http://24.media.tumblr.com/tumblr_mefakm6KKd1qex6rco1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1380856197181
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "40e5a689b0b1c0732b6f0906d342d2ea234215", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_mefakm6KKd1qex6rco1_500.jpg (420\u00d7640)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 234215, 
+    "source": "http://24.media.tumblr.com/tumblr_mefakm6KKd1qex6rco1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/524e3184ce20e.jpg", 
+    "tags": [], 
+    "url_token": "aP7E3"
+}

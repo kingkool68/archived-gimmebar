@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd2b0300aaae72a0000f5"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325126320867
+            }, 
+            "display": {
+                "dims": {
+                    "h": "575", 
+                    "w": "575"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0752EA28-5A28-48F6-AE8D-E69B20C0D497"
+            }, 
+            "postback_key": "4e8287ec42ab963724fbeae5ee4a04ed", 
+            "request_time": {
+                "$date": 1325126319829
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4B2C778C-8306-4777-A70A-14D3D5147A47"
+            }
+        }, 
+        "url": "http://www.desiretoinspire.net/storage/allpostphotos/JSil_fullxfull.184380232.jpg?__SQUARESPACE_CACHEVERSION=1303749206877"
+    }, 
+    "date": {
+        "$date": 1325126320331
+    }, 
+    "description": "#minimal #stripes #shoppingcart", 
+    "from_backup": false, 
+    "media_hash": "866ad7f005c176222f98289d5a3d3ced64342", 
+    "mime_type": "image/jpeg", 
+    "name": "desire to inspire - desiretoinspire.net - Photography to ease the\u00a0soul", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 64342, 
+    "source": "http://www.desiretoinspire.net/blog/2011/4/25/photography-to-ease-the-soul.html", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd2af72e36.jpg", 
+    "tags": [
+        "minimal", 
+        "stripes", 
+        "shoppingcart"
+    ], 
+    "url_token": "lpib"
+}

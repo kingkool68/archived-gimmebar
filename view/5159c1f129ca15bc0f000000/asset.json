@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5159c1f129ca15bc0f000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 483, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364836850773
+            }, 
+            "display": {
+                "dims": {
+                    "h": "483", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F305C709-A5BD-461C-BCBA-DAE0BA4E09C6"
+            }, 
+            "postback_key": "2c1602317b54f6deeee6850030438ffc", 
+            "request_time": {
+                "$date": 1364836849313
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "226", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C2699C0A-1560-4F5E-9539-7C6FD88CCA46"
+            }
+        }, 
+        "url": "http://cdn.petapixel.com/assets/uploads/2013/04/kevincooley_nachtfluge-9.jpg"
+    }, 
+    "date": {
+        "$date": 1364836849425
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "d583dce6cafe796494bfda73666a784339348", 
+    "mime_type": "image/jpeg", 
+    "name": "Long Exposure Airplane Trail Photos Shot at Airports Around the World", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 39348, 
+    "source": "http://www.petapixel.com/2013/04/01/long-exposure-airplane-trail-photos-shot-at-airports-around-the-world/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5159c1f108750.jpg", 
+    "tags": [], 
+    "url_token": "arTeG"
+}

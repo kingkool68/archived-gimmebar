@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f6d1dc12f0aaaf21f00001e"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1332551472957
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/A2AA7EBA-832E-4600-9AB1-DB98109D8E55"
+            }, 
+            "postback_key": "3aa1647aca332487ceea081b1a578de6", 
+            "request_time": {
+                "$date": 1332551105761
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/4E522DD9-3443-4652-8392-1B2C4ABBFA33"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/96B8B136-CF5E-4C96-976E-31CD9ED71E61"
+            }
+        }, 
+        "url": "http://vladgeorgescu.com/"
+    }, 
+    "date": {
+        "$date": 1332551105764
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "e1f998c592ba35090d96ba8499ce94b112001", 
+    "mime_type": "text/html", 
+    "name": "Vlad Georgescu - interaction+visual designer", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 12001, 
+    "source": "http://vladgeorgescu.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f6d1dc16edbb.html", 
+    "tags": [], 
+    "url_token": "yo4r"
+}

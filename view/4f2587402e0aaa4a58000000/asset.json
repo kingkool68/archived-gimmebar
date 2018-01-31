@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f2587402e0aaa4a58000000"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1315318511634
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3239F0C0-43EE-4AF1-B116-7AA2998D403D"
+            }, 
+            "postback_key": "c7a3df382c908fae74f2d56aa8d62baf", 
+            "request_time": {
+                "$date": 1315318035515
+            }, 
+            "retries": 1, 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/1CAE61B3-A349-4606-A6CE-55C9F332FA04"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/53101963-A03E-4FB9-B631-4A76CA49689C"
+            }
+        }, 
+        "url": "http://www.miltonglaser.com/pages/milton/essays/es3.html"
+    }, 
+    "date": {
+        "$date": 1327859520483
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "ebf87808253b9892ef15bdfdbd1b7203415", 
+    "mime_type": "text/html", 
+    "name": "Visual Bits - KOMPAKT-KASSETTE", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 415, 
+    "source": "http://visual.neography.com/post/11362608949/kompakt-kassette", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-preview.s3.amazonaws.com/4ca1f7569b3b7.html", 
+    "tags": [], 
+    "url_token": "pYY3"
+}

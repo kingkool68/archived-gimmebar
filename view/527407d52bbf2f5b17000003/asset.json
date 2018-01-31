@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "527407d52bbf2f5b17000003"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 491, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1383335895393
+            }, 
+            "display": {
+                "dims": {
+                    "h": "491", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/66306046-301E-403B-B454-197C83089496"
+            }, 
+            "postback_key": "81821d7fe1ca88380097f833e46e0dd2", 
+            "request_time": {
+                "$date": 1383335893773
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "230", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6564BA3E-CD28-46F4-A655-C1DDA9AE327B"
+            }
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2013/11/just-30.jpg"
+    }, 
+    "date": {
+        "$date": 1383335893782
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "70f10c586e800267e37c7b9dcf216d3661382", 
+    "mime_type": "image/jpeg", 
+    "name": "Portraits of Costume Owners at Home", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 61382, 
+    "source": "http://petapixel.com/2013/11/01/portraits-costume-owners-home/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/527407d568967.jpg", 
+    "tags": [], 
+    "url_token": "aTsnh"
+}

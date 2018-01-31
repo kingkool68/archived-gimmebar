@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f0dbe842f0aaaa302000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1321410422883
+            }, 
+            "display": {
+                "dims": {
+                    "h": "750", 
+                    "w": "590"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C3A82EF8-FD3F-4D63-813D-BC81E7003C88"
+            }, 
+            "postback_key": "92c0d113f5bc4d9f499488c4718c16b9", 
+            "request_time": {
+                "$date": 1321410371406
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "369", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FB8E7566-EEB8-469D-86AA-EA41CF840015"
+            }
+        }, 
+        "url": "http://danteterzigni.com/wp-content/uploads/2011/03/aquatic.21.jpg"
+    }, 
+    "date": {
+        "$date": 1326300804738
+    }, 
+    "description": "Sea life. Hammerhead shark. ", 
+    "from_backup": false, 
+    "media_hash": "6a4141410628f4c51fc6bd63ac526339217489", 
+    "mime_type": "image/jpeg", 
+    "name": "Aquatic | Dante Terzigni Illustration", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 217489, 
+    "source": "http://danteterzigni.com/1292", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ec31f42e8a7a.jpg", 
+    "tags": [], 
+    "url_token": "ncfV"
+}

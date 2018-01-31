@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ee924c32e0aaa3009000002"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1323902261303
+            }, 
+            "display": {
+                "dims": {
+                    "h": "493", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5E71C6D2-8536-4BF2-B138-BE270032CFF7"
+            }, 
+            "postback_key": "40d10e3ab9698ff3d31367fdbc333c4c", 
+            "request_time": {
+                "$date": 1323902147144
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "231", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/23C7B201-F766-4A2E-8228-ED7D97A29792"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2011/12/project1_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1323902147149
+    }, 
+    "description": "Photographer Jim Sanborn has a project titled Topographic Projections and Implied Geometries Series in which he casts complex patterns over vast landscapes using a projector, and uses long exposure times to capture the scenes. The projector and camera are, on average, half a mile away from his landscapes, and on moonless nights he uses a searchlight to illuminate the scene.", 
+    "from_backup": false, 
+    "media_hash": "3ce309dd874130b06b3e6c5dcb6978d4108411", 
+    "mime_type": "image/jpeg", 
+    "name": "Long Exposure Photographs of Patterns Projected Onto Landscapes", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 108411, 
+    "source": "http://www.petapixel.com/2011/12/14/long-exposure-photographs-of-patterns-projected-onto-landscapes/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ee924c2addc5.jpg", 
+    "tags": [], 
+    "url_token": "jLw6"
+}

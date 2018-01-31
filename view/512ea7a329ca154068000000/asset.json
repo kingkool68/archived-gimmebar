@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "512ea7a329ca154068000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1600, 
+            "w": 2560
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1345773931158
+            }, 
+            "display": {
+                "dims": {
+                    "h": "625", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CFCFC830-7ECF-41CC-B1CF-794F88F84D42"
+            }, 
+            "postback_key": "393042488da33f1a857dba3631c9ec40", 
+            "request_time": {
+                "$date": 1345773926387
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/885EB7CE-B910-4D75-8EEF-08A2EE443B13"
+            }
+        }, 
+        "url": "http://i.imgur.com/BsfeY.jpg"
+    }, 
+    "date": {
+        "$date": 1362012067093
+    }, 
+    "description": "Astronauts", 
+    "from_backup": null, 
+    "media_hash": "aad795c67223e3dd4d68ea71e1e1f02f415866", 
+    "mime_type": "image/jpeg", 
+    "name": "ZB6FYOm.jpg (2560\u00d71600)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 415866, 
+    "source": "http://i.imgur.com/ZB6FYOm.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5036e166092ab.jpg", 
+    "tags": [], 
+    "url_token": "amX6T"
+}

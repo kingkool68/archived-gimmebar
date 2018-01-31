@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5109b6e7aac4226011000008"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 535, 
+            "w": 962
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1359561060453
+            }, 
+            "display": {
+                "dims": {
+                    "h": "535", 
+                    "w": "962"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/24B396A7-D5E0-4A1B-9B8F-A94F1138E58A"
+            }, 
+            "postback_key": "8c3275cb55f12f5761c70f53b471cb6e", 
+            "request_time": {
+                "$date": 1359561058944
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "161", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B026A70D-CEB4-40B9-A9E1-7100348C64A3"
+            }
+        }, 
+        "url": "http://i.imgur.com/MmWl5y6.jpg"
+    }, 
+    "date": {
+        "$date": 1359591143446
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "7d073192e3220cd66a9b47980ae24bb272919", 
+    "mime_type": "image/jpeg", 
+    "name": "MmWl5y6.jpg (962\u00d7535)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 72919, 
+    "source": "http://i.imgur.com/MmWl5y6.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/510941628f5c6.jpg", 
+    "tags": [], 
+    "url_token": "aiy6C"
+}

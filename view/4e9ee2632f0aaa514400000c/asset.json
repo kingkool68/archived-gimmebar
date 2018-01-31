@@ -1,0 +1,49 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e9ee2632f0aaa514400000c"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1319035493263
+            }, 
+            "display": {
+                "dims": {
+                    "h": "342", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1579875B-072D-4B08-B8F9-E669365EBA41"
+            }, 
+            "postback_key": "0a06abe17ca354ef28310c0cebea2265", 
+            "request_time": {
+                "$date": 1319035491045
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "99", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5853D8A5-E7A9-4264-A6FF-3F0A4D4C8875"
+            }
+        }
+    }, 
+    "date": {
+        "$date": 1319035491051
+    }, 
+    "description": "", 
+    "media_hash": "ec0e57d5569e01d49a0096868d0f93fe388005", 
+    "mime_type": "image/png", 
+    "name": "Screen Shot 2011-10-19 at 10.15.10 AM.png", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 388005, 
+    "source": "upload", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e9ee2629904f.png", 
+    "tags": [], 
+    "url_token": "bESJ"
+}

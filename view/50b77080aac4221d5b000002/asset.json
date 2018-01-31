@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50b77080aac4221d5b000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1024, 
+            "w": 1280
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1344112222599
+            }, 
+            "display": {
+                "dims": {
+                    "h": "800", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/90D3F177-1120-4957-84E7-786C021273A0"
+            }, 
+            "postback_key": "43d56188414319f6408e12cec4d6d86f", 
+            "request_time": {
+                "$date": 1344112219886
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "232", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/37D352E1-F1E0-41CB-8796-BB5C9905DE17"
+            }
+        }, 
+        "url": "http://25.media.tumblr.com/tumblr_m88wpg4XrI1r9tee7o1_1280.jpg"
+    }, 
+    "date": {
+        "$date": 1354199167260
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "18a0db96b031286285bc23121066d03f478019", 
+    "mime_type": "image/jpeg", 
+    "name": "Blog \u2014 Offscreen Magazine", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 478019, 
+    "source": "http://blog.offscreenmag.com/tagged/Desktop", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/501d865b62d96.jpg", 
+    "tags": [], 
+    "url_token": "a.qae"
+}

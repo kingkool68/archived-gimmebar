@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4189952e0aaacb17000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329695126728
+            }, 
+            "display": {
+                "dims": {
+                    "h": "149", 
+                    "w": "412"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/63E47FAE-22C6-4989-9001-C269A268C094"
+            }, 
+            "postback_key": "86a938877927e295153f5f4fe2495fd2", 
+            "request_time": {
+                "$date": 1329695125899
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "105", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A00AF33B-A88D-4462-950A-537163A47B65"
+            }
+        }, 
+        "url": "http://media.smashingmagazine.com/images/paginierung/erweiterungen.gif"
+    }, 
+    "date": {
+        "$date": 1329695125946
+    }, 
+    "description": "Clicking on the ellipses shows more pagination options.", 
+    "from_backup": false, 
+    "media_hash": "9d8ca34d040dee10b9896a24e229dfa86563", 
+    "mime_type": "image/gif", 
+    "name": "Pagination Gallery: Examples And Good Practices | Smashing Magazine", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 6563, 
+    "source": "http://www.smashingmagazine.com/2007/11/16/pagination-gallery-examples-and-good-practices/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f41899579669.gif", 
+    "tags": [], 
+    "url_token": "tdza"
+}

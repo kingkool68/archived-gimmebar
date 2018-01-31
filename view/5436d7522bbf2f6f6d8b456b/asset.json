@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5436d7522bbf2f6f6d8b456b"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1039, 
+            "w": 1280
+        }, 
+        "url": "http://i.kinja-img.com/gawker-media/image/upload/uby7eh1a8rthqvkdljuo.jpg"
+    }, 
+    "date": {
+        "$date": 1412880210135
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "d871ef13e719ddff32c63ff8453927a5457718", 
+    "mime_type": "image/jpeg", 
+    "name": "The History of Architectural Photography Told In 16 Stunning Images", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 457718, 
+    "source": "http://gizmodo.com/the-history-of-architectural-photography-told-in-16-stu-1642305609?utm_content=buffer9f49e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5436d7520b554.jpg", 
+    "tags": [], 
+    "url_token": "boYXG"
+}

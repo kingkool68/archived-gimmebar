@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "520b88042bbf2f0f6300000c"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 479, 
+            "w": 700
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1376487432016
+            }, 
+            "display": {
+                "dims": {
+                    "h": "479", 
+                    "w": "700"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7058D70F-566E-4EE8-A80A-190B699E9161"
+            }, 
+            "postback_key": "3e71e5d60936e9876eb84dc3368a089d", 
+            "request_time": {
+                "$date": 1376487428370
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "198", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0D1E67D3-E5BB-48B6-A64C-012EEDB55590"
+            }
+        }, 
+        "url": "http://images.veerle.duoh.com/uploads/inspiration-images/jimmygleeson-big.jpg"
+    }, 
+    "date": {
+        "$date": 1376487428387
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "61a53d98a6e61a724f9380aa9c71f77387434", 
+    "mime_type": "image/jpeg", 
+    "name": "The Inspiration Stream | Veerle's blog 3.0 - Webdesign - XHTML CSS | Graphic Design", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 87434, 
+    "source": "http://veerle.duoh.com/inspiration/detail/jimmy_gleeson", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/520b8803511b4.jpg", 
+    "tags": [], 
+    "url_token": "aK.xn"
+}

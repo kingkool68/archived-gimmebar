@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4febbb4229ca155f0e000157"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 480, 
+            "w": 640
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1340848964226
+            }, 
+            "display": {
+                "dims": {
+                    "h": "480", 
+                    "w": "640"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9F16CC1D-45C7-4896-BC1A-91A55F39376E"
+            }, 
+            "postback_key": "7740af9cbbcec240061832c6a0d9ccf8", 
+            "request_time": {
+                "$date": 1340848962559
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A8718AAC-5734-4240-B750-6F08390FCE5D"
+            }
+        }, 
+        "url": "http://cdn.designbyhumans.com/design/217/4no9_40j-640x480.jpg"
+    }, 
+    "date": {
+        "$date": 1340848962563
+    }, 
+    "description": "Robot vs Alien 8-bit.", 
+    "from_backup": null, 
+    "media_hash": "fa76c296eaf98519b59dd9d4f448df02167986", 
+    "mime_type": "image/jpeg", 
+    "name": "4no9_40j-640x480.jpg (640\u00d7480)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 167986, 
+    "source": "http://cdn.designbyhumans.com/design/217/4no9_40j-640x480.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4febbb42316bb.jpg", 
+    "tags": [], 
+    "url_token": "Pj6h"
+}

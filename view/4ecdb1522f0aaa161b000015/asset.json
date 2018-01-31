@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb1522f0aaa161b000015"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103036812
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7279DB1C-4897-41C5-8190-F5B0440C64CF"
+            }, 
+            "postback_key": "d596db4fd83c9e71149deb649c6ac971", 
+            "request_time": {
+                "$date": 1322103122500
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B4ED2C56-115E-4E40-9BBC-BA80A80B088F"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/07/13/the_wave.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103122505
+    }, 
+    "description": "#pixelated #fineart", 
+    "from_backup": false, 
+    "media_hash": "0efc9c296064c9c8828d7140b5bf700a39533", 
+    "mime_type": "image/png", 
+    "name": "The Wave by Nick Eshnaur \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 39533, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/jul/13/the-wave/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb15233dc9.png", 
+    "tags": [
+        "pixelated", 
+        "fineart"
+    ], 
+    "url_token": "f33d"
+}

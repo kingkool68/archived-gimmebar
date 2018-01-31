@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50e64987aac4222d37000011"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 842, 
+            "w": 480
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1357269385082
+            }, 
+            "display": {
+                "dims": {
+                    "h": "842", 
+                    "w": "480"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/230684F3-EDA0-4DF8-85C1-B2688895D92E"
+            }, 
+            "postback_key": "89e9abd968f6cdf7e8cf8bde37c16de0", 
+            "request_time": {
+                "$date": 1357269383730
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "509", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/62009367-90BA-4424-A005-ACB52F6A5483"
+            }
+        }, 
+        "url": "http://assets.flavorwire.com/wp-content/uploads/2013/01/text2.jpg"
+    }, 
+    "date": {
+        "$date": 1357269383805
+    }, 
+    "description": "Psychadelic", 
+    "from_backup": null, 
+    "media_hash": "b2e33312c545b461c36443efb7ca9c9175895", 
+    "mime_type": "image/jpeg", 
+    "name": "Surreal Illustrations from 1970s Psychology Textbooks \u2013 Flavorwire", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 75895, 
+    "source": "http://www.flavorwire.com/360321/surreal-illustrations-from-1970s-psychology-textbooks/view-all", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50e649876ba60.jpg", 
+    "tags": [], 
+    "url_token": "aekr6"
+}

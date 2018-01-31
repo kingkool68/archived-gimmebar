@@ -1,0 +1,28 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "505d4d2029ca15f777000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "url": "http://45royale.com/"
+    }, 
+    "date": {
+        "$date": 1348291872976
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "23a4b066d5ec6a35511a33e05a86770f16024", 
+    "mime_type": "text/html", 
+    "name": "45royale - A digital design studio - Home", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 16024, 
+    "source": "http://45royale.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/505d4d209f040.html", 
+    "tags": [], 
+    "url_token": "1O9J"
+}

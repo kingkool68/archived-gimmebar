@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514ca7d8aac422500c000023"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 620, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363978201450
+            }, 
+            "display": {
+                "dims": {
+                    "h": "620", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/081B9B35-255D-406B-AB9B-783BC8577671"
+            }, 
+            "postback_key": "356d85b2804aaa7bb9ed89d2bf47fb21", 
+            "request_time": {
+                "$date": 1363978200295
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B4BF4562-E8F8-4A5C-B8DE-38DF7850C338"
+            }
+        }, 
+        "url": "http://petapixel.wpengine.netdna-cdn.com/assets/uploads/2013/03/aircraft-7.jpg"
+    }, 
+    "date": {
+        "$date": 1363978200326
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "c540092af9a836a45897223925cf0ad954820", 
+    "mime_type": "image/jpeg", 
+    "name": "Photographs of Aircraft Shot from Directly Below", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 54820, 
+    "source": "http://www.petapixel.com/2013/03/22/photographs-of-aircraft-shot-from-directly-below/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/514ca7d801024.jpg", 
+    "tags": [], 
+    "url_token": "aqolb"
+}

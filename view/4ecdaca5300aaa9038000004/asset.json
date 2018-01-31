@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdaca5300aaa9038000004"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1321958212221
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/69790130-F823-4826-B5BD-9655254FF418"
+            }, 
+            "postback_key": "4e96d77bead731690c2587f609319cf2", 
+            "request_time": {
+                "$date": 1321958138523
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "368", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/4AAF2BCF-0CA5-4B40-B523-FD398AC50D1E"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/B67F3AF1-1E55-46BD-AA4B-E608C3CE4613"
+            }
+        }, 
+        "url": "http://cameronreynoldsflatt.com/"
+    }, 
+    "copy_of": "4ecb7afa2f0aaa485800001c", 
+    "date": {
+        "$date": 1322101925558
+    }, 
+    "description": "", 
+    "media_hash": "9f3e18fc72bc837ae13b68fe6efbfaf618185", 
+    "mime_type": "text/html", 
+    "name": "Cameron Reynolds-Flatt | User Interaction & User Experience Designer", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 18185, 
+    "source": "http://cameronreynoldsflatt.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecb7afa27d78.html", 
+    "tags": [], 
+    "url_token": "f3Zs"
+}

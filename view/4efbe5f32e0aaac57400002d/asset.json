@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbe5f32e0aaac57400002d"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325131266147
+            }, 
+            "display": {
+                "dims": {
+                    "h": "321", 
+                    "w": "480"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4A326461-DB17-45DB-8597-02C7DDA5F86E"
+            }, 
+            "postback_key": "530e51eeca3133d2e8c9043daba0652c", 
+            "request_time": {
+                "$date": 1325131251062
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "194", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/700235B0-2FD6-49B2-B1F9-6A4947105D2B"
+            }
+        }, 
+        "url": "http://images.piccsy.com/cache/images/42379-23878a-480-321.jpg"
+    }, 
+    "date": {
+        "$date": 1325131251088
+    }, 
+    "description": "#octopus", 
+    "from_backup": false, 
+    "media_hash": "6d7e0ddc684f4f349e8a78210e6463cf29239", 
+    "mime_type": "image/jpeg", 
+    "name": "Piccsy :: octopus", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 29239, 
+    "source": "http://piccsy.com/2010/12/octopus-13x07/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbe5f2be0c6.jpg", 
+    "tags": [
+        "octopus"
+    ], 
+    "url_token": "lpRX"
+}

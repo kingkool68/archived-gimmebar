@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc9962f0aaab50f000015"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322076008921
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/41ED0FBE-6935-4B5E-A58D-653F4DB50A32"
+            }, 
+            "postback_key": "671e006f6d176cc15fe85362a6c625a5", 
+            "request_time": {
+                "$date": 1322075869618
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/AF66E0A9-F3B4-45B2-8303-A75E396CDA0E"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/76999EAB-E890-4D30-8745-62A882A3803C"
+            }
+        }, 
+        "url": "http://patternprimer.adactio.com/"
+    }, 
+    "copy_of": "4ecd46dd300aaab8700000b3", 
+    "date": {
+        "$date": 1330366870770
+    }, 
+    "description": "", 
+    "media_hash": "f2ec006b7e1a1f43cd4444f15d6cfdd38938", 
+    "mime_type": "text/html", 
+    "name": "Pattern Primer", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 8938, 
+    "source": "http://patternprimer.adactio.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecd46dd49038.html", 
+    "tags": [], 
+    "url_token": "utfw"
+}

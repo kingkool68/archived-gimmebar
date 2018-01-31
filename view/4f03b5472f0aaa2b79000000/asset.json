@@ -1,0 +1,40 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f03b5472f0aaa2b79000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "display": {
+                "url": "http://s3.amazonaws.com/resized-images-new/15BDC56E-2AE3-4CB0-A00C-7D043CE8D690"
+            }, 
+            "postback_key": "c1aaffa9bc49d4376318c49b7947d588", 
+            "request_time": {
+                "$date": 1316709812371
+            }, 
+            "retried": [], 
+            "stash": {
+                "url": "http://s3.amazonaws.com/resized-images-new/082A4DEC-76A7-4515-A610-CEE7DDAA6158"
+            }
+        }
+    }, 
+    "date": {
+        "$date": 1325643079422
+    }, 
+    "description": "Communication Design.", 
+    "from_backup": false, 
+    "media_hash": "58dc3ec9033933a9483e8b4ab39fb26a315219", 
+    "mime_type": "image/jpeg", 
+    "name": "774de949b45884e80688bb6331d9255b.jpg (600\u00d7710)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 315219, 
+    "source": "http://behance.vo.llnwd.net/profiles3/103358/projects/742138/774de949b45884e80688bb6331d9255b.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e7b65b3ecc57.jpg", 
+    "tags": [], 
+    "url_token": "l4ud"
+}

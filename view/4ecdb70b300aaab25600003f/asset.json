@@ -1,0 +1,52 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb70b300aaab25600003f"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1315479361247
+            }, 
+            "display": {
+                "dims": {
+                    "h": "500", 
+                    "w": "499"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E879D953-325A-495F-A98E-E03518262E1E"
+            }, 
+            "postback_key": "7ad9e13857b182a4f7a0e28fc9eb0a55", 
+            "request_time": {
+                "$date": 1315479359733
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "291", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0BA81CAA-44C7-40C1-AE5D-11F3BE8C3E77"
+            }
+        }
+    }, 
+    "date": {
+        "$date": 1322104587243
+    }, 
+    "description": "blue red lines #chaos", 
+    "from_backup": false, 
+    "media_hash": "d35db1cea65f11b4f7aaae80658580e8143273", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_lkn1g6pfeE1qe9hnqo1_500.jpg (JPEG Image, 499x500 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 143273, 
+    "source": "http://28.media.tumblr.com/tumblr_lkn1g6pfeE1qe9hnqo1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e689f3f3a684.jpg", 
+    "tags": [
+        "chaos"
+    ], 
+    "url_token": "f36K"
+}

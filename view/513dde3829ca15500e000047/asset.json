@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "513dde3829ca15500e000047"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 505, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363009083603
+            }, 
+            "display": {
+                "dims": {
+                    "h": "505", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E9DF90A6-A9C2-4D7D-B7CE-E2DA993038D4"
+            }, 
+            "postback_key": "ce76f25603f0987d735d54cdf7a58549", 
+            "request_time": {
+                "$date": 1363009080929
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "236", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3BE13000-2D6D-4B7F-A343-FF05630DD852"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/03/color-bang-3.jpg"
+    }, 
+    "date": {
+        "$date": 1363009080939
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "bea1032c4d999299aaa442513e239a5177321", 
+    "mime_type": "image/jpeg", 
+    "name": "Big Bang: Abstract Photograms Created by Exposing Photo Paper to Fireworks", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 77321, 
+    "source": "http://www.petapixel.com/2013/03/08/big-bang-abstract-photograms-created-by-exposing-photo-paper-to-fireworks/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/513dde3780609.jpg", 
+    "tags": [], 
+    "url_token": "aoFDK"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ef2982c2e0aaa220b000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1321302610782
+            }, 
+            "display": {
+                "dims": {
+                    "h": "949", 
+                    "w": "670"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E13E322F-F826-4900-97EB-4716CF2350BE"
+            }, 
+            "postback_key": "6bbd838ea1a808d797797e35e11b4d59", 
+            "request_time": {
+                "$date": 1321302530830
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "411", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4596CF7A-C6FC-4A95-92E8-3CBEDF1B912F"
+            }
+        }, 
+        "url": "http://payload.cargocollective.com/1/0/21463/953618/IYC-matter-24x36.jpg"
+    }, 
+    "date": {
+        "$date": 1324521516135
+    }, 
+    "description": "Exploding chemistry.", 
+    "from_backup": false, 
+    "media_hash": "4abb8c402ce2d41b19b9dd6567e0a239263108", 
+    "mime_type": "image/jpeg", 
+    "name": "black tangled heart", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 263108, 
+    "source": "http://s3.amazonaws.com/data.tumblr.com/tumblr_lur43rGdDP1qdrgo9o8_1280.jpg?AWSAccessKeyId=AKIAJ6IHWSU3BX3X7X3Q&Expires=1324607911&Signature=zA5yaFUwHwupppGSXlKyw%2FEs2T4%3D", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ec17a024d712.jpg", 
+    "tags": [], 
+    "url_token": "kIes"
+}

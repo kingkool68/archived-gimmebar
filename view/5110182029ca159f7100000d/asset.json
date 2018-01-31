@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5110182029ca159f7100000d"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 900, 
+            "w": 600
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1360009250508
+            }, 
+            "display": {
+                "dims": {
+                    "h": "900", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4CD37638-A688-4BA7-A973-3B4B87BB24B1"
+            }, 
+            "postback_key": "b82200ffbb0acdab87ff906059025395", 
+            "request_time": {
+                "$date": 1360009248740
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "435", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/72F82B88-3A80-4EF0-A363-974909FCAB44"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/02/hdb1-11.jpg"
+    }, 
+    "date": {
+        "$date": 1360009248798
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "912a03a43c19ac9e892cc958bc773cf4126988", 
+    "mime_type": "image/jpeg", 
+    "name": "Bridge Inspectors Being Dwarfed by the Second Highest Bridge in the US", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 126988, 
+    "source": "http://www.petapixel.com/2013/02/04/bridge-inspectors-being-dwarfed-by-the-second-highest-bridge-in-the-us/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5110182058b56.jpg", 
+    "tags": [], 
+    "url_token": "ajlxv"
+}

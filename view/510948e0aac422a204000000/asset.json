@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "510948e0aac422a204000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1359563033001
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/7241D0CA-9D94-4BB1-B97B-F6EDCC99EF9C"
+            }, 
+            "postback_key": "34a73692dbf837a6c368a2f39f0e23ac", 
+            "request_time": {
+                "$date": 1359562976107
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "281", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/0319E832-FF1C-4DE7-9A1B-C2BC95D20707"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/83BA7661-B7D8-409F-B730-A3A881897E2B"
+            }
+        }, 
+        "url": "http://brand.jquery.org/"
+    }, 
+    "date": {
+        "$date": 1359562976212
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "e8f690531e2c058407357285916c254314030", 
+    "mime_type": "text/html", 
+    "name": "jQuery Brand Guidelines", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 14030, 
+    "source": "http://brand.jquery.org/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/510948dfc3949.html", 
+    "tags": [], 
+    "url_token": "aivos"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efdd88b2f0aaa266d000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325258893855
+            }, 
+            "display": {
+                "dims": {
+                    "h": "700", 
+                    "w": "465"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C0F6151C-6943-49A7-A8C1-FFA0FDF2437E"
+            }, 
+            "postback_key": "d01a779c49057a828fb92bf9123f112d", 
+            "request_time": {
+                "$date": 1325258891847
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "437", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1EEE1155-E178-4B58-A24B-703EC982FB71"
+            }
+        }, 
+        "url": "http://28.media.tumblr.com/tumblr_l9okoeqZF71qdhb6no1_500.png"
+    }, 
+    "date": {
+        "$date": 1325258891958
+    }, 
+    "description": "Orange mushrooms on blue wood.", 
+    "from_backup": false, 
+    "media_hash": "0fea8c7e08cc56e0ba79deaf9e34fac8135860", 
+    "mime_type": "image/jpeg", 
+    "name": "The Dainty Squid", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 135860, 
+    "source": "http://thedaintysquid.tumblr.com/post/4297123706", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efdd88b7eeed.jpg", 
+    "tags": [], 
+    "url_token": "lA-v"
+}

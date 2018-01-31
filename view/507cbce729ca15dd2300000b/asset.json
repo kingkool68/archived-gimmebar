@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "507cbce729ca15dd2300000b"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 418, 
+            "w": 920
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1350314645257
+            }, 
+            "display": {
+                "dims": {
+                    "h": "418", 
+                    "w": "920"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D60FD8EB-0904-4B43-9DD9-E1E79A35AD35"
+            }, 
+            "postback_key": "f6d41868a776167c589da13052160b9f", 
+            "request_time": {
+                "$date": 1350314643635
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "132", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/00E5619C-CF01-4BD4-BE3A-9B6B3B1499B9"
+            }
+        }, 
+        "url": "http://www.slate.com/content/dam/slate/blogs/behold/2012/10/15/johnson/johnson01.JPG"
+    }, 
+    "date": {
+        "$date": 1350352103500
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "80251cb5efdb52aa23e8555a98e18f3c265217", 
+    "mime_type": "image/jpeg", 
+    "name": "Jay Mark Johnson\u2019s very unusual camera emphasizes time over space.", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 265217, 
+    "source": "http://www.slate.com/blogs/behold/2012/10/15/jay_mark_johnson_s_very_unusual_camera_emphasizes_time_over_space.html", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/507c2a934529f.jpg", 
+    "tags": [], 
+    "url_token": "5wqf"
+}

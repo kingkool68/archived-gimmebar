@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50be58e329ca15cd79000009"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 768, 
+            "w": 1024
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1354651878695
+            }, 
+            "display": {
+                "dims": {
+                    "h": "750", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E78A0CDE-7777-4AE1-A7EB-AA4FD3A0CC4C"
+            }, 
+            "postback_key": "effcdc56ffb75277ab6c8c024a0b7075", 
+            "request_time": {
+                "$date": 1354651875533
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0028B09C-1A4F-44D0-B46C-210DE0899BEC"
+            }
+        }, 
+        "url": "http://img-fotki.yandex.ru/get/5704/farbfoto.11/0_70de8_d9056f89_XXL.jpg"
+    }, 
+    "date": {
+        "$date": 1354651875572
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "1adee979927defcd53c63be882949168273025", 
+    "mime_type": "image/jpeg", 
+    "name": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f \u0438 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u044c - \u041f\u0430\u0440\u0438\u0436 1914 \u0433\u043e\u0434\u0430 \u043d\u0430 \u0446\u0432\u0435\u0442\u043d\u044b\u0445 \u0444\u043e\u0442\u043e", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 273025, 
+    "source": "http://visualhistory.livejournal.com/51055.html?style=mine&utm_source=buffer&buffer_share=2d32c#cutid1", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50be58e141144.jpg", 
+    "tags": [], 
+    "url_token": "a.86Q"
+}

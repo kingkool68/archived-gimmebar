@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5147139129ca15520f000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 600, 
+            "w": 800
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363612563273
+            }, 
+            "display": {
+                "dims": {
+                    "h": "600", 
+                    "w": "800"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8149E6C9-AB8F-4B6E-A694-7639EDF1DF82"
+            }, 
+            "postback_key": "f4c5dcf8456b4f3fa36cc5bc66351081", 
+            "request_time": {
+                "$date": 1363612560977
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/86B6BD4F-E3EC-40F5-8777-3AA6DAACAD1C"
+            }
+        }, 
+        "url": "http://matt.files.wordpress.com/2013/03/img_5541.jpg?w=800&h=600"
+    }, 
+    "date": {
+        "$date": 1363612561794
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "bb2d432aeea60a8013fe17c21752bc56408431", 
+    "mime_type": "image/jpeg", 
+    "name": "Chinese Roof | Matt on Not-WordPress", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 408431, 
+    "source": "http://matt.wordpress.com/2013/03/18/chinese-roof/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5147139089905.jpg", 
+    "tags": [], 
+    "url_token": "apJ6h"
+}

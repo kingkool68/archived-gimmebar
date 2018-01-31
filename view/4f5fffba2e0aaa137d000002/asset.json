@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f5fffba2e0aaa137d000002"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1328862215449
+            }, 
+            "display": {
+                "dims": {
+                    "h": "553", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5DE26093-D31E-4C72-855D-B699FBBB4C8A"
+            }, 
+            "postback_key": "daceac6133592b71beefdb530379e816", 
+            "request_time": {
+                "$date": 1328862149180
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "401", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C5546F5D-E402-401C-A0FB-5AB1D847D8B7"
+            }
+        }, 
+        "url": "http://payload23.cargocollective.com/1/0/128/2779328/13.jpg"
+    }, 
+    "date": {
+        "$date": 1331691450670
+    }, 
+    "description": "Space astronaut with huge alien eye #bw", 
+    "from_backup": false, 
+    "media_hash": "d9a4a9623b1313b83fa4f898acfd76b7158895", 
+    "mime_type": "image/jpeg", 
+    "name": "13.jpg (400\u00d7553)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 158895, 
+    "source": "http://payload23.cargocollective.com/1/0/128/2779328/13.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f34d3c4d289b.jpg", 
+    "tags": [
+        "bw"
+    ], 
+    "url_token": "wMzi"
+}

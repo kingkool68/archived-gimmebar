@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50784a8faac4223c4c00001b"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 620, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1350060689762
+            }, 
+            "display": {
+                "dims": {
+                    "h": "620", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FE9622C4-01FE-4471-B922-52957855AB38"
+            }, 
+            "postback_key": "df74a309a11c2289ff0769fcdfe3eb4d", 
+            "request_time": {
+                "$date": 1350060687756
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B0744C68-A3A2-4E09-B195-84AEB02A207A"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/10/end_of_winter.jpg"
+    }, 
+    "date": {
+        "$date": 1350060687762
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "762e27dcb8496400b1033764525ba95795341", 
+    "mime_type": "image/jpeg", 
+    "name": "Jaw-Dropping Little-Planet Photos That Span the Four Seasons", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 95341, 
+    "source": "http://www.petapixel.com/2012/10/12/jaw-dropping-little-planet-photos-that-span-the-four-seasons/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50784a8f33d0b.jpg", 
+    "tags": [], 
+    "url_token": "43kr"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb4a1300aaa9653000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322104011407
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/691909DC-83B8-4D0A-A0DB-441C1E8B315D"
+            }, 
+            "postback_key": "3188bb07c21a8dcff07d11af735dffe9", 
+            "request_time": {
+                "$date": 1322103969172
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D1CEFD87-490C-44B9-9B25-C60AA3FE04C2"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/2759/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1322103969174
+    }, 
+    "description": "Blue and orange city skyline. ", 
+    "from_backup": false, 
+    "media_hash": "f16125f39ee65395f42762168d3a424565980", 
+    "mime_type": "image/jpeg", 
+    "name": "\"Urban Oscillations\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 65980, 
+    "source": "http://www.threadless.com/product/2759/Urban_Oscillations?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb4a0d4c84.jpg", 
+    "tags": [], 
+    "url_token": "f35w"
+}

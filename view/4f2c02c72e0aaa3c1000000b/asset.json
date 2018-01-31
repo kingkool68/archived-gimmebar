@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f2c02c72e0aaa3c1000000b"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1328284361443
+            }, 
+            "display": {
+                "dims": {
+                    "h": "857", 
+                    "w": "640"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/72BA7638-2FC5-4171-B030-5A92929A1990"
+            }, 
+            "postback_key": "1966a10c77cb08a1777b5411779b7c5f", 
+            "request_time": {
+                "$date": 1328284359769
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "388", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BD4FDA30-E18A-49D1-AB84-FD265D91117A"
+            }
+        }, 
+        "url": "https://s3-us-west-1.amazonaws.com/images.path.com/photos2/1d8490fd-b623-4f36-950b-683e00ef4e0c/2x.jpg"
+    }, 
+    "date": {
+        "$date": 1328284359773
+    }, 
+    "description": "https://path.com/p/39gLVU", 
+    "from_backup": false, 
+    "media_hash": "79e39ca20926077044784f76b20ce77e70955", 
+    "mime_type": "image/jpeg", 
+    "name": "Andrew Cohen's Dog in Snow", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 70955, 
+    "source": "https://s3-us-west-1.amazonaws.com/images.path.com/photos2/1d8490fd-b623-4f36-950b-683e00ef4e0c/2x.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f2c02c741be0.jpg", 
+    "tags": [], 
+    "url_token": "qOYf"
+}

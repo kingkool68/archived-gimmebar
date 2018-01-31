@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd69d2f0aaae339000005"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127320896
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "300"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/27F6A72C-2A62-4DE5-991D-D09C19803639"
+            }, 
+            "postback_key": "8081aa2ad0ac40a527096355f1c814c6", 
+            "request_time": {
+                "$date": 1325127325821
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/AED6EB3F-9EB5-482E-8405-2E1588956331"
+            }
+        }, 
+        "url": "http://www.mod-tots.com/site/wp-content/uploads/2011/01/Windmill1-300x300.jpg"
+    }, 
+    "date": {
+        "$date": 1325127325824
+    }, 
+    "description": "#robots", 
+    "from_backup": false, 
+    "media_hash": "c952d0404837524337fc2910bf9f983914876", 
+    "mime_type": "image/jpeg", 
+    "name": "Robots", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 14876, 
+    "source": "http://www.mod-tots.com/site/products/paintings/robots-coming-soon/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd69d835dd.jpg", 
+    "tags": [
+        "robots"
+    ], 
+    "url_token": "lpl8"
+}

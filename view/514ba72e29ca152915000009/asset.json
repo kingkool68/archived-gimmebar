@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514ba72e29ca152915000009"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 444, 
+            "w": 600
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363912496767
+            }, 
+            "display": {
+                "dims": {
+                    "h": "444", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/DEF2D0E0-41AA-4019-851C-DCA44EA36675"
+            }, 
+            "postback_key": "17bf0cc8cb0e1b8276b83e0eac86718b", 
+            "request_time": {
+                "$date": 1363912494843
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "215", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6776361E-6269-4255-A257-E867420FC250"
+            }
+        }, 
+        "url": "http://static.designspiration.net/data/l/2156220101258_cm6YpcFR_l.jpg"
+    }, 
+    "date": {
+        "$date": 1363912494864
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9afe8aae3e343ec4fe1a32839ee7954c101633", 
+    "mime_type": "image/jpeg", 
+    "name": "Product Design / The Octopus Chair in defringe.com \u2014 Designspiration", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 101633, 
+    "source": "http://designspiration.net/image/2156220101258/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/514ba72d744c3.jpg", 
+    "tags": [], 
+    "url_token": "aqgxo"
+}

@@ -1,0 +1,46 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50620538aac4223d6c000018"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 1068, 
+            "w": 600
+        }, 
+        "shotput": {
+            "complete": false, 
+            "display": {
+                "url": "http://s3.amazonaws.com/resized-images-new/5095010C-BBCA-4B3A-8C54-5ACA1AAE6B1E"
+            }, 
+            "postback_key": "264cc7ee7cb749c05d9e59f2b9a4fc0b", 
+            "request_time": {
+                "$date": 1348601141667
+            }, 
+            "retried": [], 
+            "stash": {
+                "url": "http://s3.amazonaws.com/resized-images-new/44922138-FFEC-4075-8EB4-E35F9E7A4F00"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/09/sliced5.jpg"
+    }, 
+    "date": {
+        "$date": 1348601141683
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "bbb2ada56bdc211bd2c5bad68e4a80de154554", 
+    "mime_type": "image/jpeg", 
+    "name": "Beautiful \u201cTime-Slice\u201d Photos of NYC that Show Day Turning Into Night", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 154554, 
+    "source": "http://www.petapixel.com/2012/09/25/beautiful-time-slice-photos-of-nyc-that-show-day-turning-into-night/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5062053551e07.jpg", 
+    "tags": [], 
+    "url_token": "2mim"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f7374452f0aaafc67000068"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322384577492
+            }, 
+            "display": {
+                "dims": {
+                    "h": "619", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/50025F0F-1CF8-40B6-8483-E4D064B4C6FF"
+            }, 
+            "postback_key": "80a71a0e3c49e9f16fa6a4782012492a", 
+            "request_time": {
+                "$date": 1322384575588
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "359", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/EBAF77BF-0965-456F-9EF5-C38E17A94F13"
+            }
+        }, 
+        "url": "http://media.tumblr.com/tumblr_l5pk5vsrYH1qansix.jpg"
+    }, 
+    "date": {
+        "$date": 1332966469228
+    }, 
+    "description": "Urban minimalism. ", 
+    "from_backup": false, 
+    "media_hash": "df0a4197a50aed94ddfe03b19ce0e8f590401", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_l78izq18uB1qzoq6do1_500.jpg (JPEG Image, 500\u00a0\u00d7\u00a0619 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 90401, 
+    "source": "http://24.media.tumblr.com/tumblr_l78izq18uB1qzoq6do1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ed1fcbf3d394.jpg", 
+    "tags": [], 
+    "url_token": "y6lK"
+}

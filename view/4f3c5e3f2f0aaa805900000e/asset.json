@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f3c5e3f2f0aaa805900000e"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1327414392954
+            }, 
+            "display": {
+                "dims": {
+                    "h": "612", 
+                    "w": "510"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F414062D-CA0E-4C33-A193-6AC2BBDA8486"
+            }, 
+            "postback_key": "d2278fc3d270b50257e15a512b8eb4c9", 
+            "request_time": {
+                "$date": 1327414391219
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "348", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B4765010-D854-42C1-8A92-152D911DD9F7"
+            }
+        }, 
+        "url": "http://www.designworklife.com/wp-content/uploads/2012/01/NateLuetkehans_05.jpg"
+    }, 
+    "copy_of": "4f3be00c2f0aaa1e45000002", 
+    "date": {
+        "$date": 1329356351434
+    }, 
+    "description": "#design #illustration", 
+    "media_hash": "bdc63f182c1e7b43b4ec57756cf182ae80828", 
+    "mime_type": "image/jpeg", 
+    "name": "Nate Luetkehans Illustration", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 80828, 
+    "source": "http://www.designworklife.com/2012/01/24/nate-luetkehans-illustration/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+designworklife%2Fdwl+%28design+work+life%29", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f1ebc76acc48.jpg", 
+    "tags": [
+        "design", 
+        "illustration"
+    ], 
+    "url_token": "sGHN"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f29ca122e0aaaeb3f000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1328138825503
+            }, 
+            "display": {
+                "dims": {
+                    "h": "554", 
+                    "w": "554"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/124E13E8-7BFF-409A-A5F2-D8E22CD943FF"
+            }, 
+            "postback_key": "68aef1f5159215aa50b2157acf909992", 
+            "request_time": {
+                "$date": 1328138770128
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8D85CCDA-EF47-46D0-8ABB-396ADE922C2B"
+            }
+        }, 
+        "url": "http://media-cdn.pinterest.com/upload/22940279321395278_kz1zfbJp_c.jpg"
+    }, 
+    "date": {
+        "$date": 1328138770139
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "f36d6b712f4b8ac345f78b76a86ba98923452", 
+    "mime_type": "image/jpeg", 
+    "name": "Banana Octopus", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 23452, 
+    "source": "http://media-cdn.pinterest.com/upload/22940279321395278_kz1zfbJp_c.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f29ca11caae4.jpg", 
+    "tags": [], 
+    "url_token": "qwTu"
+}

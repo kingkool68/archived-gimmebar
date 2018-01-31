@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f455b4d2e0aaabe51000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329945504418
+            }, 
+            "display": {
+                "dims": {
+                    "h": "586", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F0536B07-26CB-4FF8-80BD-ECC5CD58F4C4"
+            }, 
+            "postback_key": "1fad03d8ddb62cd2f86a15e49e98f8d3", 
+            "request_time": {
+                "$date": 1329945421646
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "274", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/079536E4-542A-4841-96B6-38662ED2EB51"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/02/trees1_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1329945421650
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "584c811f366d8e6875f36b0adfed939096436", 
+    "mime_type": "image/jpeg", 
+    "name": "Beautiful Mosaics of Trees Photographed Across Time", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 96436, 
+    "source": "http://www.petapixel.com/2012/02/22/beautiful-mosaics-of-trees-photographed-across-time/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f455b4d2b94d.jpg", 
+    "tags": [], 
+    "url_token": "tNaq"
+}

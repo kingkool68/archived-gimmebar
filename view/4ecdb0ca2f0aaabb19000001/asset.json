@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb0ca2f0aaabb19000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322102900314
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/0633F77A-4706-4A04-8B7F-4E43CFC3C7C1"
+            }, 
+            "postback_key": "cc76a2e4e4227d72f90b618461b6de27", 
+            "request_time": {
+                "$date": 1322102986374
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/04A143A6-EA95-462B-8FA3-EC1EEB72298E"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/08/30/CountryMan.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322102986378
+    }, 
+    "description": "#tophat #mustache #simple #minimal", 
+    "from_backup": false, 
+    "media_hash": "e815444db3318b03c2c8860a1b29a35e4105", 
+    "mime_type": "image/png", 
+    "name": "CountryMan by Bassam Ismail \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 4105, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/aug/30/countryman/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb0ca10512.png", 
+    "tags": [
+        "tophat", 
+        "mustache", 
+        "simple", 
+        "minimal"
+    ], 
+    "url_token": "f320"
+}

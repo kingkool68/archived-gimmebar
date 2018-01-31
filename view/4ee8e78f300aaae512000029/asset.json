@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ee8e78f300aaae512000029"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1323721207227
+            }, 
+            "display": {
+                "dims": {
+                    "h": "574", 
+                    "w": "980"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1B13E458-4B60-4734-9FCE-FD1E148839D2"
+            }, 
+            "postback_key": "68540a2be312d653d3e13edf8eb08bf7", 
+            "request_time": {
+                "$date": 1323721314824
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "170", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B2A08A15-F3B0-44B4-96BB-F3F8ECA3173F"
+            }
+        }, 
+        "url": "http://www.movingbrands.com/wp-content/uploads/2011/12/MovingBrands_HP_Case_Study_Signage.jpg"
+    }, 
+    "date": {
+        "$date": 1323886479567
+    }, 
+    "description": "HP Branding guidelines in video form and new HP concept designs.  ", 
+    "from_backup": false, 
+    "media_hash": "104ad720c1da6915db0df8c9d6ca7bb4204443", 
+    "mime_type": "image/jpeg", 
+    "name": "HP | Moving Brands - a global branding company", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 204443, 
+    "source": "http://www.movingbrands.com/?category_name=hp-work", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ee6626270e0a.jpg", 
+    "tags": [], 
+    "url_token": "jJJL"
+}

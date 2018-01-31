@@ -1,0 +1,41 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f1707112f0aaacb3e00001c"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "display": {
+                "url": "http://s3.amazonaws.com/resized-images-new/FE3E9270-E5C5-4D48-A40B-C26EA92F23DD"
+            }, 
+            "postback_key": "e41bbc7eb136827d464ad9a26985894b", 
+            "request_time": {
+                "$date": 1316638564159
+            }, 
+            "retried": [], 
+            "stash": {
+                "url": "http://s3.amazonaws.com/resized-images-new/58F1906F-EF1D-4908-9EC0-7997BEA374D3"
+            }
+        }, 
+        "url": "http://api.ning.com/files/heZzQOcqk83ViCo8cLWvjGz7XcmDZzKD1kUIPc5xPQijO2Ic0EZtVCZ4588mS4SZA9QO8Ql*kawwqlNA3RSUhUQYhCPqp2QU/Red_Riding_Hood_textured1.jpg"
+    }, 
+    "date": {
+        "$date": 1326909201713
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "6d44e46170b0e79fe6ceae0694fc82c3335301", 
+    "mime_type": "image/jpeg", 
+    "name": "Childrens Story Posters | Square Inch Design Blog", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 335301, 
+    "source": "http://www.squareinchdesign.com/category/childrens-story-posters/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e7a4f63a4248.jpg", 
+    "tags": [], 
+    "url_token": "ohq6"
+}

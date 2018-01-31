@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5666557caac4224c1d8b4588"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 480, 
+            "w": 341
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/0495b5ae3a37c8db137c14ad11ed8ea530045a29_m.jpg"
+    }, 
+    "date": {
+        "$date": 1449547132760
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "b688ef4a0be763d2ed90c15c2268e66316548", 
+    "mime_type": "image/jpeg", 
+    "name": "FFFFOUND!", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 16548, 
+    "source": "http://ffffound.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5666557cad777.jpg", 
+    "tags": [], 
+    "url_token": "bVOkM"
+}

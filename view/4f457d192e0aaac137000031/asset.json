@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457d192e0aaac137000031"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329954204659
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/B9B14622-E39A-4785-9EAB-2B6D3B3F0EE9"
+            }, 
+            "postback_key": "976dffea7ad1d989406bbaa552ab9715", 
+            "request_time": {
+                "$date": 1329954073933
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "252", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/914E8BC0-1B6B-48C3-907D-48634802512E"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/30C4F86D-2E5C-46F7-90D4-BA66AEC1F676"
+            }
+        }, 
+        "url": "http://clearassembly.com/"
+    }, 
+    "date": {
+        "$date": 1329954073936
+    }, 
+    "description": "Interesting look. Blue.\n\n#blue", 
+    "from_backup": false, 
+    "media_hash": "d9af9f1c91f48a80427628432a05ce386478", 
+    "mime_type": "text/html", 
+    "name": "Clear Assembly - Web Design and Development Agency, Brisbane.", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 6478, 
+    "source": "http://clearassembly.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f457d1979091.html", 
+    "tags": [
+        "blue"
+    ], 
+    "url_token": "tOid"
+}

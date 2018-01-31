@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f2cb8572e0aaaba590000df"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1315493368925
+            }, 
+            "fullscreen": {
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/9587F968-0AE2-4196-BAFE-D0CE0B5EF26D"
+            }, 
+            "postback_key": "09f4003e9e5622b26caee1cf49fffaaa", 
+            "request_time": {
+                "$date": 1315492225998
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "157", 
+                    "w": "196"
+                }, 
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/D730FF99-7AE8-4F7A-AAE9-41E8CB00D0FF"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/BD99974D-0E7D-423D-9165-7A8A18F352A6"
+            }
+        }, 
+        "url": "http://www.corporateriskwatch.com/"
+    }, 
+    "date": {
+        "$date": 1328330839089
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "3601997584fe051e55ab8244d3b5c2005229", 
+    "mime_type": "text/html", 
+    "name": "CRW / Corporate Risk Watch", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 5229, 
+    "source": "http://www.corporateriskwatch.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e68d181601e8.html", 
+    "tags": [], 
+    "url_token": "qVfe"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f85c0ac29ca155868000154"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 492, 
+            "w": 500
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1334165678488
+            }, 
+            "display": {
+                "dims": {
+                    "h": "492", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/42FC22BD-A9C3-4554-BFE2-2FCA470AD306"
+            }, 
+            "postback_key": "6b795cc178e5c59c68eb487d954bcf29", 
+            "request_time": {
+                "$date": 1334165676040
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "285", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/74ACC32A-9CCF-4D16-BA88-57602F042F6A"
+            }
+        }, 
+        "url": "http://funkyimg.com/u2/699/917/cover.jpg"
+    }, 
+    "date": {
+        "$date": 1334165676048
+    }, 
+    "description": "Album Cover ", 
+    "from_backup": null, 
+    "media_hash": "065fd9528e17e110eedcb42faf43899149549", 
+    "mime_type": "image/jpeg", 
+    "name": "Freddie Hubbard - Here to Stay", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 49549, 
+    "source": "http://funkyimg.com/u2/699/917/cover.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f85c0a990278.jpg", 
+    "tags": [], 
+    "url_token": "Bw1g"
+}

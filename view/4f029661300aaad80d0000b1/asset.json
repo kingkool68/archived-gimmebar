@@ -1,0 +1,41 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f029661300aaad80d0000b1"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "display": {
+                "url": "http://s3.amazonaws.com/resized-images-new/A2C8B16E-B94F-4CDA-825F-3E126F700BAD"
+            }, 
+            "postback_key": "b741868a5698189a87c38d7585f3068a", 
+            "request_time": {
+                "$date": 1316241591956
+            }, 
+            "retried": [], 
+            "stash": {
+                "url": "http://s3.amazonaws.com/resized-images-new/2E2685E7-0014-44F7-896F-9C2893A68FDF"
+            }
+        }, 
+        "url": "http://behance.vo.llnwd.net/profiles2/134023/projects/354226/1340231259076976.jpg"
+    }, 
+    "date": {
+        "$date": 1325569633493
+    }, 
+    "description": "Reminds me of the space Legos series Blacktron.", 
+    "from_backup": false, 
+    "media_hash": "76ca9d4c2756dfbd4cf2d9b4b510f3f2420338", 
+    "mime_type": "image/jpeg", 
+    "name": "color-berlin-by-matthias-heiderich-7.jpg (600\u00d7600)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 420338, 
+    "source": "http://trendland.net/wp-content/uploads/2009/12/color-berlin-by-matthias-heiderich-7.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e7440b3273fc.jpg", 
+    "tags": [], 
+    "url_token": "lXna"
+}

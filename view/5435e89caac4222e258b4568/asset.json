@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5435e89caac4222e258b4568"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 640, 
+            "w": 640
+        }, 
+        "url": "http://scontent-a.cdninstagram.com/hphotos-xpf1/t51.2885-15/1723457_727056540708322_1278848924_n.jpg"
+    }, 
+    "date": {
+        "$date": 1412819100190
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "7d9a10b53090b86b7664a218b20f938b66741", 
+    "mime_type": "image/jpeg", 
+    "name": "Kerem's Inspiration : Photo", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 66741, 
+    "source": "http://keremspiration.tumblr.com/image/98548558309", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/542722222b471.jpg", 
+    "tags": [], 
+    "url_token": "boVpG"
+}

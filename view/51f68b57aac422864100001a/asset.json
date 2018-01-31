@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51f68b57aac422864100001a"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 712, 
+            "w": 900
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1375112026149
+            }, 
+            "display": {
+                "dims": {
+                    "h": "712", 
+                    "w": "900"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/DAF8CFB0-4290-4DFB-A3B6-CEB85F0C0085"
+            }, 
+            "postback_key": "7de2af17bab5a82c7440cefcd8748600", 
+            "request_time": {
+                "$date": 1375112023364
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "229", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/00663DF3-871A-4410-8710-68DEA434AE92"
+            }
+        }, 
+        "url": "http://joshuamfrankel.com/wp-content/uploads/Torus_Interior_AC75-2621_900.jpg"
+    }, 
+    "date": {
+        "$date": 1375112023409
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "b25028215f98f4cdf50226877ca9ab6c356730", 
+    "mime_type": "image/jpeg", 
+    "name": "Torus_Interior_AC75-2621_900.jpg (JPEG Image, 900\u00a0\u00d7\u00a0712 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 356730, 
+    "source": "http://joshuamfrankel.com/wp-content/uploads/Torus_Interior_AC75-2621_900.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51f68b5706bc5.jpg", 
+    "tags": [], 
+    "url_token": "aIiKh"
+}

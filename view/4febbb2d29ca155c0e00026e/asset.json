@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4febbb2d29ca155c0e00026e"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 855, 
+            "w": 605
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1340848943716
+            }, 
+            "display": {
+                "dims": {
+                    "h": "855", 
+                    "w": "605"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8FB75FE2-966B-4F26-8C5B-629013C49997"
+            }, 
+            "postback_key": "7bb7b18de732d6273637921be1f8aeea", 
+            "request_time": {
+                "$date": 1340848941142
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "410", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B1E607AF-EA02-47CE-859B-FDC266A16F8E"
+            }
+        }, 
+        "url": "http://www.lanciatrendvisions.com/uploads/LTVs_melt_6.jpg"
+    }, 
+    "date": {
+        "$date": 1340848941146
+    }, 
+    "description": "Weird collage art", 
+    "from_backup": null, 
+    "media_hash": "e1857ef850253c4bda3ebf36e680db4657501", 
+    "mime_type": "image/jpeg", 
+    "name": "LTVs_melt_6.jpg (605\u00d7855)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 57501, 
+    "source": "http://www.lanciatrendvisions.com/uploads/LTVs_melt_6.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4febbb2cd5aed.jpg", 
+    "tags": [], 
+    "url_token": "Pj52"
+}

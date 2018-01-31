@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f5fffd42e0aaa087d000029"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1316374728448
+            }, 
+            "display": {
+                "dims": {
+                    "h": "490", 
+                    "w": "350"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/AB18DFF1-41CA-4E2C-A4AA-24F64BE5D559"
+            }, 
+            "postback_key": "23613d7198d2b3e34f04d3a716e1a632", 
+            "request_time": {
+                "$date": 1316374742029
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "406", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E6232DD1-0C1B-49E4-A39B-9C4BE8EAD666"
+            }
+        }, 
+        "url": "http://www.wookmark.com/images/original/2712_koyukiinagaki2.jpg"
+    }, 
+    "date": {
+        "$date": 1331691476873
+    }, 
+    "description": "Astronaut umbrella space", 
+    "from_backup": false, 
+    "media_hash": "e8edf19f87d045dc0df79dd69bf6cd9f20681", 
+    "mime_type": "image/jpeg", 
+    "name": "koyukiinagaki2.jpg (350\u00d7490)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 20681, 
+    "source": "http://netdiver.net/images/11/wp/koyukiinagaki2.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e7648d59cbd9.jpg", 
+    "tags": [], 
+    "url_token": "wMzt"
+}

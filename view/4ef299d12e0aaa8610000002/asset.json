@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ef299d12e0aaa8610000002"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324521943923
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A50D4967-523D-440C-8355-425E211ADBEB"
+            }, 
+            "postback_key": "892e171ab32ba20083b0fa7b60bdcc36", 
+            "request_time": {
+                "$date": 1324521937881
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4E933379-30DB-4FD9-8786-5A2B6B1C6E8C"
+            }
+        }, 
+        "url": "http://dribbble.com/system/users/58862/screenshots/290322/c_dribbb_2_copy.jpg?1318354064"
+    }, 
+    "date": {
+        "$date": 1324521937912
+    }, 
+    "description": "C on orange background.", 
+    "from_backup": false, 
+    "media_hash": "8762aca1d3cd4d7f495045dd36670980113507", 
+    "mime_type": "image/jpeg", 
+    "name": "c_dribbb_2_copy.jpg (400\u00d7300)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 113507, 
+    "source": "http://dribbble.com/system/users/58862/screenshots/290322/c_dribbb_2_copy.jpg?1318354064", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ef299c8f2ac3.jpg", 
+    "tags": [], 
+    "url_token": "kIiy"
+}

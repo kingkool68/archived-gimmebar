@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f20a5032f0aaa8d0c000003"
+    }, 
+    "asset_type": "embed", 
+    "avatar": false, 
+    "content": {
+        "assimilator_subtype": "Vimeo", 
+        "assimilator_type": "Vimeo", 
+        "info": {
+            "author_name": "James W Griffiths", 
+            "author_url": "http://vimeo.com/jwgriffiths", 
+            "description": "Shot entirely on the Nokia N8 mobile phone. Winner of the Nokia Shorts competition 2011.\n\nDirector: James W Griffiths\nProducer: Kurban Kassam\nDirector of Photography: Christopher Moon\nEditor: Marianne Kuopanportti \nSound Design: Mauricio d'Orey\nMusic composed by: Lennert Busch\n\nGet the music on iTunes: http://tinyurl.com/6acl6yp", 
+            "duration": 145, 
+            "height": 720, 
+            "html": "    <iframe src=\"http://player.vimeo.com/video/25451551\" width=\"1280\" height=\"720\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>\n\n\n", 
+            "is_plus": "1", 
+            "provider_name": "Vimeo", 
+            "provider_url": "http://vimeo.com/", 
+            "thumbnail_height": 720, 
+            "thumbnail_url": "http://b.vimeocdn.com/ts/168/903/168903049_1280.jpg", 
+            "thumbnail_width": 1280, 
+            "title": "Splitscreen: A Love Story", 
+            "type": "video", 
+            "version": "1.0", 
+            "video_id": 25451551, 
+            "width": 1280
+        }, 
+        "params": {
+            "height": "720", 
+            "src": "http://player.vimeo.com/video/25451551", 
+            "tag": "iframe", 
+            "width": "1280"
+        }, 
+        "thumbnail": "http://b.vimeocdn.com/ts/168/903/168903049_1280.jpg", 
+        "title": "Splitscreen: A Love Story", 
+        "type": "embed", 
+        "url": null
+    }, 
+    "date": {
+        "$date": 1327539459119
+    }, 
+    "description": "Split screen story telling.", 
+    "from_backup": false, 
+    "media_hash": "17aaaa2e3195453240c317b1df4d286738", 
+    "mime_type": "text/-gimmebar-assimilator", 
+    "name": "Splitscreen: A Love Story on Vimeo", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 168, 
+    "source": "http://vimeo.com/25451551", 
+    "tags": [], 
+    "url_token": "pqeZ"
+}

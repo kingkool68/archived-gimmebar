@@ -1,0 +1,45 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4fe0adfd29ca152a0f000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/8BBF8DB5-9DFE-4696-BD72-E2C62E7C61E2"
+            }, 
+            "postback_key": "0c66b2a96bef27b00e9724ebee005dcb", 
+            "request_time": {
+                "$date": 1340124669782
+            }, 
+            "retried": [], 
+            "thumb": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/BF267219-1854-4F4C-8DBE-942E26AE15B7"
+            }, 
+            "window": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/29F00D24-F367-42C7-A06A-116F91C26AE2"
+            }
+        }, 
+        "url": "http://www.netmagazine.com/features/create-website-style-guide"
+    }, 
+    "date": {
+        "$date": 1340124669801
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "4d7688922d28d1e7c63b91b5c91d9b9761277", 
+    "mime_type": "text/html", 
+    "name": "Create a website style guide | Feature | .net magazine", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": true, 
+    "size": 61277, 
+    "source": "http://www.netmagazine.com/features/create-website-style-guide", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4fe0adfd7ae3f.html", 
+    "tags": [], 
+    "url_token": "NRzz"
+}

@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efc7e28300aaabd22000003"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1316118038361
+            }, 
+            "display": {
+                "dims": {
+                    "h": "400", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/668361CF-5BFE-47CE-8B35-C5870FF7D033"
+            }, 
+            "postback_key": "eecc0caf25b9bbae40ed65f0637d8e5b", 
+            "request_time": {
+                "$date": 1316118025116
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5530D5E2-033F-4DCA-A7F7-3CA831D97DED"
+            }
+        }, 
+        "url": "http://bumbumbum.me/wp-content/uploads/Leontjew_7.png"
+    }, 
+    "date": {
+        "$date": 1325170216044
+    }, 
+    "description": "#minimal", 
+    "from_backup": false, 
+    "media_hash": "10c7fa9d079787eb496172efe10cc0a2243905", 
+    "mime_type": "image/png", 
+    "name": "tumblr_lrlfolOjBM1qz7ymyo3_1280.png (PNG Image, 600\u00a0\u00d7\u00a0400 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 243905, 
+    "source": "http://s3.amazonaws.com/data.tumblr.com/tumblr_lrlfolOjBM1qz7ymyo3_1280.png?AWSAccessKeyId=AKIAJ6IHWSU3BX3X7X3Q&Expires=1325256571&Signature=DD%2B%2FE5qekoODPVs5zow2TTTfVMk%3D", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e725e0889968.png", 
+    "tags": [
+        "minimal"
+    ], 
+    "url_token": "ltfr"
+}

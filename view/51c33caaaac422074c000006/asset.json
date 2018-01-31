@@ -1,0 +1,45 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51c33caaaac422074c000006"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/AD5CA09B-A69F-46DD-A520-A008A22A003B"
+            }, 
+            "postback_key": "5662574bff1ad2aca14f898030fb5bd0", 
+            "request_time": {
+                "$date": 1371749546470
+            }, 
+            "retried": [], 
+            "thumb": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/78F33D12-8593-414B-AB6D-BB462E91A569"
+            }, 
+            "window": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/AA35CF8E-40CD-48FA-A6DA-751998FC8990"
+            }
+        }, 
+        "url": "http://stormlux.com/"
+    }, 
+    "date": {
+        "$date": 1371749546506
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "1924ed3a2ec491eea46e09277b181cf641258", 
+    "mime_type": "text/html", 
+    "name": "Stormlux - UI & Web Design", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 41258, 
+    "source": "http://stormlux.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51c33caa2b59f.html", 
+    "tags": [], 
+    "url_token": "aDBEC"
+}

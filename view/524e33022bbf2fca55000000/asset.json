@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "524e33022bbf2fca55000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 974, 
+            "w": 650
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1380856380614
+            }, 
+            "display": {
+                "dims": {
+                    "h": "974", 
+                    "w": "650"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/29BF1237-C45A-4E9C-B566-03296E7C7EEA"
+            }, 
+            "postback_key": "d9fae65133d7305d602d060813dcc7d5", 
+            "request_time": {
+                "$date": 1380856578710
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "435", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B82DD3AB-BDD0-419C-AA7C-6E2B8F3B6C68"
+            }
+        }, 
+        "url": "http://www.lanciatrendvisions.com/images//articoli/ellen-jantzen-disturbing-the-spirits/ltvs-ellenjantzen-12.jpg"
+    }, 
+    "date": {
+        "$date": 1380856578718
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "515b914d5056e470ad515a79ebbb792e80672", 
+    "mime_type": "image/jpeg", 
+    "name": "ltvs-ellenjantzen-12.jpg (650\u00d7974)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 80672, 
+    "source": "http://www.lanciatrendvisions.com/images//articoli/ellen-jantzen-disturbing-the-spirits/ltvs-ellenjantzen-12.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/524e33025ba56.jpg", 
+    "tags": [], 
+    "url_token": "aP7FL"
+}

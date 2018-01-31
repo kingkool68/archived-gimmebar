@@ -1,0 +1,57 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e7cc23e2e0aaa3a2e000000"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1314774730340
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/FF83A504-498D-47CD-921C-DAC192B64D13"
+            }, 
+            "postback_key": "3b213dd4672dd7d188c3ae605f900185", 
+            "request_time": {
+                "$date": 1314762494772
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "224", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/1F4C3B6C-26AD-4F92-AB91-BD6BD7A8A0BC"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3987AD7B-962E-4603-9DFE-2328F93FB4FE"
+            }
+        }, 
+        "url": "http://virb.com/"
+    }, 
+    "copy_of": "4e5eee672e0aaacb13000035", 
+    "date": {
+        "$date": 1316799038480
+    }, 
+    "description": "#maintenance #virb", 
+    "media_hash": "72d2fb9a7e1ad2102cf4feee8cf03a0f1126", 
+    "mime_type": "text/html", 
+    "name": "Virb is currently undergoing maintenance", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 1126, 
+    "source": "http://virb.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e5daefe64407.html", 
+    "tags": [
+        "maintenance", 
+        "virb"
+    ], 
+    "url_token": "aPCX"
+}

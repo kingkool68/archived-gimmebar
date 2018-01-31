@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51e9673e2bbf2fe32900002b"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 800, 
+            "w": 557
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1374250816267
+            }, 
+            "display": {
+                "dims": {
+                    "h": "800", 
+                    "w": "557"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/07D81C5C-C49B-410A-9B6F-FA2C3723003C"
+            }, 
+            "postback_key": "dec38af01bbc7ea5fdbd540600c51dba", 
+            "request_time": {
+                "$date": 1374250814618
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "417", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CEE84DF8-7A8C-4CC3-9159-031B971CD922"
+            }
+        }, 
+        "url": "http://behance.vo.llnwd.net/profiles/88339/projects/6558335/0321550c4c7ec863b69619859c27766e.jpg"
+    }, 
+    "date": {
+        "$date": 1374250814639
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9db0448ae3ca881b8970a82ee6810d01204522", 
+    "mime_type": "image/jpeg", 
+    "name": "Food, Object or Animal", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 204522, 
+    "source": "http://jacohaasbroek.com/17418/991780/home/food-object-or-animal", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51e9673e4aa3a.jpg", 
+    "tags": [], 
+    "url_token": "aG8KP"
+}

@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5409f1a9aac4229b0f8b4567"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 576, 
+            "w": 768
+        }, 
+        "url": "http://d3gqasl9vmjfd8.cloudfront.net/64048b99-b02a-4cf6-9b00-4db8da11e6a2.jpg"
+    }, 
+    "date": {
+        "$date": 1409937833495
+    }, 
+    "description": "Interesting color combo", 
+    "from_backup": null, 
+    "media_hash": "d9a7d08206f00e3785db50df18c6520f123043", 
+    "mime_type": "image/jpeg", 
+    "name": "64048b99-b02a-4cf6-9b00-4db8da11e6a2.jpg (768\u00d7576)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 123043, 
+    "source": "http://d3gqasl9vmjfd8.cloudfront.net/64048b99-b02a-4cf6-9b00-4db8da11e6a2.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5409f1a960126.jpg", 
+    "tags": [], 
+    "url_token": "bl387"
+}

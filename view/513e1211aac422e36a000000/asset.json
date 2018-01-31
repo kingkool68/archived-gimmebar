@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "513e1211aac422e36a000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 632, 
+            "w": 900
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363022356931
+            }, 
+            "display": {
+                "dims": {
+                    "h": "632", 
+                    "w": "900"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6E84F6CE-C74D-4341-B731-43DC6AC4C97F"
+            }, 
+            "postback_key": "9943e98fc98cfa1d635f2345275f8d7c", 
+            "request_time": {
+                "$date": 1363022353635
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "204", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6B9A26DC-B160-484A-9EBD-F8E89F65C1D5"
+            }
+        }, 
+        "url": "http://24.media.tumblr.com/1e36cb54e5ec5431f069bf96d20fbb53/tumblr_mjd2n7GNJc1s7f3fyo1_1280.jpg"
+    }, 
+    "date": {
+        "$date": 1363022353669
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "4fe2fea2d933f9a4158bd986393bd699524264", 
+    "mime_type": "image/jpeg", 
+    "name": "National Geographic Found", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 524264, 
+    "source": "http://natgeofound.tumblr.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/513e121143652.jpg", 
+    "tags": [], 
+    "url_token": "aoHaM"
+}

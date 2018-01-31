@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "510f2430aac4229321000009"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 413, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1359946802534
+            }, 
+            "display": {
+                "dims": {
+                    "h": "413", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/431C725B-E8D5-4284-B8FC-6A1A1F4007AD"
+            }, 
+            "postback_key": "e3676f97e65acc33266a74eabdd8303d", 
+            "request_time": {
+                "$date": 1359946800093
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "193", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/047DD1A9-2E5B-41D3-BF95-1D02EF8E37E2"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/02/tulipfields-8.jpg"
+    }, 
+    "date": {
+        "$date": 1359946800213
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "eedd2e7aea35165a88528fd3a2f68a5399377", 
+    "mime_type": "image/jpeg", 
+    "name": "Colorful Photographs of Tulip Fields As Seen From an Airplane", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 99377, 
+    "source": "http://www.petapixel.com/2013/02/02/colorful-photographs-of-tulip-fields-as-seen-from-an-airplane/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/510f242fb2e16.jpg", 
+    "tags": [], 
+    "url_token": "ajegG"
+}

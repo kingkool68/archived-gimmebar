@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f02964b300aaac810000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1321382500774
+            }, 
+            "display": {
+                "dims": {
+                    "h": "600", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7FDC084F-EABF-4A3F-B59A-D0ABD900695E"
+            }, 
+            "postback_key": "5f58d22aa51ad37100cd6d406eb40f2e", 
+            "request_time": {
+                "$date": 1321382575703
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/740CDCCB-E569-4A7A-8696-426CCA78D62F"
+            }
+        }, 
+        "url": "http://lookslikegooddesign.com/wp-content/uploads/2010/05/mh-1.jpg"
+    }, 
+    "date": {
+        "$date": 1325569611499
+    }, 
+    "description": "Orange and yellow stair case.", 
+    "from_backup": false, 
+    "media_hash": "2a8fa057a3ad6cc2785ef50373474789431697", 
+    "mime_type": "image/jpeg", 
+    "name": "color-berlin-by-matthias-heiderich.jpg (600\u00d7600)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 431697, 
+    "source": "http://trendland.net/wp-content/uploads/2009/12/color-berlin-by-matthias-heiderich.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ec2b2af26b30.jpg", 
+    "tags": [], 
+    "url_token": "lXmS"
+}

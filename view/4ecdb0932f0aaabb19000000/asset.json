@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb0932f0aaabb19000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322102934344
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/457E80AC-57C4-441F-AFC3-86CFB8D66299"
+            }, 
+            "postback_key": "a0e98dc94869cf25702a1614b21c63b5", 
+            "request_time": {
+                "$date": 1322102931692
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6C2242DF-485E-46C1-861D-4AC5953637A1"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/11/07/cubechaos2.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322102931698
+    }, 
+    "description": "#cubism #chaos", 
+    "from_backup": false, 
+    "media_hash": "f9b37cbcbd9410d743932043df8e715174000", 
+    "mime_type": "image/png", 
+    "name": "Cube Chaos by Jonathan Gleit \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 74000, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/nov/07/cube-chaos/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb09324ccd.png", 
+    "tags": [
+        "cubism", 
+        "chaos"
+    ], 
+    "url_token": "f32V"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb509300aaa8f53000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322104074311
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/76078FF6-2523-45B8-AFAB-7003BA6730DF"
+            }, 
+            "postback_key": "4d56c6f0500a747bac3ad140a5d97199", 
+            "request_time": {
+                "$date": 1322104073176
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D7B906EA-A81A-47B4-997E-7420FBBFB203"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/2980/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1322104073177
+    }, 
+    "description": "Black and white. Screens. TV", 
+    "from_backup": false, 
+    "media_hash": "96614bae7e99345fc844c20d2b508315166458", 
+    "mime_type": "image/jpeg", 
+    "name": "\"TV Addict\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 166458, 
+    "source": "http://www.threadless.com/product/2980/TV_Addict?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb508d92b2.jpg", 
+    "tags": [], 
+    "url_token": "f35P"
+}

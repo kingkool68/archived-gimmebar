@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb0e62f0aaa301a000074"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322102928491
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8E2EC62C-B97F-47F5-A218-97A0507E096F"
+            }, 
+            "postback_key": "7cae87e70a9c4f1f14a0e77bb09a0a14", 
+            "request_time": {
+                "$date": 1322103014349
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A0EB67D7-05FE-46BB-8CE5-8B192C6D9CBD"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/08/10/MonaLisa.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103014353
+    }, 
+    "description": "#pointalism #pixelated #fineart", 
+    "from_backup": false, 
+    "media_hash": "69810f97c62896957dc3e99c24ad7a5d196306", 
+    "mime_type": "image/png", 
+    "name": "MonaLisa by Ben KRIEF \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 196306, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/aug/10/monalisa/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb0e606961.png", 
+    "tags": [
+        "pointalism", 
+        "pixelated", 
+        "fineart"
+    ], 
+    "url_token": "f325"
+}

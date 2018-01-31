@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ed8333d2f0aaa954e000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322791689674
+            }, 
+            "display": {
+                "dims": {
+                    "h": "688", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/7F0CB083-0274-4FB1-98DE-F80E58FA9A53"
+            }, 
+            "postback_key": "6413d14819643e70749f1eb8cc239e21", 
+            "request_time": {
+                "$date": 1322791741184
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "399", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C2C36A43-33B0-49D5-B72E-8EBE69CE16A7"
+            }
+        }, 
+        "url": "http://cdn.arkarthick.com/wp-content/uploads/2011/02/stunningly-simplistic-movie-posters-a-clockwork-orange.jpg"
+    }, 
+    "date": {
+        "$date": 1322791741206
+    }, 
+    "description": "#simplistic", 
+    "from_backup": false, 
+    "media_hash": "443ea6faaab62cc82f1952bd1fe63f7316224", 
+    "mime_type": "image/jpeg", 
+    "name": "stunningly-simplistic-movie-posters-a-clockwork-orange.jpg (JPEG Image, 500x688 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 16224, 
+    "source": "http://cdn.arkarthick.com/wp-content/uploads/2011/02/stunningly-simplistic-movie-posters-a-clockwork-orange.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ed8333ccb373.jpg", 
+    "tags": [
+        "simplistic"
+    ], 
+    "url_token": "hm.Y"
+}

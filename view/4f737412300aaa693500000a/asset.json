@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f737412300aaa693500000a"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1332966323011
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/CFFCFF6D-3C90-42E9-A449-5B91F754FE6E"
+            }, 
+            "postback_key": "7baadf742740639ebf834fda3b94f828", 
+            "request_time": {
+                "$date": 1332966418354
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "260", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/1D279891-A783-48B2-9845-8A0B22254654"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3BB63BF9-9AB3-45FB-9883-82E9FB175EDE"
+            }
+        }, 
+        "url": "http://colllor.com/"
+    }, 
+    "date": {
+        "$date": 1332966418356
+    }, 
+    "description": "Color palette tool. ", 
+    "from_backup": false, 
+    "media_hash": "90d3c6031488f6f9f73d545d9161b70e8662", 
+    "mime_type": "text/html", 
+    "name": "Colllor - Color palette the right way", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 8662, 
+    "source": "http://colllor.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f737411f20fe.html", 
+    "tags": [], 
+    "url_token": "y6h6"
+}

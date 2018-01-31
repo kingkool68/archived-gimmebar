@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd2712f0aaa6030000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325126253396
+            }, 
+            "display": {
+                "dims": {
+                    "h": "482", 
+                    "w": "720"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/79C2313A-21AD-4F36-AC6F-AB3996C43C65"
+            }, 
+            "postback_key": "b1a979d1d701b0dd2c8c2de690698df7", 
+            "request_time": {
+                "$date": 1325126257547
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "194", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B0961D6D-0BC4-47EE-9F3B-88EACB55F78C"
+            }
+        }, 
+        "url": "http://retaildesignblog.net/wp-content/uploads/2011/08/Glace-Ice-Cream-design-by-Nathaniel-Cooper-02.jpg"
+    }, 
+    "date": {
+        "$date": 1325126257550
+    }, 
+    "description": "#blue", 
+    "from_backup": false, 
+    "media_hash": "26d58454005db6e6614dbf6fb841b34a152546", 
+    "mime_type": "image/jpeg", 
+    "name": "Glace-Ice-Cream-design-by-Nathaniel-Cooper-02.jpg (720\u00d7482)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 152546, 
+    "source": "http://retaildesignblog.net/wp-content/uploads/2011/08/Glace-Ice-Cream-design-by-Nathaniel-Cooper-02.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd27135b89.jpg", 
+    "tags": [
+        "blue"
+    ], 
+    "url_token": "lph4"
+}

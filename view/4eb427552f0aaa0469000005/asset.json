@@ -1,0 +1,52 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eb427552f0aaa0469000005"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1320429334743
+            }, 
+            "display": {
+                "dims": {
+                    "h": "295", 
+                    "w": "544"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F41C6838-0ED5-4232-A798-FB2543375367"
+            }, 
+            "postback_key": "5936f74dd5bea0ac6f2d8e683942ad4e", 
+            "request_time": {
+                "$date": 1320429397617
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "157", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/194ED000-E4A6-463A-82FC-84041C636C32"
+            }
+        }, 
+        "url": "http://i87.photobucket.com/albums/k127/lordcodicus/jawesomesmall.jpg"
+    }, 
+    "date": {
+        "$date": 1320429397626
+    }, 
+    "description": "#jawesome shark cartoon drawing ", 
+    "media_hash": "b84ce0125d43f63e9c4b6dffad98292e29342", 
+    "mime_type": "image/jpeg", 
+    "name": "Shark with a monocle and top hat image by lordcodicus on Photobucket", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 29342, 
+    "source": "http://media.photobucket.com/image/shark%20with%20a%20monocle%20and%20top%20hat./lordcodicus/jawesomesmall.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eb427554395a.jpg", 
+    "tags": [
+        "jawesome"
+    ], 
+    "url_token": "cend"
+}

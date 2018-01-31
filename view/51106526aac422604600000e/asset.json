@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51106526aac422604600000e"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 480, 
+            "w": 640
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1360028969161
+            }, 
+            "display": {
+                "dims": {
+                    "h": "480", 
+                    "w": "640"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/04549984-3B12-4EB0-8F8A-F4F26D805A97"
+            }, 
+            "postback_key": "aa501ec59812e01209c175df361a3f7f", 
+            "request_time": {
+                "$date": 1360028966536
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "218", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/EE35AABD-BB7B-459C-A497-C863682D357A"
+            }
+        }, 
+        "url": "http://i.imgur.com/EiYxhQV.png.jpg"
+    }, 
+    "date": {
+        "$date": 1360028966590
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "aed274f4a2893202da5011b4e4df44d7336889", 
+    "mime_type": "image/png", 
+    "name": "EiYxhQV.png.jpg (640\u00d7480)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 336889, 
+    "source": "http://i.imgur.com/EiYxhQV.png.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/511065262461b.png", 
+    "tags": [], 
+    "url_token": "ajnQB"
+}

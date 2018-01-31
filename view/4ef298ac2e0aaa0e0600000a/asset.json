@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ef298ac2e0aaa0e0600000a"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1324521650979
+            }, 
+            "display": {
+                "dims": {
+                    "h": "331", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1FFD7A66-E303-4943-B0AC-711724BCC8BF"
+            }, 
+            "postback_key": "accf0fe29fe01753c134eb7763075948", 
+            "request_time": {
+                "$date": 1324521644218
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "192", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F37382CB-886E-43A9-9DDF-D52C9148EDA1"
+            }
+        }, 
+        "url": "http://26.media.tumblr.com/tumblr_ldug2t57ld1qa6hruo1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1324521644225
+    }, 
+    "description": "White Balloons.", 
+    "from_backup": false, 
+    "media_hash": "62f638d30d597b9ef3a8e2bb9e68631d59565", 
+    "mime_type": "image/jpeg", 
+    "name": "tumblr_ldug2t57ld1qa6hruo1_500.jpg (500\u00d7331)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 59565, 
+    "source": "http://26.media.tumblr.com/tumblr_ldug2t57ld1qa6hruo1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ef298abd7a33.jpg", 
+    "tags": [], 
+    "url_token": "kIhd"
+}

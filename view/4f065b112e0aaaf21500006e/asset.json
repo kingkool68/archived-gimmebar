@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f065b112e0aaaf21500006e"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322693639078
+            }, 
+            "display": {
+                "dims": {
+                    "h": "406", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/15C26E61-B416-41F4-A868-6CDEC27DB570"
+            }, 
+            "postback_key": "66a1de6a7c7156984b2d18705bce70bb", 
+            "request_time": {
+                "$date": 1322693636813
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "294", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/9ECDA27F-5B82-4DB0-869C-9587D46831DB"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/5337e279e46a00a56f7681434c9e5a5d1483f5fa_m.png"
+    }, 
+    "copy_of": "4ed6b404300aaac002000006", 
+    "date": {
+        "$date": 1325816593043
+    }, 
+    "description": "", 
+    "media_hash": "ec9fa48239fd4b8943b2802c2437f5b2224369", 
+    "mime_type": "image/png", 
+    "name": "FFFFOUND!", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 224369, 
+    "source": "http://ffffound.com/?offset=25&", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ed6b40467b01.png", 
+    "tags": [], 
+    "url_token": "l_Y8"
+}

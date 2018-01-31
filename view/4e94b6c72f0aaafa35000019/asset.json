@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e94b6c72f0aaafa35000019"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1318368970089
+            }, 
+            "display": {
+                "dims": {
+                    "h": "743", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6FE710E4-8DA3-4B7A-914A-22AA9465F194"
+            }, 
+            "postback_key": "a0d0857f202f6f633e9f1d49f5d6ac23", 
+            "request_time": {
+                "$date": 1318368966999
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "431", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2079043E-96B9-402F-85A4-D0799061BAEC"
+            }
+        }, 
+        "url": "http://d24w6bsrhbeh9d.cloudfront.net/photo/346887_700b.jpg"
+    }, 
+    "date": {
+        "$date": 1318368967006
+    }, 
+    "description": "Batman holding a bomb", 
+    "media_hash": "db72e939aef8feec4bd3cfd5e3d00b4885008", 
+    "mime_type": "image/jpeg", 
+    "name": "9GAG - Want!", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 85008, 
+    "source": "http://9gag.com/gag/346887", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e94b6c67e6f3.jpg", 
+    "tags": [], 
+    "url_token": "boTU"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514680abaac4223c5900000c"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 640, 
+            "w": 466
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1361309120957
+            }, 
+            "display": {
+                "dims": {
+                    "h": "640", 
+                    "w": "466"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5A8D14E8-1396-4FB9-B9D0-4D9BA8A33AB2"
+            }, 
+            "postback_key": "929bbaa3f4b2e1892fa68259ef3dc45e", 
+            "request_time": {
+                "$date": 1361309119208
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "398", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/59F0553B-F626-41F7-8CA0-CC629574DBC7"
+            }
+        }, 
+        "url": "http://25.media.tumblr.com/tumblr_m9tq2dK9rt1r46xago1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1363574955380
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "a2ee31dc15c5416362c1ae1fb54b7c97104148", 
+    "mime_type": "image/jpeg", 
+    "name": "Typographie", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 104148, 
+    "source": "http://typographie.tumblr.com/post/34150847878", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5123edbecd3c4.jpg", 
+    "tags": [], 
+    "url_token": "apGth"
+}

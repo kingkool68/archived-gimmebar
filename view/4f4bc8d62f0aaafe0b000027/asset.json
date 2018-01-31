@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc8d62f0aaafe0b000027"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1328725958114
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/4A35C291-1CAF-4D0A-A08E-EC50741E5E7B"
+            }, 
+            "postback_key": "f6ce22d70ec07d92dc03b9dbded5d53a", 
+            "request_time": {
+                "$date": 1328725905978
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/B5FC8D4C-7019-43CA-9B0F-A7F2C47CA406"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/4891A9E1-8168-4A40-98A9-087F40EB7987"
+            }
+        }, 
+        "url": "http://24ways.org/2011/front-end-style-guides"
+    }, 
+    "date": {
+        "$date": 1330366678537
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "65857983093aa847eae7cad7e7de3b4259103", 
+    "mime_type": "text/html", 
+    "name": "24 ways: Front-end Style Guides", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 59103, 
+    "source": "http://24ways.org/2011/front-end-style-guides", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f32bf9160201.html", 
+    "tags": [], 
+    "url_token": "utbs"
+}

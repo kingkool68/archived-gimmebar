@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efc87e32e0aaa9149000004"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325172710655
+            }, 
+            "display": {
+                "dims": {
+                    "h": "800", 
+                    "w": "400"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BDF081A6-A0D5-41F7-AD15-235DFC1E5E0C"
+            }, 
+            "postback_key": "ce85003122929d3b30b59cb398f726b7", 
+            "request_time": {
+                "$date": 1325172707504
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "580", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1B2268E9-3514-4671-9064-2F301CC03735"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2011/12/blend5_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1325172707536
+    }, 
+    "description": "Fake but a neat eefect. ", 
+    "from_backup": false, 
+    "media_hash": "80ba1ba92b9d34638b78faedfea08a6c138045", 
+    "mime_type": "image/jpeg", 
+    "name": "Dreamlike Photo Manipulations of Earth and the Starry Night Sky", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 138045, 
+    "source": "http://www.petapixel.com/2011/12/28/dreamlike-photo-manipulations-of-earth-and-the-starry-night-sky/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efc87e31551a.jpg", 
+    "tags": [], 
+    "url_token": "ltHV"
+}

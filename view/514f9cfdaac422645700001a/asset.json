@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514f9cfdaac422645700001a"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1364172235138
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/28AAE3EE-416C-4C90-9D13-CD1BC5B6FB46"
+            }, 
+            "postback_key": "a850ecf6cfa1ee8ed66019426ad821b4", 
+            "request_time": {
+                "$date": 1364172029105
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/1F87973C-977C-45C2-9E0D-9EA8F42B6D89"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/D8F2E691-233D-4089-B0CE-B22483009C17"
+            }
+        }, 
+        "url": "http://sprungmarker.de/"
+    }, 
+    "date": {
+        "$date": 1364172029108
+    }, 
+    "description": "Light purple.\u00a0", 
+    "from_backup": null, 
+    "media_hash": "bce9ab57a44a828e1b548767bc2b154637510", 
+    "mime_type": "text/html", 
+    "name": "Barrierefreiheit im Internet | sprungmarker | accessibility is fun", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 37510, 
+    "source": "http://sprungmarker.de/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/514f9cfcc102b.html", 
+    "tags": [], 
+    "url_token": "aqKuE"
+}

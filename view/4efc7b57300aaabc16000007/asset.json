@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efc7b57300aaabc16000007"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325169497557
+            }, 
+            "display": {
+                "dims": {
+                    "h": "640", 
+                    "w": "500"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/037338F0-4789-4B6D-AAF4-5451105BAD6E"
+            }, 
+            "postback_key": "3029d08a75854d9a36e0447be4ba0a41", 
+            "request_time": {
+                "$date": 1325169495328
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "371", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/4E07134A-DC43-4BD2-8036-91DA4392B9F0"
+            }
+        }, 
+        "url": "http://media-cdn.pinterest.com/upload/13088655136557102_o05gCOt1.jpg"
+    }, 
+    "date": {
+        "$date": 1325169495341
+    }, 
+    "description": "#batman #blue #yellow", 
+    "from_backup": false, 
+    "media_hash": "cb720221d3b97df5f64c2644465ccb25155872", 
+    "mime_type": "image/jpeg", 
+    "name": "13088655136557102_o05gCOt1.jpg (JPEG Image, 500\u00a0\u00d7\u00a0640 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 155872, 
+    "source": "http://media-cdn.pinterest.com/upload/13088655136557102_o05gCOt1.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efc7b56e0ae8.jpg", 
+    "tags": [
+        "batman", 
+        "blue", 
+        "yellow"
+    ], 
+    "url_token": "ltae"
+}

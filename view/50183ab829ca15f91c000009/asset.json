@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50183ab829ca15f91c000009"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 380, 
+            "w": 600
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1343765178215
+            }, 
+            "display": {
+                "dims": {
+                    "h": "380", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8AC96279-49C1-421F-9A24-09690B24D652"
+            }, 
+            "postback_key": "578cae9be7f015aa0da97093625c3a1e", 
+            "request_time": {
+                "$date": 1343765176318
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "184", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/58522FC0-ADF5-4CDC-A457-E33BD0FBB9ED"
+            }
+        }, 
+        "url": "http://files.petapixel.com/assets/uploads/2012/07/face2_mini.jpg"
+    }, 
+    "date": {
+        "$date": 1343765176376
+    }, 
+    "description": "Head peeking underwater. Awesome portrait idea. ", 
+    "from_backup": null, 
+    "media_hash": "8eabfd0d5bb8f15fbf51a6cdb9c843f7144457", 
+    "mime_type": "image/jpeg", 
+    "name": "Bizarre Portraits of People Poking Their Heads Underwater", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 144457, 
+    "source": "http://www.petapixel.com/2012/07/31/bizarre-portraits-of-people-poking-their-heads-underwater/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50183ab7e98a2.jpg", 
+    "tags": [], 
+    "url_token": "TCuS"
+}

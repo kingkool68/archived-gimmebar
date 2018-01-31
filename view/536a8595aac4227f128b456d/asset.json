@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "536a8595aac4227f128b456d"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 620, 
+            "w": 620
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2014/05/0x700-10.jpg"
+    }, 
+    "date": {
+        "$date": 1399489941989
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "9066667a4f4bc9ea52662b3fbfb1e49a98229", 
+    "mime_type": "image/jpeg", 
+    "name": "21 Dreamlike Film Photos by Oleg Oprisco That Will Blow Your Mind", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 98229, 
+    "source": "http://petapixel.com/2014/05/07/21-dreamlike-film-photos-oleg-oprisco-will-blow-mind/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/536a8595db9a5.jpg", 
+    "tags": [], 
+    "url_token": "baaSn"
+}

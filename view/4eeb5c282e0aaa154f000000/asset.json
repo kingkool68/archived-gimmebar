@@ -1,0 +1,43 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5c282e0aaa154f000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "display": {
+                "url": "http://s3.amazonaws.com/resized-images-new/FD0500F2-0D68-469A-8C49-9A96A8BF3BB4"
+            }, 
+            "postback_key": "3b5766476abb45278d2b21af4c07295a", 
+            "request_time": {
+                "$date": 1324047400185
+            }, 
+            "retried": [], 
+            "stash": {
+                "url": "http://s3.amazonaws.com/resized-images-new/A7A67F0D-A070-411D-8B0A-C5FE4D1F288C"
+            }
+        }, 
+        "url": "http://25.media.tumblr.com/tumblr_lu491bxfYi1qd8npko1_500.gif"
+    }, 
+    "date": {
+        "$date": 1324047400190
+    }, 
+    "description": "#astronaut", 
+    "from_backup": false, 
+    "media_hash": "4941e9f3fe320fb49a11ca23d26aefe4290918", 
+    "mime_type": "image/gif", 
+    "name": "Explore Obsolete Space", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 290918, 
+    "source": "http://bjornstar.com/page/5", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4eeb5c27b5a8a.gif", 
+    "tags": [
+        "astronaut"
+    ], 
+    "url_token": "j0w0"
+}

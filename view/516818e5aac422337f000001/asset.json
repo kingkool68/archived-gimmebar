@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "516818e5aac422337f000001"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 362, 
+            "w": 750
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1365768968890
+            }, 
+            "display": {
+                "dims": {
+                    "h": "362", 
+                    "w": "750"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F70AD8FF-D366-4F3E-B24B-16A861B9813D"
+            }, 
+            "postback_key": "251db7e5467fa8c3f59c40f8115a93ae", 
+            "request_time": {
+                "$date": 1365768964061
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "140", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/09D5E701-F6C3-497B-BD72-B833EFA658F1"
+            }
+        }, 
+        "url": "http://wvs.topleftpixel.com/photos/2013/04/four-trees_green-field_lines_01bw.jpg"
+    }, 
+    "date": {
+        "$date": 1365776613569
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "8fdc597e5a9602ad2f2b7cdfaa94321390121", 
+    "mime_type": "image/jpeg", 
+    "name": "[daily dose of imagery] Lines and Trees", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 90121, 
+    "source": "http://wvs.topleftpixel.com/13/04/12/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5167fb03b08e8.jpg", 
+    "tags": [], 
+    "url_token": "atwXu"
+}

@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51453e4029ca15645f000006"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1362417236943
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/C250854D-6167-48AD-8A14-E736999AC877"
+            }, 
+            "postback_key": "db35d55c082f98a1b25a717ccda5429d", 
+            "request_time": {
+                "$date": 1362417155407
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "153", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/467D854D-6E7F-4F1B-8D59-98ED61BA85C1"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/A3F6CC91-D720-455C-8FC6-A8CC21C0C80B"
+            }
+        }, 
+        "url": "http://viljamis.com/"
+    }, 
+    "date": {
+        "$date": 1363492416234
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "396f5ab3c8ee06eb66d03ab8d07164d64367", 
+    "mime_type": "text/html", 
+    "name": "Viljami Salminen \u00b7 Responsive Design", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 4367, 
+    "source": "http://viljamis.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5134d60318fad.html", 
+    "tags": [], 
+    "url_token": "apxW8"
+}

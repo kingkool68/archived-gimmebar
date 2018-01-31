@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e8530552f0aaa236900004e"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1317351512151
+            }, 
+            "display": {
+                "dims": {
+                    "h": "800", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/96608C36-16D9-4651-A15F-B348CF71454E"
+            }, 
+            "postback_key": "35183782dc60e16c803c6f6f3e235979", 
+            "request_time": {
+                "$date": 1317351509959
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "232", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E7F05CEF-DDBC-4A36-BECE-2FE5C23DE19F"
+            }
+        }, 
+        "url": "http://pds.exblog.jp/pds/1/201001/20/14/b0092714_2119204.jpg"
+    }, 
+    "date": {
+        "$date": 1317351509966
+    }, 
+    "description": "3D 8bit super mario render.", 
+    "media_hash": "676013c98b6fc2096c157a5d42489309293672", 
+    "mime_type": "image/jpeg", 
+    "name": "Dotter Dotter", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 293672, 
+    "source": "http://dotter.exblog.jp/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e85305588ade.jpg", 
+    "tags": [], 
+    "url_token": "a3pB"
+}

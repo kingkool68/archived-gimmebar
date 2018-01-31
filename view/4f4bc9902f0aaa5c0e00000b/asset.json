@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc9902f0aaa5c0e00000b"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1327913157498
+            }, 
+            "fullscreen": {
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/BC432CA0-17B7-4164-8C2D-9CD49A0A3F11"
+            }, 
+            "postback_key": "60f489cbe27f7c4f0233900ddc263df3", 
+            "request_time": {
+                "$date": 1327912941510
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/327718FB-091D-499E-929C-1940C30DF8C8"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "https://s3.amazonaws.com/gimme-grabs-new/2CC3D8E3-F54C-47A6-BE1A-3036C2AB51D7"
+            }
+        }, 
+        "url": "http://getskeleton.com/#"
+    }, 
+    "copy_of": "4f27b6d92f0aaa1a4e000009", 
+    "date": {
+        "$date": 1330366864244
+    }, 
+    "description": "", 
+    "media_hash": "4e2e1ee9b1431ad5146c8d23c92b0cea22730", 
+    "mime_type": "text/html", 
+    "name": "Skeleton: Beautiful Boilerplate for Responsive, Mobile-Friendly Development", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 22730, 
+    "source": "http://www.getskeleton.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f2657ed2124a.html", 
+    "tags": [], 
+    "url_token": "utfh"
+}

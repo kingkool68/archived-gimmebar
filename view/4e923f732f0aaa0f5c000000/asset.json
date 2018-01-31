@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e923f732f0aaa0f5c000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1318207313470
+            }, 
+            "display": {
+                "dims": {
+                    "h": "500", 
+                    "w": "267"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/2859A833-380B-46FC-93F1-92506C4C1D24"
+            }, 
+            "postback_key": "2e7685df443bcf612b8d23d1f7058576", 
+            "request_time": {
+                "$date": 1318207347912
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "500", 
+                    "w": "267"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/78C13FA1-8FF3-4D66-A7E6-00B6F5AA6A7E"
+            }
+        }, 
+        "url": "http://images.halloweencostumes.com/deluxe-frankenstein-costume.jpg"
+    }, 
+    "date": {
+        "$date": 1318207347921
+    }, 
+    "description": "Frankenstein costume", 
+    "media_hash": "1b72cc6cdbadfa77302eebcb4e53e52736708", 
+    "mime_type": "image/jpeg", 
+    "name": "Deluxe Frankenstein Costume - Adult Frankenstein Halloween Costumes", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 36708, 
+    "source": "http://www.halloweencostumes.com/deluxe-frankenstein-costume.html", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e923f7382c3d.jpg", 
+    "tags": [], 
+    "url_token": "bk.b"
+}

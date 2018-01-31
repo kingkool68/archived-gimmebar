@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457e202f0aaa797b000089"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329954378965
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/D9448E5A-DDDB-4607-B96C-9CFB8863BEB7"
+            }, 
+            "postback_key": "861e39b76ffab3f82b643166bb5a67c5", 
+            "request_time": {
+                "$date": 1329954336129
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "334", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/86A4078B-8EFA-46F1-858E-3A6E7CE651B8"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/8DCB1560-12CF-473C-9417-78BC4E3BCAD6"
+            }
+        }, 
+        "url": "http://osvaldas.info/"
+    }, 
+    "date": {
+        "$date": 1329954336131
+    }, 
+    "description": "Minimal black and white blog.", 
+    "from_backup": false, 
+    "media_hash": "2029127c6642a0ed7f6615e86c30433f15918", 
+    "mime_type": "text/html", 
+    "name": "Osvaldas Valutis is a web designer who thinks in code", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 15918, 
+    "source": "http://osvaldas.info/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f457e1fb8f8f.html", 
+    "tags": [], 
+    "url_token": "tOkw"
+}

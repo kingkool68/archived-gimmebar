@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5623048c2bbf2f99048b4570"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 700, 
+            "w": 610
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2015/10/bluehaze.jpg"
+    }, 
+    "date": {
+        "$date": 1445135500938
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "87dc946cd1b29a459aa8a6a508577dcf185679", 
+    "mime_type": "image/jpeg", 
+    "name": "Why Old Sports Photos Often Have a Blue Haze", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 185679, 
+    "source": "http://petapixel.com/2015/10/15/why-old-sports-photos-often-have-a-blue-haze/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5623048ccca59.jpg", 
+    "tags": [], 
+    "url_token": "bTuef"
+}

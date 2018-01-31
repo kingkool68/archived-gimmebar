@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "52bfbec32bbf2fc76e8b4567"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 448, 
+            "w": 600
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2013/12/sjoman2.jpg"
+    }, 
+    "date": {
+        "$date": 1388297923919
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "fe2d433f5a1dd669fbd4364421b54608150052", 
+    "mime_type": "image/jpeg", 
+    "name": "Stunning Photos of the European Alps that Inspire Awe and Envy", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 150052, 
+    "source": "http://petapixel.com/2013/12/28/stunning-photos-european-alps-inspire-awe-envy/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/52bfbec3c4991.jpg", 
+    "tags": [], 
+    "url_token": "aZyCV"
+}

@@ -1,0 +1,50 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e8f51c82f0aaab34c00000c"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1318015435396
+            }, 
+            "display": {
+                "dims": {
+                    "h": "800", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/90CD9CFB-A159-467C-B6F3-2B4CC30AAE6D"
+            }, 
+            "postback_key": "ba4c030c4f5598b1b740f3adeabc1529", 
+            "request_time": {
+                "$date": 1318015432846
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "387", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8DCEFACD-B9BA-433F-91C7-3D5E3462EF8D"
+            }
+        }, 
+        "url": "http://4.bp.blogspot.com/-HaFLDjOVn2E/TozldUEgC-I/AAAAAAAAN1k/OumUTl97jE4/s1600/DSCF5100.JPG"
+    }, 
+    "date": {
+        "$date": 1318015432853
+    }, 
+    "description": "A baby picture. I just like the expression and earthy red background. ", 
+    "media_hash": "3f781258ac7a8ef476497983c9a0cbac248681", 
+    "mime_type": "image/jpeg", 
+    "name": "DSCF5100.JPG (JPEG Image, 600x800 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 248681, 
+    "source": "http://4.bp.blogspot.com/-HaFLDjOVn2E/TozldUEgC-I/AAAAAAAAN1k/OumUTl97jE4/s1600/DSCF5100.JPG", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e8f51c869a6f.jpg", 
+    "tags": [], 
+    "url_token": "bgNn"
+}

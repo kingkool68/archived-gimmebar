@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e9ee2712f0aaa3744000016"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1319035509256
+            }, 
+            "display": {
+                "dims": {
+                    "h": "387", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FC3A731B-2126-48DE-8916-AF598E9426C6"
+            }, 
+            "postback_key": "db9ca73fe1686d0abf3758c4b5bd9b4b", 
+            "request_time": {
+                "$date": 1319035505381
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "112", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A691C7DA-926B-4583-A1FA-DBA950925D48"
+            }
+        }
+    }, 
+    "date": {
+        "$date": 1319035505441
+    }, 
+    "description": "Profile design introductions. crappy #screengrab\n\nI like how Google introduced their speakers at the Ice Cream Sandwich event. Inspiration for about page.", 
+    "media_hash": "d86b21fe3a4bc55a376cbd2512806773470632", 
+    "mime_type": "image/png", 
+    "name": "Screen Shot 2011-10-19 at 10.11.55 AM.png", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 470632, 
+    "source": "upload", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e9ee2710545b.png", 
+    "tags": [
+        "screengrab"
+    ], 
+    "url_token": "bESU"
+}

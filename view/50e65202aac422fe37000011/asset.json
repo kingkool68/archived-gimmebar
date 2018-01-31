@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50e65202aac422fe37000011"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 480, 
+            "w": 480
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1357140895913
+            }, 
+            "display": {
+                "dims": {
+                    "h": "480", 
+                    "w": "480"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D7157128-3FC6-4667-BE43-639BE5132582"
+            }, 
+            "postback_key": "43925aba175569000e127b9db0ae2a59", 
+            "request_time": {
+                "$date": 1357140893785
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B494F385-A4F4-4C13-A54E-406F016DCE2F"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/05012b7f16c629375edd25038b9ec38b48f67f46_m.jpg"
+    }, 
+    "date": {
+        "$date": 1357271554994
+    }, 
+    "description": "Minimal.", 
+    "from_backup": null, 
+    "media_hash": "10d3372b58e4c48d06db32937591130c56318", 
+    "mime_type": "image/jpeg", 
+    "name": "FFFFOUND! | Geometry Daily", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 56318, 
+    "source": "http://ffffound.com/image/05012b7f16c629375edd25038b9ec38b48f67f46", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50e4539d6c8c0.jpg", 
+    "tags": [], 
+    "url_token": "aekHf"
+}

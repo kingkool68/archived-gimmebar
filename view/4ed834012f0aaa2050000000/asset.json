@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ed834012f0aaa2050000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1306535918530
+            }, 
+            "display": {
+                "dims": {
+                    "h": "832", 
+                    "w": "612"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/949A790F-1923-4BCD-891F-EE0E06746831"
+            }, 
+            "postback_key": "5eb9db123c6da6a8ded26f6ce657c091", 
+            "request_time": {
+                "$date": 1306535388756
+            }, 
+            "retries": 0, 
+            "stash": {
+                "dims": {
+                    "h": "394", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/DC81007B-ACB3-4974-A6C0-62438C031B60"
+            }
+        }, 
+        "url": "http://i.imgur.com/qq1yY.jpg"
+    }, 
+    "date": {
+        "$date": 1322791937921
+    }, 
+    "description": "#blue #simplistic #ad", 
+    "from_backup": false, 
+    "media_hash": "9388f9f02dd6f8207fbdbe6316c97dbc17870", 
+    "mime_type": "image/jpeg", 
+    "name": "simplistic-lego-ad-1305691207-8470.jpg (JPEG Image, 612x832 pixels)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 17870, 
+    "source": "http://images.stuffofawesome.com/simplistic-lego-ad-1305691207-8470.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4dd412451d683.jpg", 
+    "tags": [
+        "blue", 
+        "simplistic", 
+        "ad"
+    ], 
+    "url_token": "hma5"
+}

@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457d492e0aaac43c000000"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329954248229
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/12975560-8D71-4015-AA10-969E70C86962"
+            }, 
+            "postback_key": "ccb23d0d4bae45e62178a59b2cb53c51", 
+            "request_time": {
+                "$date": 1329954121567
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "146", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/CCF6E59A-68E8-4CD2-9189-7168FE422C40"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/F5555DD7-F1D8-4E1F-8CB8-6EEA884692CE"
+            }
+        }, 
+        "url": "http://mathieuvallee.com/"
+    }, 
+    "date": {
+        "$date": 1329954121573
+    }, 
+    "description": "Dig the logo and the slanted style. ", 
+    "from_backup": false, 
+    "media_hash": "7af5bcea73e12a5f646c061ce12432a78309", 
+    "mime_type": "text/html", 
+    "name": "Home | Mathieu Vallee |\u00a0Web Designer & Developer | Graphic Designer", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 8309, 
+    "source": "http://mathieuvallee.com/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f457d4923fcf.html", 
+    "tags": [], 
+    "url_token": "tOjb"
+}

@@ -1,0 +1,45 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "514f9beeaac4225757000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": false, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/AB39E3DA-AD9E-4B90-9BC0-47AE5967C93C"
+            }, 
+            "postback_key": "d73f3a26192af287e8006852863bf5c1", 
+            "request_time": {
+                "$date": 1364171758645
+            }, 
+            "retried": [], 
+            "thumb": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/FCE9E86D-195E-48CD-B6A3-973A54B80154"
+            }, 
+            "window": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/D66E1B8A-14DB-4DD9-B603-D7EFCB02D83C"
+            }
+        }, 
+        "url": "http://usa.rapala.com/scatter-rap/#intro"
+    }, 
+    "date": {
+        "$date": 1364171758693
+    }, 
+    "description": "Bold and yellow.\u00a0", 
+    "from_backup": null, 
+    "media_hash": "3561c51806b3820fae5ec1baea1389da32803", 
+    "mime_type": "text/html", 
+    "name": "Scatter Rap | Rapala", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 32803, 
+    "source": "http://usa.rapala.com/scatter-rap/#intro", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/514f9bee52edc.html", 
+    "tags": [], 
+    "url_token": "aqKsk"
+}

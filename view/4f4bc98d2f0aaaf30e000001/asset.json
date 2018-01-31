@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc98d2f0aaaf30e000001"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325685294802
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/881C7A20-5FB8-416B-A739-62085CE2AEA3"
+            }, 
+            "postback_key": "f28cf0766cfd2f3cf83b46531eac907c", 
+            "request_time": {
+                "$date": 1325685150232
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/933A1962-68DC-415D-BE3C-5D1EC6CB91CA"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/608546BC-F6E7-4D86-B63B-92CAF510A67B"
+            }
+        }, 
+        "url": "http://na.isobar.com/standards/"
+    }, 
+    "copy_of": "4f04599e2f0aaa3326000000", 
+    "date": {
+        "$date": 1330366861395
+    }, 
+    "description": "Thanks Jared for sharing this in the 24 ways comments http://24ways.org/2011/front-end-style-guides#c010397", 
+    "media_hash": "5141cc7705d19d5ce5ca33a8815ea216111988", 
+    "mime_type": "text/html", 
+    "name": "Front-end Code Standards & Best Practices | Isobar North America", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 111988, 
+    "source": "http://na.isobar.com/standards/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f04599db6f89.html", 
+    "tags": [], 
+    "url_token": "utfd"
+}

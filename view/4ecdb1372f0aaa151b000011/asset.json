@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb1372f0aaa151b000011"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103008725
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5F94D762-A4B6-4CD8-AFC3-9B183F5C0345"
+            }, 
+            "postback_key": "8f27d50126fe66700b80440931b54d0e", 
+            "request_time": {
+                "$date": 1322103095415
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B5F4DC07-653A-4C3B-AA20-DA0C518FD4F1"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/07/16/MilkyWay.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103095433
+    }, 
+    "description": "#pixelated ", 
+    "from_backup": false, 
+    "media_hash": "840354f2bf722a26c2b3c4b0a30663a222538", 
+    "mime_type": "image/png", 
+    "name": "Milky Way by Jordan Staniscia \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 22538, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/jul/16/milky-way/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb13706701.png", 
+    "tags": [
+        "pixelated"
+    ], 
+    "url_token": "f33b"
+}

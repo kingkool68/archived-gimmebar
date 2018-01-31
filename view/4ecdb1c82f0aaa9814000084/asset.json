@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb1c82f0aaa9814000084"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322103201609
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/1D2EF025-7589-4C78-8134-23F643F2036F"
+            }, 
+            "postback_key": "f197edd8de19f5c267135d888e78704d", 
+            "request_time": {
+                "$date": 1322103240757
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C02D90FB-AC07-4B28-975F-A96D815A908A"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/04/28/royalwedding.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322103240761
+    }, 
+    "description": "#blue #crown ", 
+    "from_backup": false, 
+    "media_hash": "b3aa7bb4f6a1a5d9a8ff4422769f691b7539", 
+    "mime_type": "image/png", 
+    "name": "Royal Wedding by Lauren Morris \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 7539, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/apr/28/royal-wedding/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb1c861f99.png", 
+    "tags": [
+        "blue", 
+        "crown"
+    ], 
+    "url_token": "f33y"
+}

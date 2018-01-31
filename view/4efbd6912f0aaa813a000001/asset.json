@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd6912f0aaa813a000001"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127311215
+            }, 
+            "display": {
+                "dims": {
+                    "h": "300", 
+                    "w": "300"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FE77E7AA-C8C0-4C82-8267-7794B8F7A19E"
+            }, 
+            "postback_key": "b59fcafe2e85d87eaf1451819550f18e", 
+            "request_time": {
+                "$date": 1325127313395
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "290", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/AC33A40E-204C-4207-A84B-2F77C16B87E4"
+            }
+        }, 
+        "url": "http://www.mod-tots.com/site/wp-content/uploads/2011/01/Moonwalk1-300x300.jpg"
+    }, 
+    "date": {
+        "$date": 1325127313403
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "3f6115569d15c77a58774a1ec562385619150", 
+    "mime_type": "image/jpeg", 
+    "name": "Robots", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 19150, 
+    "source": "http://www.mod-tots.com/site/products/paintings/robots-coming-soon/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd69118e49.jpg", 
+    "tags": [], 
+    "url_token": "lpl6"
+}

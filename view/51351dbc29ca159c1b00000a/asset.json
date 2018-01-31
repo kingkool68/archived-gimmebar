@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51351dbc29ca159c1b00000a"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 656, 
+            "w": 991
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1362435517787
+            }, 
+            "display": {
+                "dims": {
+                    "h": "656", 
+                    "w": "991"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5132B481-5BB6-4297-8198-44C15B397613"
+            }, 
+            "postback_key": "35ca308f43fa3bb595dd6e7479d4af8a", 
+            "request_time": {
+                "$date": 1362435516176
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "192", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C280F9E2-B35B-4D05-9FEC-17FE54962A79"
+            }
+        }, 
+        "url": "http://cdn.theatlantic.com/static/infocus/smithsonian030413/s_s07_55189224.jpg"
+    }, 
+    "date": {
+        "$date": 1362435516239
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "52c2e22559d2c0d9d2ca6d9004ee5623246391", 
+    "mime_type": "image/jpeg", 
+    "name": "Smithsonian Magazine's 2012 Photo Contest - In Focus - The Atlantic", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 246391, 
+    "source": "http://www.theatlantic.com/infocus/2013/03/smithsonian-magazines-2012-photo-contest/100466/#img16", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51351dbbcc64a.jpg", 
+    "tags": [], 
+    "url_token": "anFKl"
+}

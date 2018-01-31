@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50e65184aac422ed37000006"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 700, 
+            "w": 496
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1357271430951
+            }, 
+            "display": {
+                "dims": {
+                    "h": "700", 
+                    "w": "496"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/CF8FAFC6-EE19-4221-97A0-D0375BD44407"
+            }, 
+            "postback_key": "bcf9c9c88381040c8b3ba254c22aeb28", 
+            "request_time": {
+                "$date": 1357271428385
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "409", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/DAB55694-0F9C-459F-8804-FAA2483D2ED1"
+            }
+        }, 
+        "url": "http://2.media.tumblr.com/2m8BXUfrijj9jpbd2018If4zo1_500.jpg"
+    }, 
+    "date": {
+        "$date": 1357271428388
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "0b6780e2abd2ff07ace8d1c1e131189c162607", 
+    "mime_type": "image/jpeg", 
+    "name": "2m8BXUfrijj9jpbd2018If4zo1_500.jpg (496\u00d7700)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 162607, 
+    "source": "http://2.media.tumblr.com/2m8BXUfrijj9jpbd2018If4zo1_500.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50e6518409c26.jpg", 
+    "tags": [], 
+    "url_token": "aekFT"
+}

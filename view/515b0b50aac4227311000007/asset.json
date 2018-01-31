@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "515b0b50aac4227311000007"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 980, 
+            "w": 700
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1364921173747
+            }, 
+            "display": {
+                "dims": {
+                    "h": "980", 
+                    "w": "700"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D3B08ED7-AAFB-4D9E-BD8F-F6A9AD38A5D0"
+            }, 
+            "postback_key": "52c755b3baa8ac754f98919116fe860d", 
+            "request_time": {
+                "$date": 1364921168735
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "406", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/FBF32FAD-EB9A-4C77-B675-33EAA6DAFF52"
+            }
+        }, 
+        "url": "http://25.media.tumblr.com/af19b138feb9e1e5d7f133c0ad9b800b/tumblr_mglapt2eWp1r251tno1_1280.jpg"
+    }, 
+    "date": {
+        "$date": 1364921168739
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "d0d698e2a986d2253889803b98eaaaba572766", 
+    "mime_type": "image/jpeg", 
+    "name": "JBSL \u2014 By (Steven Beckly)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 572766, 
+    "source": "http://jbsl.tumblr.com/post/41692909755/by-steven-beckly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/515b0b4fedbf5.jpg", 
+    "tags": [], 
+    "url_token": "ar2tu"
+}

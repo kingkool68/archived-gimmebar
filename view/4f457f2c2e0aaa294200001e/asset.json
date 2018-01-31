@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f457f2c2e0aaa294200001e"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329954725271
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3FCA4E44-18E8-4838-BB75-37EE35A3741B"
+            }, 
+            "postback_key": "0937b7d17dedef0af9d205a1ba262759", 
+            "request_time": {
+                "$date": 1329954604554
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/DF209D1B-9D24-4C36-A57C-3C89F4F5EDC3"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/3CB19045-2F90-470B-BB41-EBD5ACD8B933"
+            }
+        }, 
+        "url": "http://joer.fr/"
+    }, 
+    "date": {
+        "$date": 1329954604556
+    }, 
+    "description": "Interesting interaction with the header. ", 
+    "from_backup": false, 
+    "media_hash": "0f06589bdf6bfac54fa9a053c297df0e16287", 
+    "mime_type": "text/html", 
+    "name": "DESIGNER MULTIMEDIA - WEBDESIGNER INTERACTIF - INFOGRAPHISTE lyon", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 16287, 
+    "source": "http://joer.fr/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f457f2c28ca1.html", 
+    "tags": [], 
+    "url_token": "tOmF"
+}

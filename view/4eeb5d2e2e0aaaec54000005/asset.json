@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4eeb5d2e2e0aaaec54000005"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1323898829716
+            }, 
+            "display": {
+                "dims": {
+                    "h": "708", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D0F03341-3FA7-45DD-A609-36BC3ABA8F7D"
+            }, 
+            "postback_key": "6cd6a80ddc3185b30ea7d33e8c161683", 
+            "request_time": {
+                "$date": 1323898825236
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "205", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5020B586-F70A-47C3-9E39-F933AADD8710"
+            }
+        }, 
+        "url": "http://bennewman.co.uk/media/3479/bennewman-solar-system.png"
+    }, 
+    "copy_of": "4ee917c92e0aaa4941000003", 
+    "date": {
+        "$date": 1324047662745
+    }, 
+    "description": "", 
+    "media_hash": "6e8a8a2389dabf96c3ef0d68cdd25c3b1221258", 
+    "mime_type": "image/png", 
+    "name": "Ben Newman Prints For Sale - Ben Newman Illustration", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 1221258, 
+    "source": "http://bennewman.co.uk/shop-closed-until-january/prints.aspx?page=1", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ee917c891e38.png", 
+    "tags": [], 
+    "url_token": "j0ye"
+}

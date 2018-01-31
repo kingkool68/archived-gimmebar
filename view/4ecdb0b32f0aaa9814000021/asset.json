@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb0b32f0aaa9814000021"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322102968298
+            }, 
+            "display": {
+                "dims": {
+                    "h": "385", 
+                    "w": "616"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/11C86BAF-1CBA-4FAE-93DB-2D09E9D6B445"
+            }, 
+            "postback_key": "2e2723f0b7e889802dd60bfb8648b191", 
+            "request_time": {
+                "$date": 1322102963963
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "181", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BA502240-D92C-4DA3-99BE-83DF7F85C1AD"
+            }
+        }, 
+        "url": "http://static.simpledesktops.com/desktops/2011/09/25/hongkong.png.625x385_q100.png"
+    }, 
+    "date": {
+        "$date": 1322102963967
+    }, 
+    "description": "#pointalism", 
+    "from_backup": false, 
+    "media_hash": "aad1f83328e9d27a58939dd0b90589ae594173", 
+    "mime_type": "image/png", 
+    "name": "Hong Kong by Eshaan Mathur \u2014 Simple Desktops", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 594173, 
+    "source": "http://simpledesktops.com/browse/desktops/2011/sep/25/hong-kong/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb0b395c15.png", 
+    "tags": [
+        "pointalism"
+    ], 
+    "url_token": "f32Y"
+}

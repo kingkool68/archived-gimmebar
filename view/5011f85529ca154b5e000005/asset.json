@@ -1,0 +1,52 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5011f85529ca154b5e000005"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1329364195568
+            }, 
+            "display": {
+                "dims": {
+                    "h": "500", 
+                    "w": "610"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6DEA0482-C37B-4C21-850A-512D6CCD802D"
+            }, 
+            "postback_key": "ac49fa36e7e2033178368db0bc375e20", 
+            "request_time": {
+                "$date": 1329364194194
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "238", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/BA5E34E2-A1AB-47C8-8BE5-C1FADC75918D"
+            }
+        }, 
+        "url": "http://www.thinkingform.com/wp-content/uploads/2011/06/max_20.jpg"
+    }, 
+    "date": {
+        "$date": 1343354965143
+    }, 
+    "description": "T logo cube", 
+    "from_backup": null, 
+    "media_hash": "ff06153a58a5c4c8df5b706b5cb6674420178", 
+    "mime_type": "image/jpeg", 
+    "name": "max_20.jpg (610\u00d7500)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 20178, 
+    "source": "http://www.thinkingform.com/wp-content/uploads/2011/06/max_20.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f3c7ce1d50ed.jpg", 
+    "tags": [], 
+    "url_token": "SVLW"
+}

@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "524e34bd2bbf2f5856000001"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 813, 
+            "w": 650
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1377664972087
+            }, 
+            "display": {
+                "dims": {
+                    "h": "813", 
+                    "w": "650"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6DF84005-1A84-4D30-B3F7-48709A9EF7CF"
+            }, 
+            "postback_key": "c7778454890877e0b821bc8c935783e7", 
+            "request_time": {
+                "$date": 1377664967409
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "363", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F0147E4C-B7BE-4701-B584-5FE30D4A0519"
+            }
+        }, 
+        "url": "http://allanpeters.com/blog/wp-content/uploads/hello_spaceman.png"
+    }, 
+    "date": {
+        "$date": 1380857021149
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "0dc4f2b03d354ebae34d19af0d799418161109", 
+    "mime_type": "image/png", 
+    "name": "hello_spaceman.png (650\u00d7813)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 161109, 
+    "source": "http://allanpeters.com/blog/wp-content/uploads/hello_spaceman.png", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/521d7fc720ce7.png", 
+    "tags": [], 
+    "url_token": "aP7Io"
+}

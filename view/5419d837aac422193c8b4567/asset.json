@@ -1,0 +1,32 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5419d837aac422193c8b4567"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 825, 
+            "w": 550
+        }, 
+        "url": "http://petapixel.com/assets/uploads/2014/09/1Dby35vjYypRU0Y-Vlh5ePw.jpeg"
+    }, 
+    "date": {
+        "$date": 1410979892919
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "2bd6680a42ac51f18afd1df3f482558b244060", 
+    "mime_type": "image/jpeg", 
+    "name": "Trippy Glitch Photographs Blend Manual and Algorithmic 'Accidents' to Create Awesome Images", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 244060, 
+    "source": "http://petapixel.com/2014/09/17/trippy-glitch-photography-blends-manual-and-algorithmic-accidents-into-incredible-image/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5419d8347f1ca.jpg", 
+    "tags": [], 
+    "url_token": "bnag3"
+}

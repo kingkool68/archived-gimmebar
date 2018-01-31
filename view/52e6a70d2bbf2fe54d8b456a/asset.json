@@ -1,0 +1,44 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "52e6a70d2bbf2fe54d8b456a"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "capture_date": {
+                "$date": 1390847757410
+            }, 
+            "capture_id": "7f614589-f18b-4b30-814a-5816dcb18f32", 
+            "dims": {
+                "h": 11736, 
+                "w": 1024
+            }, 
+            "done": true, 
+            "last_try_date": {
+                "$date": 1390847757410
+            }, 
+            "tries": 1, 
+            "url": "https://s3.amazonaws.com/shotput-captures/cd2ba625-2987-4def-83f4-ab2ae9256f4c.png"
+        }, 
+        "url": "http://nav.co/u-s-chamber-of-commerce/"
+    }, 
+    "date": {
+        "$date": 1390847757456
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "7d357ce9507997d801ef39e810edaede18630", 
+    "mime_type": "text/html", 
+    "name": "U.S. Chamber of Commerce \u00ab NAV", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 18630, 
+    "source": "http://nav.co/u-s-chamber-of-commerce/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/52e6a70d46540.html", 
+    "tags": [], 
+    "url_token": "a2FhZ"
+}

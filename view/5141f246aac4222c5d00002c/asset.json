@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "5141f246aac4222c5d00002c"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 700, 
+            "w": 585
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1363276360720
+            }, 
+            "display": {
+                "dims": {
+                    "h": "700", 
+                    "w": "585"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/3C8C8C07-98FA-4B24-898B-6D306839ABE6"
+            }, 
+            "postback_key": "2ef6bb9ee0a9561f592e8b64ebfe82ad", 
+            "request_time": {
+                "$date": 1363276358700
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "347", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/F56B3918-3120-4CA6-83A0-D7B98BAB8519"
+            }
+        }, 
+        "url": "http://www.petapixel.com/assets/uploads/2013/03/volcano-2.jpg"
+    }, 
+    "date": {
+        "$date": 1363276358744
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "603209c1737f5b1b9dcd3c30d357be46165332", 
+    "mime_type": "image/jpeg", 
+    "name": "Epic Pictures of the Sakurajima Volcano Erupting in Japan", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 165332, 
+    "source": "http://www.petapixel.com/2013/03/14/epic-pictures-of-the-sakurajima-volcano-erupting-in-japan/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/5141f2465c5d2.jpg", 
+    "tags": [], 
+    "url_token": "ao_TK"
+}

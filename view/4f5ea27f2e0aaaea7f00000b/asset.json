@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f5ea27f2e0aaaea7f00000b"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1331578762993
+            }, 
+            "display": {
+                "dims": {
+                    "h": "330", 
+                    "w": "480"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/37448C01-0A5D-41F4-95F7-45BEC3F186D4"
+            }, 
+            "postback_key": "566b5e525c500e19d77127cde32b622d", 
+            "request_time": {
+                "$date": 1331578761172
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "199", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/57DC3836-29C7-4995-930B-605A2660B4D9"
+            }
+        }, 
+        "url": "http://img.ffffound.com/static-data/assets/6/1c4205de2c4f9d742d5c09ec1105a35f899e9948_m.jpg"
+    }, 
+    "date": {
+        "$date": 1331602047837
+    }, 
+    "description": "Take an image and cut out pieces of it and reorder them. ", 
+    "from_backup": false, 
+    "media_hash": "66f0bbd4d137d520d42087d1f106eba245494", 
+    "mime_type": "image/jpeg", 
+    "name": "FFFFOUND! | Your Daily Fix", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 45494, 
+    "source": "http://ffffound.com/image/1c4205de2c4f9d742d5c09ec1105a35f899e9948", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f5e4788bdd4c.jpg", 
+    "tags": [], 
+    "url_token": "wAZB"
+}

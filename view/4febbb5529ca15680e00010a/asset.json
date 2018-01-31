@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4febbb5529ca15680e00010a"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 368, 
+            "w": 600
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1340833220125
+            }, 
+            "display": {
+                "dims": {
+                    "h": "368", 
+                    "w": "600"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/D5BBA738-68EC-4E41-97A4-AE12E43C051E"
+            }, 
+            "postback_key": "648cdc0b18f45ce9a015d6cf5c05e466", 
+            "request_time": {
+                "$date": 1340833218734
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "178", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/00BDAB70-115E-4758-AFBA-EF8597A2EA73"
+            }
+        }, 
+        "url": "http://farm8.staticflickr.com/7142/6754641147_9da5837141_z.jpg"
+    }, 
+    "date": {
+        "$date": 1340848981385
+    }, 
+    "description": "Cosmonaut", 
+    "from_backup": null, 
+    "media_hash": "d937cf29a215e9e64d6190c2a62efc9546247", 
+    "mime_type": "image/jpeg", 
+    "name": "6754641147_9da5837141_z.jpg (600\u00d7368)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 46247, 
+    "source": "http://farm8.staticflickr.com/7142/6754641147_9da5837141_z.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4feb7dc26626e.jpg", 
+    "tags": [], 
+    "url_token": "Pj6l"
+}

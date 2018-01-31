@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbf3432f0aaae105000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325134647926
+            }, 
+            "display": {
+                "dims": {
+                    "h": "642", 
+                    "w": "676"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/05F13D43-01CC-46B5-AEC5-027B58E18FE5"
+            }, 
+            "postback_key": "36de477a410af269cb1c52b5ae2a158a", 
+            "request_time": {
+                "$date": 1325134659477
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "275", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/A4851DBA-FB84-4CE9-BDB5-327AD13614B6"
+            }
+        }, 
+        "url": "http://www.zeutch.com/wp-content/uploads/2010/10/82.jpg"
+    }, 
+    "date": {
+        "$date": 1325134659513
+    }, 
+    "description": "An Uncommon Squirrel #monocle #tophat", 
+    "from_backup": false, 
+    "media_hash": "dd7fd779364b1a61065fe363bfe0a9b4199199", 
+    "mime_type": "image/jpeg", 
+    "name": "82.jpg (676\u00d7642)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 199199, 
+    "source": "http://www.zeutch.com/wp-content/uploads/2010/10/82.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbf3431007f.jpg", 
+    "tags": [
+        "monocle", 
+        "tophat"
+    ], 
+    "url_token": "lp46"
+}

@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f319f302e0aaa587f00001b"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1314454011252
+            }, 
+            "display": {
+                "dims": {
+                    "h": "1", 
+                    "w": "1"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/974D3C47-869C-46EE-BB8D-C113333BD582"
+            }, 
+            "postback_key": "16aac1c3ab100dcec4b33d7dbbf14858", 
+            "request_time": {
+                "$date": 1314453960351
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "1", 
+                    "w": "1"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/E7D3F489-DC3C-4F44-8776-FBDEA2BBFC5D"
+            }
+        }, 
+        "url": "http://twelvesouth.com/static/images/lightbox-blank.gif"
+    }, 
+    "date": {
+        "$date": 1328652080164
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "fc94fb0c3ed8a8f909dbc7630a0987ff43", 
+    "mime_type": "image/gif", 
+    "name": "\"Night Watch 1\" by Paul Lee | RedBubble", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 43, 
+    "source": "http://www.redbubble.com/people/paulleecreative/works/8089393-night-watch-1", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e58f9c805e1a.gif", 
+    "tags": [], 
+    "url_token": "rrsR"
+}

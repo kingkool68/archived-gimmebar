@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "51f169d7aac4229b7c000002"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 392, 
+            "w": 620
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1374775768044
+            }, 
+            "display": {
+                "dims": {
+                    "h": "392", 
+                    "w": "620"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/94959813-5D41-4581-8E2E-4F1DEA125EBE"
+            }, 
+            "postback_key": "9fcf98a0aa60dbf2a97d8b76f622c5ba", 
+            "request_time": {
+                "$date": 1374775766417
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "183", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C1F7F52C-E1E7-4E1B-8EDA-265374474D19"
+            }
+        }, 
+        "url": "http://i0.wp.com/petapixel.com/assets/uploads/2013/07/lpkata2.jpg?resize=620%2C392"
+    }, 
+    "date": {
+        "$date": 1374775766427
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "8f140abee4cbacb38f703f29db84e07468417", 
+    "mime_type": "image/jpeg", 
+    "name": "Beautiful Abstract Light Paintings Created With Lighted Swords in Pitch Darkness", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 68417, 
+    "source": "http://petapixel.com/2013/07/25/beautiful-abstract-light-paintings-created-with-lighted-swords-in-pitch-black/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/51f169d61df31.jpg", 
+    "tags": [], 
+    "url_token": "aHR4N"
+}

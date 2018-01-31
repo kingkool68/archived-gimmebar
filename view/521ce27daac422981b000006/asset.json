@@ -1,0 +1,56 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "521ce27daac422981b000006"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "dimensions": {
+            "h": 903, 
+            "w": 677
+        }, 
+        "shotput": {
+            "complete": {
+                "$date": 1377624835624
+            }, 
+            "display": {
+                "dims": {
+                    "h": "903", 
+                    "w": "677"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B486AC25-6B93-4DE6-8ECB-1AD2324652F9"
+            }, 
+            "postback_key": "03254f70e8b09fb3d9bab6188c55f5a1", 
+            "request_time": {
+                "$date": 1377624701720
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "387", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/57D56D96-A125-4143-8BE9-FA139DB8AE31"
+            }
+        }, 
+        "url": "http://cdn1.dolimg.com/en-US/blogs/wp-content/uploads/2013/08/scrooge_dk_variant-01.jpg"
+    }, 
+    "date": {
+        "$date": 1377624701726
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "173e9df1e30e12f2612ef85b73421c7c185596", 
+    "mime_type": "image/jpeg", 
+    "name": "These Mondo DuckTales Posters Are Everything | Oh My Disney", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 185596, 
+    "source": "http://blogs.disney.com/oh-my-disney/2013/08/27/these-mondo-ducktales-posters-are-everything/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/521ce27d52e5f.jpg", 
+    "tags": [], 
+    "url_token": "aLINK"
+}

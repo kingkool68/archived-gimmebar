@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4e9240902f0aaa2d5b00000f"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1318020661980
+            }, 
+            "display": {
+                "dims": {
+                    "h": "563", 
+                    "w": "1000"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/6E314781-AABD-48BF-998B-9A110845CAF5"
+            }, 
+            "postback_key": "8d3c31d0d41eae5eb31c3420f88726dd", 
+            "request_time": {
+                "$date": 1318020654078
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "163", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5CE92900-5460-4724-B6A2-A4D36B7C57A2"
+            }
+        }, 
+        "url": "http://dribbble.s3.amazonaws.com/users/2306/screenshots/286479/attachments/10948/realartistsship2560x1440.jpg"
+    }, 
+    "copy_of": "4e8f662e2e0aaa384f000014", 
+    "date": {
+        "$date": 1318207632835
+    }, 
+    "description": "", 
+    "media_hash": "43e0143662fb352f602cb9a80cb3e3523964462", 
+    "mime_type": "image/jpeg", 
+    "name": "Dribbble - realartistsship2560x1440.jpg by Andrew Power", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 3964462, 
+    "source": "http://dribbble.com/shots/286479-Real-Artists-Ship/attachments/10948", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4e8f662d2f1f0.jpg", 
+    "tags": [], 
+    "url_token": "bk.J"
+}

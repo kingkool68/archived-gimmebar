@@ -1,0 +1,53 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efbd65e2f0aaa6f39000002"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325127257095
+            }, 
+            "display": {
+                "dims": {
+                    "h": "400", 
+                    "w": "261"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/EFEE35B0-9D30-45DD-9600-A3DDCE67DDEA"
+            }, 
+            "postback_key": "69e566fb34352c4b08a66fb8d448fc23", 
+            "request_time": {
+                "$date": 1325127262390
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "400", 
+                    "w": "261"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/C7FB1CFA-9B80-4739-806A-18CB186B3AA9"
+            }
+        }, 
+        "url": "http://www.danstiles.com/_img/posters/fotc-lg.jpg"
+    }, 
+    "date": {
+        "$date": 1325127262392
+    }, 
+    "description": "#robots", 
+    "from_backup": false, 
+    "media_hash": "3f47f786aa8c54404c7cbef02ecd4c1d29763", 
+    "mime_type": "image/jpeg", 
+    "name": "fotc-lg.jpg (261\u00d7400)", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 29763, 
+    "source": "http://www.danstiles.com/_img/posters/fotc-lg.jpg", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efbd65e0eeb1.jpg", 
+    "tags": [
+        "robots"
+    ], 
+    "url_token": "lplZ"
+}

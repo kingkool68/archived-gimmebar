@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4ecdb4cb300aaa1d52000050"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1322104052962
+            }, 
+            "display": {
+                "dims": {
+                    "h": "460", 
+                    "w": "636"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/B499135E-75D4-40C8-8FA5-4AD98B8F2EA5"
+            }, 
+            "postback_key": "e740d1705e2af3a38cb5be0d98cdfe0b", 
+            "request_time": {
+                "$date": 1322104011210
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "210", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/5744D97D-602E-407D-86D6-C7701358778C"
+            }
+        }, 
+        "url": "http://media.threadless.com//imgs/products/3455/636x460design_01.jpg"
+    }, 
+    "date": {
+        "$date": 1322104011212
+    }, 
+    "description": "Gumby made out of Bubble Gum. ", 
+    "from_backup": false, 
+    "media_hash": "c0ce396ef5ea3c9847e094d76b7ca53271552", 
+    "mime_type": "image/jpeg", 
+    "name": "\"Bubblegum B\" - Threadless.com - Best t-shirts in the world", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 71552, 
+    "source": "http://www.threadless.com/product/3455/Bubblegum_B_DTG?utm_medium=feed&utm_source=rss&utm_campaign=weekly", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4ecdb4cad23a9.jpg", 
+    "tags": [], 
+    "url_token": "f35C"
+}

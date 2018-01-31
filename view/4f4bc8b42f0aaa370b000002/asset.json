@@ -1,0 +1,54 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4f4bc8b42f0aaa370b000002"
+    }, 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1330366670268
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/743530D3-A870-44A0-9273-BB6C81105517"
+            }, 
+            "postback_key": "1e1e259bf42e6232bcafbc451ad0be3d", 
+            "request_time": {
+                "$date": 1330366644417
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/49E650C4-2226-4C19-B71E-79F8E4C56298"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/840C98F6-07AD-4686-9F90-3C018838AA7C"
+            }
+        }, 
+        "url": "http://paulrobertlloyd.com/about/styleguide/"
+    }, 
+    "date": {
+        "$date": 1330366644430
+    }, 
+    "description": "", 
+    "from_backup": false, 
+    "media_hash": "77e97a37d050aec78018a9d8215c1cbc38641", 
+    "mime_type": "text/html", 
+    "name": "Styleguide \u2014 Paul Robert Lloyd", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 38641, 
+    "source": "http://paulrobertlloyd.com/about/styleguide/", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4f4bc8b375d6f.html", 
+    "tags": [], 
+    "url_token": "utaM"
+}

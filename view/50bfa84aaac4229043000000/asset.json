@@ -1,0 +1,55 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "50bfa84aaac4229043000000"
+    }, 
+    "app_id": "2daa223cdf3eb171291d929d", 
+    "asset_type": "page", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1354737784323
+            }, 
+            "fullscreen": {
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/2A8B5E43-7A26-41EC-90FD-CCF90D5BB20B"
+            }, 
+            "postback_key": "00fbd56ad9125689d04157cb7edcfea3", 
+            "request_time": {
+                "$date": 1354737738462
+            }, 
+            "retried": [], 
+            "thumb": {
+                "dims": {
+                    "h": "400", 
+                    "w": "196"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/1008DF00-DF87-456F-B0ED-E6B31E3A6864"
+            }, 
+            "window": {
+                "dims": {
+                    "h": "425", 
+                    "w": "725"
+                }, 
+                "url": "http://s3.amazonaws.com/gimme-grabs-new/926A6367-33D7-4156-ACA0-D14BBE840F0F"
+            }
+        }, 
+        "url": "http://vimeo.com/53018096"
+    }, 
+    "date": {
+        "$date": 1354737738555
+    }, 
+    "description": "", 
+    "from_backup": null, 
+    "media_hash": "382654606dc09d7c73c337827d7f25d737172", 
+    "mime_type": "text/html", 
+    "name": "the Peak on Vimeo", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 37172, 
+    "source": "http://vimeo.com/53018096", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/50bfa84a10784.html", 
+    "tags": [], 
+    "url_token": "aagUq"
+}

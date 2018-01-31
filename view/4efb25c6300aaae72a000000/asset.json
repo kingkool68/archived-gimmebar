@@ -1,0 +1,51 @@
+{
+    "_apidate": "2011080100", 
+    "_id": {
+        "$oid": "4efb25c6300aaae72a000000"
+    }, 
+    "asset_type": "image", 
+    "avatar": false, 
+    "content": {
+        "shotput": {
+            "complete": {
+                "$date": 1325082063045
+            }, 
+            "display": {
+                "dims": {
+                    "h": "800", 
+                    "w": "606"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/8D8EC185-DEE6-43FB-A846-642B723CD646"
+            }, 
+            "postback_key": "ff3f3d8e38c92254f52881fe1280f89c", 
+            "request_time": {
+                "$date": 1325082054526
+            }, 
+            "retried": [], 
+            "stash": {
+                "dims": {
+                    "h": "383", 
+                    "w": "290"
+                }, 
+                "url": "http://s3.amazonaws.com/resized-images-new/681AA60F-3F05-4E81-ADFE-F0C75D94B9FB"
+            }
+        }, 
+        "url": "http://www.tumblr.com/photo/1280/14915460772/1/tumblr_lwudcyZzUa1qevys3"
+    }, 
+    "date": {
+        "$date": 1325082054553
+    }, 
+    "description": "Robot military machine.", 
+    "from_backup": false, 
+    "media_hash": "c3e5e8c8dd15ac5ec0e38664a07f51ee317369", 
+    "mime_type": "image/jpeg", 
+    "name": "cave bear cave \u2022 garabating: 250910 by *torei", 
+    "owner": "4e7cc08b2e0aaabe19000002", 
+    "private": false, 
+    "size": 317369, 
+    "source": "http://cavebearcave.tumblr.com/post/14915460772/250910-by-torei", 
+    "storage_engine": "s3_http", 
+    "storage_url": "http://gimmebar-assets.s3.amazonaws.com/4efb25c59490b.jpg", 
+    "tags": [], 
+    "url_token": "lkBD"
+}
